@@ -33,9 +33,5 @@
     "url": "git://github.com/acalvoa/geo.git"
   },
   "author": "acalvoa",
-  "license": "",
-  "devDependencies": {
-    "grunt-babel": "^6.0.0",
-    "load-grunt-tasks": "^3.4.0"
-  }
+  "license": ""
 }
