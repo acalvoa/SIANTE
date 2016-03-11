@@ -1,6 +1,6 @@
 <div app>
     <div map="map"></div>
-    <div panelizq>
+    <div panelderecho>
         <div layers map-target="map">
             <div prototype>
                 <div element>
@@ -8,8 +8,8 @@
                     <div label></div>
                 </div>
             </div>
-            <app name="layers" button><i class="fa fa-map-o"></i></app>
-            <div title>Capas Disponbiles</div>
+            <app name="layers" leyend="Base de información disponible" button><i class="fa fa-database"></i></app>
+            <div title>Bases de información</div>
             <div body></div>
         </div>
         <div cartography map-target="map">
@@ -19,16 +19,57 @@
                     <div label></div>
                 </div>
             </div>
-            <app name="cartography" button><i class="fa fa-map-marker"></i></app>
+            <app name="cartography" leyend="Cartografia Territorial" button><i class="fa fa-map-marker"></i></app>
             <div title>Cartografia</div>
             <div body>
             </div>
         </div>
         <div demo map-target="map">
-            <app name="demo" button><i class="fa fa-map-marker"></i></app>
-            <div title>Demo</div>
+            <app name="demo" leyend="Mezclador de Capas" button><i class="fa fa-rocket"></i></app>
+            <div title>Mezclador de Capas</div>
             <div body>
             </div>
+        </div>
+    </div>
+    <div panelizq>
+        <div views map-target="map">
+            <div prototype>
+                <div element>
+                    <div icon><i class="fa fa-plus-square-o"></i></div>
+                    <input type="checkbox" view-layer checked></input>
+                    <div layer-options><i class="fa fa-cog"></i></div>
+                    <div label></div>
+                    <div subbody>
+                        <div subprototype>
+                            <div subelement>
+                                <input type="checkbox" view-cartography checked></input>
+                                <div view-options>
+                                    <i class="fa fa-cog"></i>
+                                </div>
+                                <div label></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div option-prototype>
+                        <div option-title>Propiedades Objeto</div>
+                        <div option-relleno>
+                            <div option-label>Color Relleno:</div>
+                            <input type="color" fill-color/>
+                        </div> 
+                        <div option-borde>
+                            <div option-label>Color Borde:</div>
+                            <input type="color" border-color/>
+                        </div> 
+                        <div option-metadata>
+                            <div option-label>Metadata:</div>
+                            <input type="checkbox" metadata-check/>
+                        </div> 
+                    </div>
+                </div>
+            </div>
+            <app name="views" leyend="Capas Desplegadas" button><i class="fa fa-folder-o"></i></app>
+            <div vtitle>Capas Desplegadas</div>
+            <div body></div>
         </div>
     </div>
     <div buttons>
