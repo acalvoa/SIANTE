@@ -1,3 +1,3 @@
 # geo
 
-a [Sails](http://sailsjs.org) application
+Prototipo de proyección de capas cartograficas utilizando tecnologia googlemaps y HTML por reconocimiento de TAGS
