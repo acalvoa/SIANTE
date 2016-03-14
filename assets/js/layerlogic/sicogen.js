@@ -94,11 +94,19 @@
 					var key = Object.keys(_SETTINGS.DATA)[l];
 					var PRESUPUESTO = 0;
 					var EJECUTADO = 0;
+					var GRAPH = [];
 					for(i=0;i<_SETTINGS.DATA[key].ELEMENT.length;i++){
+						GRAPH.push({
+							value: _SETTINGS.DATA[key].ELEMENT[i].PRESUPUESTO,
+							color:_SETTINGS.SCALE[i+1],
+							highlight:_SETTINGS.SCALE[i+1],
+							label: _SETTINGS.DATA[key].ELEMENT[i].AREA
+						});
 						PRESUPUESTO += parseInt(_SETTINGS.DATA[key].ELEMENT[i].PRESUPUESTO);
 						EJECUTADO += parseInt(_SETTINGS.DATA[key].ELEMENT[i].EJECUCION);
 					}
 					_SETTINGS.DATA[key].PRESUPUESTO = PRESUPUESTO;
+					_SETTINGS.DATA[key].GRAPH = GRAPH;
 					_SETTINGS.DATA[key].EJECUTADO = EJECUTADO;
 					if(PRESUPUESTO < _SETTINGS.METADATA.MIN_PRESUPUESTO || _SETTINGS.METADATA.MIN_PRESUPUESTO == 0) _SETTINGS.METADATA.MIN_PRESUPUESTO = PRESUPUESTO;
 					if(PRESUPUESTO > _SETTINGS.METADATA.MAX_PRESUPUESTO || _SETTINGS.METADATA.MAX_PRESUPUESTO == 0) _SETTINGS.METADATA.MAX_PRESUPUESTO =  PRESUPUESTO;
@@ -133,6 +141,8 @@
 							_SETTINGS.LAYERS[num].LAYER_VIEW[l].addListener('mouseover', function(e) {
 								INFO.load(_SETTINGS.LAYERS[num].name+" - PRESUPUESTO", _SETTINGS.DATA[_SETTINGS.LAYERS[num].name].ELEMENT);
 								INFO.show(e.Ob.clientX, e.Ob.clientY);
+								var ctx = document.getElementById("chart-area").getContext("2d");
+								window.myPie = new Chart(ctx).Pie(_SETTINGS.DATA[_SETTINGS.LAYERS[num].name].GRAPH);
 							});	
 							_SETTINGS.LAYERS[num].LAYER_VIEW[l].addListener('mouseout', function(e) {
 								INFO.hide();
