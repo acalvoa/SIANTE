@@ -80,7 +80,14 @@
 				for(i=0;i<_SETTINGS.DB.length;i++){
 					if(_SETTINGS.CATEGORY.indexOf(_SETTINGS.DB[i].TIPO) == -1) _SETTINGS.CATEGORY.push(_SETTINGS.DB[i].TIPO);
 					if(typeof _SETTINGS.DATA[_SETTINGS.DB[i].COMUNA] != "undefined"){
-						_SETTINGS.DATA[_SETTINGS.DB[i].COMUNA].ELEMENT.push(_SETTINGS.DB[i]);
+						_SETTINGS.DATA[_SETTINGS.DB[i].COMUNA].ELEMENT.push({
+							SERVICIO: _SETTINGS.DB[i].SERVICIO,
+							TIPO: _SETTINGS.DB[i].TIPO,
+							"AÑO": _SETTINGS.DB[i].ANIO,
+							NOMBRE: _SETTINGS.DB[i].NOMBRE,
+							FICHA: "<a target='_blank' href='"+_SETTINGS.DB[i].FICHA+"' >Link</a>",
+							PDF: "<a target='_blank' href='"+_SETTINGS.DB[i].PDF+"' >Link</a>"
+						});
 					}
 				}
 				for(l=0;l<Object.keys(_SETTINGS.DATA).length;l++){
@@ -137,6 +144,10 @@
 							});	
 							_SETTINGS.LAYERS[num].LAYER_VIEW[l].addListener('mouseout', function(e) {
 								INFO.hide();
+							});
+							_SETTINGS.LAYERS[num].LAYER_VIEW[l].addListener('click', function(e) {
+								METADATA.load(_SETTINGS.LAYERS[num].name+" - Auditoias", _SETTINGS.DATA[_SETTINGS.LAYERS[num].name].ELEMENT);
+								METADATA.show();
 							});	
 						}
 						call(num,l);			
