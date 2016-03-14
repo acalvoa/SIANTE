@@ -5,7 +5,9 @@
 		// SETTINGS
 		var _SETTINGS = {
 			FILES: ["regional", "provincial", "comunal"],
-			LAYERS: {}
+			LAYERS: {},
+			STATUS: false,
+			stack: []
 
 		};
 		// CONSTRUCTOR
@@ -17,6 +19,7 @@
 			INIT: function(){
 				var body = $("div[cartography] div[body]");
 				var prototype = $("div[cartography] div[prototype]").remove().children("div[element]");
+				var loaded = 0;
 				_SETTINGS.FILES.forEach(function(element){
 					$.getJSON('cartography/'+element+'.json', function(data){
 						_SETTINGS.LAYERS[element] = [];
@@ -81,9 +84,19 @@
 							}
 							
 						});
+						//VERIFICAMOS QUE SEA LA ULTIMA CAPA EN CARGAR
+						if(++loaded == _SETTINGS.FILES.length){
+							_PRIVATE.CARTOGRAPHY_LOADED();
+						}
 					});
 				});
-				
+			},
+			CARTOGRAPHY_LOADED: function(){
+				_SETTINGS.STATUS = true;
+				for(var i=0;i<_SETTINGS.stack.length;i++){
+					var callback = _SETTINGS.stack[i];
+					callback();
+				}
 			}
 		};
 		//PUBLIC METHODS
@@ -106,6 +119,22 @@
 					}
 				}
 				VIEWS.remove(element);
+			},
+			get_layers: function(type){
+				if(typeof type == "undefined") return _SETTINGS.LAYERS;
+				if(typeof _SETTINGS.LAYERS[type] != "undefined"){
+					return _SETTINGS.LAYERS[type];
+				}
+				return null;
+			},
+			cartography_load: function(callback){
+				if(!_SETTINGS.STATUS){
+					_SETTINGS.stack.push(callback);
+				}
+				else
+				{
+					callback();
+				}
 			}
 		};
 		//CALL THE CONSTRUCTOR
