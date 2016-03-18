@@ -14,7 +14,7 @@
 				LOGIC: "SIAPER_L"
 			},{
 				LINK: "layers/sica.json",
-				NAME: "Sica - Audiorias",
+				NAME: "Sica - Auditorias",
 				LOGIC: "SICA_L"
 			}
 			],
