@@ -140,7 +140,12 @@
 							});
 							_SETTINGS.LAYERS[num].LAYER_VIEW[l].addListener('mouseover', function(e) {
 								INFO.load(_SETTINGS.LAYERS[num].name+" - AUDITORIAS", _SETTINGS.DATA[_SETTINGS.LAYERS[num].name].CATEGORIA);
-								INFO.show(e.Ob.clientX, e.Ob.clientY);
+								if(typeof e.Ob != "undefined"){
+									INFO.show(e.Ob.clientX, e.Ob.clientY);
+								}
+								else if(typeof e.Pb != "undefined"){
+									INFO.show(e.Pb.clientX, e.Pb.clientY);
+								}
 							});	
 							_SETTINGS.LAYERS[num].LAYER_VIEW[l].addListener('mouseout', function(e) {
 								INFO.hide();
