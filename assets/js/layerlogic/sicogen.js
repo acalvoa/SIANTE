@@ -140,6 +140,8 @@
 							});
 							_SETTINGS.LAYERS[num].LAYER_VIEW[l].addListener('mouseover', function(e) {
 								INFO.load(_SETTINGS.LAYERS[num].name+" - PRESUPUESTO", _SETTINGS.DATA[_SETTINGS.LAYERS[num].name].ELEMENT);
+								console.log(e);
+								console.log(JSON.stringify(e));
 								if(typeof e.Ob != "undefined"){
 									INFO.show(e.Ob.clientX, e.Ob.clientY);
 								}
