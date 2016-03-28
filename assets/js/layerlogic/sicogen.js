@@ -140,13 +140,14 @@
 							});
 							_SETTINGS.LAYERS[num].LAYER_VIEW[l].addListener('mouseover', function(e) {
 								INFO.load(_SETTINGS.LAYERS[num].name+" - PRESUPUESTO", _SETTINGS.DATA[_SETTINGS.LAYERS[num].name].ELEMENT);
-								console.log(e);
-								console.log(JSON.stringify(e));
 								if(typeof e.Ob != "undefined"){
 									INFO.show(e.Ob.clientX, e.Ob.clientY);
 								}
 								else if(typeof e.Pb != "undefined"){
 									INFO.show(e.Pb.clientX, e.Pb.clientY);
+								}
+								else if(typeof e.Qb != "undefined"){
+									INFO.show(e.Qb.clientX, e.Qb.clientY);
 								}
 								var ctx = document.getElementById("chart-area").getContext("2d");
 								window.myPie = new Chart(ctx).Pie(_SETTINGS.DATA[_SETTINGS.LAYERS[num].name].GRAPH);
