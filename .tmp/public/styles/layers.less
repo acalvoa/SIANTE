@@ -1,0 +1,39 @@
+div[layers]{
+	float: right;
+	height: auto;
+	width: 100%;
+	background: rgba(255,255,255,0.8);
+	border: 1px solid #999;
+	margin-bottom: 10px;
+	div[title]{
+		height: 35px;
+		width: ~'calc(100% - 15px)';
+		padding: 7.5px;
+		font-size: 0.8rem;
+		border-bottom: 1px solid #999;
+	}
+	div[body]{
+		height: auto;
+		min-height: 40px;
+		width: 100%;
+		padding: 5px;
+		div[element]{
+			height: 20px;
+			width: 100%;
+			position: relative;
+			div[label]{
+				height: 20px;
+				float: left;
+				width: auto;
+				font-size: 0.8rem;
+				padding-top: 2.5px;
+			}
+			input[option-cartography]{
+				float: left;
+				height: 15px;
+				width: 15px;
+				margin-right: 5px;
+			}
+		}
+	}
+}
