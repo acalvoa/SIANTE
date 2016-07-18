@@ -5,17 +5,21 @@
 		// SETTINGS
 		var _SETTINGS = {
 			KML: [{
-				LINK: "layers/sicogen.json",
-				NAME: "Sicogen - Presupuesto y Ejecución",
-				LOGIC : "SICOGEN_L"
-			},{
-				LINK: "layers/siaper.json",
-				NAME: "Siaper - Distribución de Personal",
-				LOGIC: "SIAPER_L"
-			},{
-				LINK: "layers/sica.json",
-				NAME: "Sica - Auditorias",
-				LOGIC: "SICA_L"
+			// 	LINK: "layers/sicogen.json",
+			// 	NAME: "Sicogen - Presupuesto y Ejecución",
+			// 	LOGIC : "SICOGEN_L"
+			// },{
+			// 	LINK: "layers/siaper.json",
+			// 	NAME: "Siaper - Distribución de Personal",
+			// 	LOGIC: "SIAPER_L"
+			// },{
+			// 	LINK: "layers/sica.json",
+			// 	NAME: "Sica - Auditorias",
+			// 	LOGIC: "SICA_L"
+			// },{
+				LINK: "layers/servicios.kml",
+				NAME: "Servicios Publicos",
+				LOGIC: "SERVICES_L"
 			}
 			],
 			APP: {}
