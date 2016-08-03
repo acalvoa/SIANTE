@@ -66,28 +66,31 @@
 		};
 		//PUBLIC METHODS
 		var _PUBLIC = {
-			convert: function(){
+			convert: function(layer){
 				$.ajax({
-					url: "layers/santiago.kml",
+					url: "layers/"+layer,
 					success: function(result){
-						var placemarks = result.getElementsByTagName("Placemark");
-						for(i=0;i<placemarks.length;i++){
-							var place = placemarks[i].getElementsByTagName("address")[0].innerHTML
-							$.ajax({
-							  	dataType: "json",
-							  	url: 'https://maps.googleapis.com/maps/api/geocode/json?address='+place,
-							  	async: false,
-							  	success: function(result2){
-									var coord = result2["results"][0]["geometry"]["location"];
-									var point = result.createElement("Point");
-									var coords = result.createElement("coordinates");
-									var coo = result.createTextNode(coord["lng"]+","+coord["lat"]);
-									coords.appendChild(coo);
-									point.appendChild(coords);
-									placemarks[i].appendChild(point);
-									console.log("Codificación exitosa");
-								}
-							});
+						var folder = result.getElementsByTagName("Folder");
+						for(k=0;k<folder.length;k++){
+							var placemarks = folder[k].getElementsByTagName("Placemark");
+							for(i=0;i<placemarks.length;i++){
+								var place = placemarks[i].getElementsByTagName("address")[0].innerHTML
+								$.ajax({
+								  	dataType: "json",
+								  	url: 'https://maps.googleapis.com/maps/api/geocode/json?address='+place,
+								  	async: false,
+								  	success: function(result2){
+										var coord = result2["results"][0]["geometry"]["location"];
+										var point = result.createElement("Point");
+										var coords = result.createElement("coordinates");
+										var coo = result.createTextNode(coord["lng"]+","+coord["lat"]);
+										coords.appendChild(coo);
+										point.appendChild(coords);
+										placemarks[i].appendChild(point);
+										console.log("Codificación exitosa");
+									}
+								});
+							}
 						}
 						console.log((new XMLSerializer()).serializeToString(result));
 					}
@@ -129,10 +132,10 @@
 				// LEYENDA.set(_SETTINGS.SCALE);
 			},
 			show: function(){
-				_SETTINGS.DATA = MAP.load_kml('/layers/servicios_santiago.kml',{
+				_SETTINGS.DATA = MAP.load_kml('/layers/servicios_metropolitana.kml',{
 					map:$("div[cartography]").attr("map-target")
 				});
-				LEYENDA.load("Leyenda - SICOGEN Deciles de Inversión");
+				LEYENDA.load("Leyenda - Servicios Publicos");
 				LEYENDA.set(_SETTINGS.SCALE);
 			},
 			hide: function(){
