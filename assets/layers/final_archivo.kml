@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Mapa sin nombre</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>archivo_prueba.xlsx</name>
+			<Placemark>
+				<name>METRO S.A</name>
+				<description><![CDATA[Dirección: Av. Libertador Bernardo O'Higgins 1414, Santiago, Santiago <br>Comuna: Santiago<br>Categoría (Capa): Empresas Públicas<br>Color: Amarillo ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Av. Libertador Bernardo O'Higgins 1414, Santiago, Santiago </value>
+					</Data>
+					<Data name="Comuna">
+						<value>Santiago</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Empresas Públicas</value>
+					</Data>
+					<Data name="Color">
+						<value>Amarillo </value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Libertador Bernardo O'Higgins 1414, Santiago, Santiago</address>
+			<Point><coordinates>-70.6555825,-33.445678</coordinates></Point></Placemark>
+			<Placemark>
+				<name>MUNICIPALIDAD DE HUECHURABA</name>
+				<description><![CDATA[Dirección: Premio Nobel 5555, Huechuraba, Santiago  <br>Comuna: Huechuraba <br>Categoría (Capa): Sector Municipal<br>Color: Azul]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Premio Nobel 5555, Huechuraba, Santiago  </value>
+					</Data>
+					<Data name="Comuna">
+						<value>Huechuraba </value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Municipal</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Premio Nobel 5555, Huechuraba, Santiago</address>
+			<Point><coordinates>-70.6352284,-33.3748602</coordinates></Point></Placemark>
+			<Placemark>
+				<name>MUNICIPALIDAD DE LA CISTERNA</name>
+				<description><![CDATA[Dirección: Pedro Aguirre Cerda 0161, La Cisterna, Santiago <br>Comuna: La Cisterna<br>Categoría (Capa): Sector Municipal<br>Color: Azul]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Pedro Aguirre Cerda 0161, La Cisterna, Santiago </value>
+					</Data>
+					<Data name="Comuna">
+						<value>La Cisterna</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Municipal</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Pedro Aguirre Cerda 0161, La Cisterna, Santiago</address>
+			<Point><coordinates>-70.6655002,-33.5346977</coordinates></Point></Placemark>
+			<Placemark>
+				<name>CARABINEROS DE CHILE - HOSPITAL DE CARABINEROS</name>
+				<description><![CDATA[Dirección: Antonio Varas 2500, Ñuñoa, Santiago <br>Comuna: Ñuñoa<br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Antonio Varas 2500, Ñuñoa, Santiago </value>
+					</Data>
+					<Data name="Comuna">
+						<value>Ñuñoa</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Antonio Varas 2500, Ñuñoa, Santiago</address>
+			<Point><coordinates>-70.6100865,-33.4501134</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DEFENSORIA REGIONAL METROPOLITANA NORTE</name>
+				<description><![CDATA[Dirección: Pedro Montt 1606, Santiago, Santiago<br>Comuna: Santiago<br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Pedro Montt 1606, Santiago, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Santiago</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Pedro Montt 1606, Santiago, Santiago</address>
+			<Point><coordinates>-70.6579419,-33.4737972</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL DE GENDARMERIA METROPOLITANA</name>
+				<description><![CDATA[Dirección: Avda. Vicuña Mackenna 5065, San Joaquín, Santiago<br>Comuna: San Joaquín <br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Avda. Vicuña Mackenna 5065, San Joaquín, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>San Joaquín </value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avda. Vicuña Mackenna 5065, San Joaquín, Santiago</address>
+			<Point><coordinates>-70.6155552,-33.5016574</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL CLINICO DOCTOR FELIX BULNES CERDA</name>
+				<description><![CDATA[Dirección: Leoncio Fernández 2655, Quinta Normal, Santiago<br>Comuna: Quinta Normal<br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Leoncio Fernández 2655, Quinta Normal, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Quinta Normal</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Leoncio Fernández 2655, Quinta Normal, Santiago</address>
+			<Point><coordinates>-70.6966945,-33.415296</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL DEL SALVADOR</name>
+				<description><![CDATA[Dirección: Av. Salvador 364, Providencia, Santiago<br>Comuna: Providencia <br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Av. Salvador 364, Providencia, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Providencia </value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Salvador 364, Providencia, Santiago</address>
+			<Point><coordinates>-70.6253674,-33.4371412</coordinates></Point></Placemark>
+			<Placemark>
+				<name>PARQUE METROPOLITANO DE SANTIAGO</name>
+				<description><![CDATA[Dirección: Calle Pio Nono 450, P 2, Recoleta, Santiago<br>Comuna: Recoleta<br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Calle Pio Nono 450, P 2, Recoleta, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Recoleta</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Calle Pio Nono 450, P 2, Recoleta, Santiago</address>
+			<Point><coordinates>-70.6363011,-33.4307336</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE ECONOMIA, FOMENTO Y TURISMO METROPOLITANA</name>
+				<description><![CDATA[Dirección: Av. Libertador Bdo. O”Higgins 1449, Torre 2, Santiago, Santiago<br>Comuna: Santiago<br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Av. Libertador Bdo. O”Higgins 1449, Torre 2, Santiago, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Santiago</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Libertador Bdo. O”Higgins 1449, Torre 2, Santiago, Santiago</address>
+			<Point><coordinates>-70.7073632,-33.5846682</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SERVICIO DE SALUD METROPOLITANO OCCIDENTE</name>
+				<description><![CDATA[Dirección: Avda Liber Bernardo O`Higgins 2429, Santiago, Santiago<br>Comuna: Santiago<br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Avda Liber Bernardo O`Higgins 2429, Santiago, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Santiago</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avda Liber Bernardo O`Higgins 2429, Santiago, Santiago</address>
+			<Point><coordinates>-70.6695104,-33.4482174</coordinates></Point></Placemark>
+			<Placemark>
+				<name>UNIVERSIDAD DE CHILE FACULTAD DE DERECHO</name>
+				<description><![CDATA[Dirección: Pío Nono 1, Providencia, Santiago<br>Comuna: Providencia <br>Categoría (Capa): Universidades <br>Color: Rojo]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Pío Nono 1, Providencia, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Providencia </value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Universidades </value>
+					</Data>
+					<Data name="Color">
+						<value>Rojo</value>
+					</Data>
+				</ExtendedData>
+				<address>Pío Nono 1, Providencia, Santiago</address>
+			<Point><coordinates>-70.6354934,-33.4349679</coordinates></Point></Placemark>
+			<Placemark>
+				<name>UNIVERSIDAD DE CHILE FACULTAD DE MEDICINA</name>
+				<description><![CDATA[Dirección: Av. Independencia 1027, Independencia, Santiago<br>Comuna: Independencia <br>Categoría (Capa): Universidades <br>Color: Rojo]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Av. Independencia 1027, Independencia, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Independencia </value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Universidades </value>
+					</Data>
+					<Data name="Color">
+						<value>Rojo</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Independencia 1027, Independencia, Santiago</address>
+			<Point><coordinates>-70.6558393,-33.4194071</coordinates></Point></Placemark>
+			<Placemark>
+				<name>UNIVERSIDAD DE SANTIAGO DE CHILE</name>
+				<description><![CDATA[Dirección: Av. Libertador Bernardo O`Higgins 3363, Santiago, Santiago<br>Comuna: Santiago<br>Categoría (Capa): Universidades <br>Color: Rojo]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Av. Libertador Bernardo O`Higgins 3363, Santiago, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Santiago</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Universidades </value>
+					</Data>
+					<Data name="Color">
+						<value>Rojo</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Libertador Bernardo O`Higgins 3363, Santiago, Santiago</address>
+			<Point><coordinates>-70.67974950000001,-33.4509046</coordinates></Point></Placemark>
+			<Placemark>
+				<name>UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION</name>
+				<description><![CDATA[Dirección: Av. José Pedro Alessandri 774, Ñuñoa, Santiago<br>Comuna: Ñuñoa<br>Categoría (Capa): Universidades <br>Color: Rojo]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Av. José Pedro Alessandri 774, Ñuñoa, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Ñuñoa</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Universidades </value>
+					</Data>
+					<Data name="Color">
+						<value>Rojo</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. José Pedro Alessandri 774, Ñuñoa, Santiago</address>
+			<Point><coordinates>-70.5979897,-33.4613887</coordinates></Point></Placemark>
+		</Folder>
+		<Folder>
+			<name>archivo_prueba.xlsx</name>
+			<Placemark>
+				<name>MUNICIPALIDAD DE HUECHURABA</name>
+				<description><![CDATA[Dirección: Premio Nobel 5555, Huechuraba, Santiago  <br>Comuna: Huechuraba <br>Categoría (Capa): Sector Municipal<br>Color: Azul]]></description>
+				<styleUrl>#icon-503-DB4437</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Premio Nobel 5555, Huechuraba, Santiago  </value>
+					</Data>
+					<Data name="Comuna">
+						<value>Huechuraba </value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Municipal</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Premio Nobel 5555, Huechuraba, Santiago</address>
+			<Point><coordinates>-70.6352284,-33.3748602</coordinates></Point></Placemark>
+			<Placemark>
+				<name>MUNICIPALIDAD DE LA CISTERNA</name>
+				<description><![CDATA[Dirección: Pedro Aguirre Cerda 0161, La Cisterna, Santiago <br>Comuna: La Cisterna<br>Categoría (Capa): Sector Municipal<br>Color: Azul]]></description>
+				<styleUrl>#icon-503-DB4437</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Pedro Aguirre Cerda 0161, La Cisterna, Santiago </value>
+					</Data>
+					<Data name="Comuna">
+						<value>La Cisterna</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Municipal</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Pedro Aguirre Cerda 0161, La Cisterna, Santiago</address>
+			<Point><coordinates>-70.6655002,-33.5346977</coordinates></Point></Placemark>
+		</Folder>
+		<Folder>
+			<name>archivo_prueba.xlsx</name>
+			<Placemark>
+				<name>CARABINEROS DE CHILE - HOSPITAL DE CARABINEROS</name>
+				<description><![CDATA[Dirección: Antonio Varas 2500, Ñuñoa, Santiago <br>Comuna: Ñuñoa<br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Antonio Varas 2500, Ñuñoa, Santiago </value>
+					</Data>
+					<Data name="Comuna">
+						<value>Ñuñoa</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Antonio Varas 2500, Ñuñoa, Santiago</address>
+			<Point><coordinates>-70.6100865,-33.4501134</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DEFENSORIA REGIONAL METROPOLITANA NORTE</name>
+				<description><![CDATA[Dirección: Pedro Montt 1606, Santiago, Santiago<br>Comuna: Santiago<br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Pedro Montt 1606, Santiago, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Santiago</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Pedro Montt 1606, Santiago, Santiago</address>
+			<Point><coordinates>-70.6579419,-33.4737972</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL DE GENDARMERIA METROPOLITANA</name>
+				<description><![CDATA[Dirección: Avda. Vicuña Mackenna 5065, San Joaquín, Santiago<br>Comuna: San Joaquín <br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Avda. Vicuña Mackenna 5065, San Joaquín, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>San Joaquín </value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avda. Vicuña Mackenna 5065, San Joaquín, Santiago</address>
+			<Point><coordinates>-70.6155552,-33.5016574</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL CLINICO DOCTOR FELIX BULNES CERDA</name>
+				<description><![CDATA[Dirección: Leoncio Fernández 2655, Quinta Normal, Santiago<br>Comuna: Quinta Normal<br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Leoncio Fernández 2655, Quinta Normal, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Quinta Normal</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Leoncio Fernández 2655, Quinta Normal, Santiago</address>
+			<Point><coordinates>-70.6966945,-33.415296</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL DEL SALVADOR</name>
+				<description><![CDATA[Dirección: Av. Salvador 364, Providencia, Santiago<br>Comuna: Providencia <br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Av. Salvador 364, Providencia, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Providencia </value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Salvador 364, Providencia, Santiago</address>
+			<Point><coordinates>-70.6253674,-33.4371412</coordinates></Point></Placemark>
+			<Placemark>
+				<name>PARQUE METROPOLITANO DE SANTIAGO</name>
+				<description><![CDATA[Dirección: Calle Pio Nono 450, P 2, Recoleta, Santiago<br>Comuna: Recoleta<br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Calle Pio Nono 450, P 2, Recoleta, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Recoleta</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Calle Pio Nono 450, P 2, Recoleta, Santiago</address>
+			<Point><coordinates>-70.6363011,-33.4307336</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE ECONOMIA, FOMENTO Y TURISMO METROPOLITANA</name>
+				<description><![CDATA[Dirección: Av. Libertador Bdo. O”Higgins 1449, Torre 2, Santiago, Santiago<br>Comuna: Santiago<br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Av. Libertador Bdo. O”Higgins 1449, Torre 2, Santiago, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Santiago</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Libertador Bdo. O”Higgins 1449, Torre 2, Santiago, Santiago</address>
+			<Point><coordinates>-70.7073632,-33.5846682</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SERVICIO DE SALUD METROPOLITANO OCCIDENTE</name>
+				<description><![CDATA[Dirección: Avda Liber Bernardo O`Higgins 2429, Santiago, Santiago<br>Comuna: Santiago<br>Categoría (Capa): Sector Público<br>Color: Verde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name="Dirección">
+						<value>Avda Liber Bernardo O`Higgins 2429, Santiago, Santiago</value>
+					</Data>
+					<Data name="Comuna">
+						<value>Santiago</value>
+					</Data>
+					<Data name="Categoría (Capa)">
+						<value>Sector Público</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avda Liber Bernardo O`Higgins 2429, Santiago, Santiago</address>
+			<Point><coordinates>-70.6695104,-33.4482174</coordinates></Point></Placemark>
+		</Folder>
+		<Style id="icon-503-DB4436-normal">
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/ms/icons/green.png</href>
+				</Icon>
+				<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels">
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="icon-503-DB4436-highlight">
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/ms/icons/green.png</href>
+				</Icon>
+				<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels">
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="icon-503-DB4437-normal">
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/ms/icons/yellow.png</href>
+				</Icon>
+				<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels">
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="icon-503-DB4437-highlight">
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/ms/icons/yellow.png</href>
+				</Icon>
+				<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels">
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id="icon-503-DB4437">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4437-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4437-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
