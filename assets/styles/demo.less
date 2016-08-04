@@ -1,0 +1,35 @@
+div[metadata]{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 70%;
+	margin-left: -35%;
+	height: 400px;
+	margin-top: -200px;
+	background: rgba(255,255,255,0.8);
+	border: 1px solid #999;
+	margin-bottom: 10px;
+	z-index: 1000;
+	font-size: 0.7rem;
+	overflow-x: scroll;
+	overflow-y: scroll;
+	div[title]{
+		padding: 7.5px;
+		height: 35px;
+		width: ~'calc(100% - 15px)';
+		font-size: 0.8rem;
+		border-bottom: 1px solid #999;
+	}
+	div[body]{
+		height: auto;
+		min-height: 40px;
+		width: 100%;
+		padding: 7.5px 5px;
+		font-size: 0.7rem;
+		th,td{
+			padding-left: 5px;
+			padding-right: 5px;
+			font-size: 0.6rem;
+		}
+	}
+}
