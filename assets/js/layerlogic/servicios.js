@@ -157,7 +157,7 @@
 						console.log((new XMLSerializer()).serializeToString(result));
 					}
 				});
-			}
+			},
 			show: function(){
 				_SETTINGS.DATA = MAP.load_kml('/layers/servicios_metropolitana.kml',{
 					map:$("div[cartography]").attr("map-target")
