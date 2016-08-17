@@ -1,0 +1,3610 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Mapa sin nombre</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>capa_verde</name>
+			<Placemark>
+				<name>CENTRO DE REFERENCIA DE SALUD DE MAIPU</name>
+				<description><![CDATA[PADRE: MINISTERIO DE SALUD<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: CENTRO DE REFERENCIA DE SALUD DE MAIPU<br>DIRECCION: Av. Camino a Rinconada N° 1001, Maipu, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE SALUD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>CENTRO DE REFERENCIA DE SALUD DE MAIPU</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Camino a Rinconada N° 1001, Maipu, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Camino a Rinconada N° 1001, Maipu, Santiago</address>
+			<Point><coordinates>-70.77124529999999,-33.5089798</coordinates></Point></Placemark>
+			<Placemark>
+				<name>CENTRO DE REFERENCIA DE SALUD PEÑALOLEN CORDILLERA ORIENTE</name>
+				<description><![CDATA[PADRE: MINISTERIO DE SALUD<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: CENTRO DE REFERENCIA DE SALUD PEÑALOLEN CORDILLERA ORIENTE<br>DIRECCION: Av. Las Torres N° 5100, Peñalolen, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE SALUD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>CENTRO DE REFERENCIA DE SALUD PEÑALOLEN CORDILLERA ORIENTE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Las Torres N° 5100, Peñalolen, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Las Torres N° 5100, Peñalolen, Santiago</address>
+			<Point><coordinates>-70.57984809999999,-33.5014656</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL DOCTOR SOTERO DEL RIO</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO SUR ORIENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL DOCTOR SOTERO DEL RIO<br>DIRECCION: Av. Concha Y Toro N° 3459, Puente Alto, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO SUR ORIENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL DOCTOR SOTERO DEL RIO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Concha Y Toro N° 3459, Puente Alto, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Concha Y Toro N° 3459, Puente Alto, Santiago</address>
+			<Point><coordinates>-70.5819017,-33.5780248</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL CNCA METROPOLITANA</name>
+				<description><![CDATA[PADRE: CONSEJO NACIONAL DE LA CULTURA Y LAS ARTES<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 1<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL CNCA METROPOLITANA<br>DIRECCION: Paseo Ahumada N° 11, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>CONSEJO NACIONAL DE LA CULTURA Y LAS ARTES</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 1</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL CNCA METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Paseo Ahumada N° 11, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Paseo Ahumada N° 11, Santiago , Santiago</address>
+			<Point><coordinates>-70.6504109,-33.4435131</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL DE AEROPUERTOS METROPOLITANA</name>
+				<description><![CDATA[PADRE: DIRECCION DE AEROPUERTOS<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DIR_COMITE 1<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL DE AEROPUERTOS METROPOLITANA<br>DIRECCION: Aguas Claras S/N, Pudahuel, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>DIRECCION DE AEROPUERTOS</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DIR_COMITE 1</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL DE AEROPUERTOS METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Aguas Claras S/N, Pudahuel, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Aguas Claras S/N, Pudahuel, Santiago</address>
+			<Point><coordinates>-70.8031439,-33.3586002</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL DE ARQUITECTURA METROPOLITANA</name>
+				<description><![CDATA[PADRE: DIRECCION DE ARQUITECTURA NIVEL CENTRAL<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DIR_COMITE 1<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL DE ARQUITECTURA METROPOLITANA<br>DIRECCION: Bombero Salas N° 1351 , Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>DIRECCION DE ARQUITECTURA NIVEL CENTRAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DIR_COMITE 1</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL DE ARQUITECTURA METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Bombero Salas N° 1351 , Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Bombero Salas N° 1351 , Santiago , Santiago</address>
+			<Point><coordinates>-70.6555465,-33.44176700000001</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION DE CONTABILIDAD Y FINANZAS - METROPOLITANO</name>
+				<description><![CDATA[PADRE: MINISTERIO DE OBRAS PUBLICAS<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DIR_COMITE 1<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION DE CONTABILIDAD Y FINANZAS - METROPOLITANO<br>DIRECCION: Morandé N° 59, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE OBRAS PUBLICAS</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DIR_COMITE 1</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION DE CONTABILIDAD Y FINANZAS - METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Morandé N° 59, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Morandé N° 59, Santiago , Santiago</address>
+			<Point><coordinates>-70.65293129999999,-33.4429959</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL DE OBRAS HIDRAULICAS METROPOLITANA</name>
+				<description><![CDATA[PADRE: DIRECCION DE OBRAS HIDRAULICAS NIVEL CENTRAL<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DIR_COMITE 1<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL DE OBRAS HIDRAULICAS METROPOLITANA<br>DIRECCION: Bandera N° 84, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>DIRECCION DE OBRAS HIDRAULICAS NIVEL CENTRAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DIR_COMITE 1</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL DE OBRAS HIDRAULICAS METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Bandera N° 84, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Bandera N° 84, Santiago , Santiago</address>
+			<Point><coordinates>-70.6520317,-33.4423358</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION DE PLANEAMIENTO - METROPOLITANO</name>
+				<description><![CDATA[PADRE: DIRECCION DE PLANEAMIENTO<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DIR_COMITE 1<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION DE PLANEAMIENTO - METROPOLITANO<br>DIRECCION: Bombero Salas N° 1351 , Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>DIRECCION DE PLANEAMIENTO</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DIR_COMITE 1</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION DE PLANEAMIENTO - METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Bombero Salas N° 1351 , Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Bombero Salas N° 1351 , Santiago , Santiago</address>
+			<Point><coordinates>-70.6555465,-33.44176700000001</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL DE VIALIDAD METROPOLITANA</name>
+				<description><![CDATA[PADRE: DIRECCION DE VIALIDAD NIVEL CENTRAL<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL DE VIALIDAD METROPOLITANA<br>DIRECCION: Bombero Salas N° 1351 , Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>DIRECCION DE VIALIDAD NIVEL CENTRAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL DE VIALIDAD METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Bombero Salas N° 1351 , Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Bombero Salas N° 1351 , Santiago , Santiago</address>
+			<Point><coordinates>-70.6555465,-33.44176700000001</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL DE AGUAS REGION METROPOLITANA</name>
+				<description><![CDATA[PADRE: DIRECCION GENERAL DE AGUAS<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DIR_COMITE 1<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL DE AGUAS REGION METROPOLITANA<br>DIRECCION: Bombero Salas N° 1351 , Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>DIRECCION GENERAL DE AGUAS</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DIR_COMITE 1</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL DE AGUAS REGION METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Bombero Salas N° 1351 , Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Bombero Salas N° 1351 , Santiago , Santiago</address>
+			<Point><coordinates>-70.6555465,-33.44176700000001</coordinates></Point></Placemark>
+			<Placemark>
+				<name>GOBERNACION DE CHACABUCO</name>
+				<description><![CDATA[PADRE: INTENDENCIA METROPOLITANA<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: GOBERNACION DE CHACABUCO<br>DIRECCION: Carretera General San Martín N° 253, Colina, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>INTENDENCIA METROPOLITANA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>GOBERNACION DE CHACABUCO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Carretera General San Martín N° 253, Colina, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Carretera General San Martín N° 253, Colina, Santiago</address>
+			<Point><coordinates>-70.6781196,-33.2073071</coordinates></Point></Placemark>
+			<Placemark>
+				<name>GOBERNACION DE CORDILLERA</name>
+				<description><![CDATA[PADRE: INTENDENCIA METROPOLITANA<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: GOBERNACION DE CORDILLERA<br>DIRECCION: Concha y Toro N° 461, Puente Alto, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>INTENDENCIA METROPOLITANA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>GOBERNACION DE CORDILLERA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Concha y Toro N° 461, Puente Alto, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Concha y Toro N° 461, Puente Alto, Santiago</address>
+			<Point><coordinates>-70.5762139,-33.6079016</coordinates></Point></Placemark>
+			<Placemark>
+				<name>GOBERNACION DE MAIPO</name>
+				<description><![CDATA[PADRE: INTENDENCIA METROPOLITANA<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: GOBERNACION DE MAIPO<br>DIRECCION: Freire N° 493, San Bernardo, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>INTENDENCIA METROPOLITANA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>GOBERNACION DE MAIPO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Freire N° 493, San Bernardo, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Freire N° 493, San Bernardo, Santiago</address>
+			<Point><coordinates>-70.7039964,-33.5927781</coordinates></Point></Placemark>
+			<Placemark>
+				<name>GOBERNACION DE MELIPILLA</name>
+				<description><![CDATA[PADRE: INTENDENCIA METROPOLITANA<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: GOBERNACION DE MELIPILLA<br>DIRECCION: Ortúzar N° 336, Melipilla, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>INTENDENCIA METROPOLITANA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>GOBERNACION DE MELIPILLA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Ortúzar N° 336, Melipilla, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Ortúzar N° 336, Melipilla, Santiago</address>
+			<Point><coordinates>-71.215267,-33.6841895</coordinates></Point></Placemark>
+			<Placemark>
+				<name>GOBERNACION DE TALAGANTE</name>
+				<description><![CDATA[PADRE: INTENDENCIA METROPOLITANA<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: GOBERNACION DE TALAGANTE<br>DIRECCION: Avda. O´Higgins N° 1178, Talagante, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>INTENDENCIA METROPOLITANA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>GOBERNACION DE TALAGANTE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avda. O´Higgins N° 1178, Talagante, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avda. O´Higgins N° 1178, Talagante, Santiago</address>
+			<Point><coordinates>-70.7724329,-33.5026804</coordinates></Point></Placemark>
+			<Placemark>
+				<name>GOBIERNO REGIONAL METROPOLITANO</name>
+				<description><![CDATA[PADRE: GOBIERNOS REGIONALES<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: GOBIERNO REGIONAL METROPOLITANO<br>DIRECCION: Bandera N° 46, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>GOBIERNOS REGIONALES</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>GOBIERNO REGIONAL METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Bandera N° 46, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Bandera N° 46, Santiago , Santiago</address>
+			<Point><coordinates>-70.6519143,-33.4430988</coordinates></Point></Placemark>
+			<Placemark>
+				<name>COMPLEJO ASISTENCIAL BARROS LUCO</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO SUR<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: COMPLEJO ASISTENCIAL BARROS LUCO<br>DIRECCION: José Miguel Carrera N° 3204, San Miguel, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO SUR</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>COMPLEJO ASISTENCIAL BARROS LUCO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>José Miguel Carrera N° 3204, San Miguel, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>José Miguel Carrera N° 3204, San Miguel, Santiago</address>
+			<Point><coordinates>-70.6495673,-33.48428</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL CLINICO UNIVERSIDAD DE CHILE</name>
+				<description><![CDATA[PADRE: UNIVERSIDAD DE CHILE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL CLINICO UNIVERSIDAD DE CHILE<br>DIRECCION: Av. Santos Dumont N° 999, Independencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>UNIVERSIDAD DE CHILE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL CLINICO UNIVERSIDAD DE CHILE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Santos Dumont N° 999, Independencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Santos Dumont N° 999, Independencia, Santiago</address>
+			<Point><coordinates>-70.6530942,-33.4200542</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL DE NIÑOS DOCTOR ROBERTO DEL RIO</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO NORTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL DE NIÑOS DOCTOR ROBERTO DEL RIO<br>DIRECCION: Av. Profesor Zañartu N° 1085, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO NORTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL DE NIÑOS DOCTOR ROBERTO DEL RIO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Profesor Zañartu N° 1085, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Profesor Zañartu N° 1085, Santiago , Santiago</address>
+			<Point><coordinates>-70.65479309999999,-33.4174043</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL SAN BORJA ARRIARAN</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO CENTRAL<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL SAN BORJA ARRIARAN<br>DIRECCION: Av. Sta. Rosa N° 1234, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO CENTRAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL SAN BORJA ARRIARAN</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Sta. Rosa N° 1234, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Sta. Rosa N° 1234, Santiago , Santiago</address>
+			<Point><coordinates>-70.6428507,-33.4616493</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL DE CURACAVI DOCTOR MAURICIO HEYERMANN C.</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO OCCIDENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL DE CURACAVI DOCTOR MAURICIO HEYERMANN C.<br>DIRECCION: Avda. Ambrosio O´Higgins N° 500, Curacavi, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO OCCIDENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL DE CURACAVI DOCTOR MAURICIO HEYERMANN C.</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avda. Ambrosio O´Higgins N° 500, Curacavi, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avda. Ambrosio O´Higgins N° 500, Curacavi, Santiago</address>
+			<Point><coordinates>-71.1462397,-33.4090675</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL LUCIO CORDOVA</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO SUR<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL LUCIO CORDOVA<br>DIRECCION: Gran Avenida José Miguel Carrera N° 3204, San Miguel, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO SUR</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL LUCIO CORDOVA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Gran Avenida José Miguel Carrera N° 3204, San Miguel, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Gran Avenida José Miguel Carrera N° 3204, San Miguel, Santiago</address>
+			<Point><coordinates>-70.6495673,-33.48428</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL DOCTOR LUIS CALVO MACKENNA</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO ORIENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL DOCTOR LUIS CALVO MACKENNA<br>DIRECCION: Av Antonio Varas N° 360, Providencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO ORIENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL DOCTOR LUIS CALVO MACKENNA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av Antonio Varas N° 360, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av Antonio Varas N° 360, Providencia, Santiago</address>
+			<Point><coordinates>-70.6150865,-33.4297907</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL DE PEÑAFLOR</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO OCCIDENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL DE PEÑAFLOR<br>DIRECCION: Calle Jose Miguel Carrera N° 241, Peñaflor, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO OCCIDENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL DE PEÑAFLOR</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Calle Jose Miguel Carrera N° 241, Peñaflor, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Calle Jose Miguel Carrera N° 241, Peñaflor, Santiago</address>
+			<Point><coordinates>-70.9028823,-33.61021059999999</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL DE TALAGANTE</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO OCCIDENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL DE TALAGANTE<br>DIRECCION: Balmaceda N° 1458, Talagante, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO OCCIDENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL DE TALAGANTE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Balmaceda N° 1458, Talagante, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Balmaceda N° 1458, Talagante, Santiago</address>
+			<Point><coordinates>-70.8925843,-33.6513685</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL COMUNITARIO DE TILTIL</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO NORTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL COMUNITARIO DE TILTIL<br>DIRECCION: Calle Daniel Moya N° 100, Tiltil, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO NORTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL COMUNITARIO DE TILTIL</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Calle Daniel Moya N° 100, Tiltil, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Calle Daniel Moya N° 100, Tiltil, Santiago</address>
+			<Point><coordinates>-70.92120609999999,-33.088249</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL DE URGENCIA ASISTENCIA PUBLICA</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO CENTRAL<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL DE URGENCIA ASISTENCIA PUBLICA<br>DIRECCION: Portugal N° 125, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO CENTRAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL DE URGENCIA ASISTENCIA PUBLICA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Portugal N° 125, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Portugal N° 125, Santiago , Santiago</address>
+			<Point><coordinates>-70.6377656,-33.4433937</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL DEL SALVADOR</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO ORIENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL DEL SALVADOR<br>DIRECCION: Av. Salvador N° 364, Providencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO ORIENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL DEL SALVADOR</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Salvador N° 364, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Salvador N° 364, Providencia, Santiago</address>
+			<Point><coordinates>-70.6253674,-33.4371412</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL DIPRECA</name>
+				<description><![CDATA[PADRE: DIRECCION DE PREVISION DE CARABINEROS DE CHILE (DIPRECA)<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL DIPRECA<br>DIRECCION: Vital Apoquindo N° 1200, Las Condes, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>DIRECCION DE PREVISION DE CARABINEROS DE CHILE (DIPRECA)</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL DIPRECA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Vital Apoquindo N° 1200, Las Condes, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Vital Apoquindo N° 1200, Las Condes, Santiago</address>
+			<Point><coordinates>-70.52946050000001,-33.416907</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL CLINICO DOCTOR FELIX BULNES CERDA</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO OCCIDENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL CLINICO DOCTOR FELIX BULNES CERDA<br>DIRECCION:  Leoncio Fernández N° 2655, Quinta Normal, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO OCCIDENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL CLINICO DOCTOR FELIX BULNES CERDA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value> Leoncio Fernández N° 2655, Quinta Normal, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Leoncio Fernández N° 2655, Quinta Normal, Santiago</address>
+			<Point><coordinates>-70.6966945,-33.415296</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL EL PINO</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO SUR<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL EL PINO<br>DIRECCION: Avenida Padre Hurtado N° 13560, San Bernardo, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO SUR</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL EL PINO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avenida Padre Hurtado N° 13560, San Bernardo, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avenida Padre Hurtado N° 13560, San Bernardo, Santiago</address>
+			<Point><coordinates>-70.6831833,-33.6073561</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL DOCTOR EXEQUIEL GONZALEZ CORTES</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO SUR<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL DOCTOR EXEQUIEL GONZALEZ CORTES<br>DIRECCION: Ramón Barros Luco N° 3301, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO SUR</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL DOCTOR EXEQUIEL GONZALEZ CORTES</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Ramón Barros Luco N° 3301, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Ramón Barros Luco N° 3301, Santiago , Santiago</address>
+			<Point><coordinates>-70.6567326,-33.4835571</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL DOCTOR LUIS TISNE</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO ORIENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL DOCTOR LUIS TISNE<br>DIRECCION: Avenida Los Torres N° 5150, Peñalolen, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO ORIENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL DOCTOR LUIS TISNE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avenida Los Torres N° 5150, Peñalolen, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avenida Los Torres N° 5150, Peñalolen, Santiago</address>
+			<Point><coordinates>-70.5790789,-33.5017285</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL PADRE HURTADO</name>
+				<description><![CDATA[PADRE: MINISTERIO DE SALUD<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL PADRE HURTADO<br>DIRECCION: Esperanza N° 2150, San Ramón, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE SALUD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL PADRE HURTADO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Esperanza N° 2150, San Ramón, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Esperanza N° 2150, San Ramón, Santiago</address>
+			<Point><coordinates>-70.6352974,-33.5537433</coordinates></Point></Placemark>
+			<Placemark>
+				<name>INSTITUTO DE REHABILITACION PEDRO AGUIRRE CERDA</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO ORIENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: INSTITUTO DE REHABILITACION PEDRO AGUIRRE CERDA<br>DIRECCION: José Arrieta N° 5969 , Peñalolen, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO ORIENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>INSTITUTO DE REHABILITACION PEDRO AGUIRRE CERDA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>José Arrieta N° 5969 , Peñalolen, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>José Arrieta N° 5969 , Peñalolen, Santiago</address>
+			<Point><coordinates>-70.569716,-33.46000739999999</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL SAN JOSE DE MAIPO</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO SUR ORIENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL SAN JOSE DE MAIPO<br>DIRECCION: Comercio N° 19856, San José de Maipo, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO SUR ORIENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL SAN JOSE DE MAIPO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Comercio N° 19856, San José de Maipo, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Comercio N° 19856, San José de Maipo, Santiago</address>
+			<Point><coordinates>-70.35245549999999,-33.6412787</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL SAN JOSE DE MELIPILLA</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO OCCIDENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL SAN JOSE DE MELIPILLA<br>DIRECCION: O'Higgins N° 551, Melipilla, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO OCCIDENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL SAN JOSE DE MELIPILLA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>O'Higgins N° 551, Melipilla, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>O'Higgins N° 551, Melipilla, Santiago</address>
+			<Point><coordinates>-71.2151919,-33.6949872</coordinates></Point></Placemark>
+			<Placemark>
+				<name>COMPLEJO HOSPITALARIO SAN JOSE</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO NORTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: COMPLEJO HOSPITALARIO SAN JOSE<br>DIRECCION: San José N° 1196, Independencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO NORTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>COMPLEJO HOSPITALARIO SAN JOSE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>San José N° 1196, Independencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>San José N° 1196, Independencia, Santiago</address>
+			<Point><coordinates>-70.6529221,-33.4163505</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL SAN JUAN DE DIOS</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO OCCIDENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL SAN JUAN DE DIOS<br>DIRECCION: Huérfanos N° 3255, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO OCCIDENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL SAN JUAN DE DIOS</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Huérfanos N° 3255, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Huérfanos N° 3255, Santiago , Santiago</address>
+			<Point><coordinates>-70.67871,-33.4424925</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL SAN LUIS</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO SUR<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL SAN LUIS<br>DIRECCION: Arturo Prat N° 250, Buin, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO SUR</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL SAN LUIS</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Arturo Prat N° 250, Buin, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Arturo Prat N° 250, Buin, Santiago</address>
+			<Point><coordinates>-70.7398209,-33.7339966</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL EL PERAL</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO SUR<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL EL PERAL<br>DIRECCION: Avenida Camilo Henríquez N° 2451, Puente Alto, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO SUR</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL EL PERAL</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avenida Camilo Henríquez N° 2451, Puente Alto, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avenida Camilo Henríquez N° 2451, Puente Alto, Santiago</address>
+			<Point><coordinates>-70.55144779999999,-33.5791937</coordinates></Point></Placemark>
+			<Placemark>
+				<name>INSTITUTO DE NEUROCIRUGIA DOCTOR ASENJO</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO ORIENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: INSTITUTO DE NEUROCIRUGIA DOCTOR ASENJO<br>DIRECCION: Avda Jose Manuel Infante N° 553, Providencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO ORIENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>INSTITUTO DE NEUROCIRUGIA DOCTOR ASENJO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avda Jose Manuel Infante N° 553, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avda Jose Manuel Infante N° 553, Providencia, Santiago</address>
+			<Point><coordinates>-70.6224658,-33.43632950000001</coordinates></Point></Placemark>
+			<Placemark>
+				<name>INSTITUTO DE SALUD PUBLICA</name>
+				<description><![CDATA[PADRE: MINISTERIO DE SALUD<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: INSTITUTO DE SALUD PUBLICA<br>DIRECCION: Avenida Marathon N° 1000, Ñuñoa, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE SALUD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>INSTITUTO DE SALUD PUBLICA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avenida Marathon N° 1000, Ñuñoa, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avenida Marathon N° 1000, Ñuñoa, Santiago</address>
+			<Point><coordinates>-70.61602049999999,-33.4632885</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL IND METROPOLITANA</name>
+				<description><![CDATA[PADRE: INSTITUTO NACIONAL DE DEPORTES NIVEL CENTRAL<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL IND METROPOLITANA<br>DIRECCION: Coyancura N° 2241, Providencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>INSTITUTO NACIONAL DE DEPORTES NIVEL CENTRAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL IND METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Coyancura N° 2241, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Coyancura N° 2241, Providencia, Santiago</address>
+			<Point><coordinates>-70.6083666,-33.4234087</coordinates></Point></Placemark>
+			<Placemark>
+				<name>INSTITUTO DEL TORAX</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO ORIENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: INSTITUTO DEL TORAX<br>DIRECCION: Avda Jose Manuel Infante N° 717, Providencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO ORIENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>INSTITUTO DEL TORAX</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avda Jose Manuel Infante N° 717, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avda Jose Manuel Infante N° 717, Providencia, Santiago</address>
+			<Point><coordinates>-70.621941,-33.4380845</coordinates></Point></Placemark>
+			<Placemark>
+				<name>INSTITUTO NACIONAL DE GERIATRIA</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO ORIENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: INSTITUTO NACIONAL DE GERIATRIA<br>DIRECCION: José Manuel Infante N° 370, Providencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO ORIENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>INSTITUTO NACIONAL DE GERIATRIA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>José Manuel Infante N° 370, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>José Manuel Infante N° 370, Providencia, Santiago</address>
+			<Point><coordinates>-70.6227516,-33.4348552</coordinates></Point></Placemark>
+			<Placemark>
+				<name>INSTITUTO NACIONAL DEL CANCER</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO NORTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: INSTITUTO NACIONAL DEL CANCER<br>DIRECCION: Avda. Profesor Zañartu N° 1010, Independencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO NORTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>INSTITUTO NACIONAL DEL CANCER</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avda. Profesor Zañartu N° 1010, Independencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avda. Profesor Zañartu N° 1010, Independencia, Santiago</address>
+			<Point><coordinates>-70.6526442,-33.4176654</coordinates></Point></Placemark>
+			<Placemark>
+				<name>INSTITUTO PSIQUIATRICO DOCTOR JOSE HORWITZ BARAK</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO NORTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: INSTITUTO PSIQUIATRICO DOCTOR JOSE HORWITZ BARAK<br>DIRECCION: Avenida La Paz N° 841, Recoleta, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO NORTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>INSTITUTO PSIQUIATRICO DOCTOR JOSE HORWITZ BARAK</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avenida La Paz N° 841, Recoleta, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avenida La Paz N° 841, Recoleta, Santiago</address>
+			<Point><coordinates>-70.6507735,-33.4228382</coordinates></Point></Placemark>
+			<Placemark>
+				<name>INSTITUTO TRAUMATOLOGICO DOCTOR TEODORO GEBAUER WEISSER</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO OCCIDENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: INSTITUTO TRAUMATOLOGICO DOCTOR TEODORO GEBAUER WEISSER<br>DIRECCION: San Martín N° 771, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO OCCIDENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>INSTITUTO TRAUMATOLOGICO DOCTOR TEODORO GEBAUER WEISSER</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>San Martín N° 771, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>San Martín N° 771, Santiago , Santiago</address>
+			<Point><coordinates>-70.6585346,-33.4350557</coordinates></Point></Placemark>
+			<Placemark>
+				<name>INTENDENCIA METROPOLITANA</name>
+				<description><![CDATA[PADRE: SUBSECRETARIA DEL INTERIOR<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: INTENDENCIA METROPOLITANA<br>DIRECCION: Morande N° 93, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SUBSECRETARIA DEL INTERIOR</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>INTENDENCIA METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Morande N° 93, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Morande N° 93, Santiago , Santiago</address>
+			<Point><coordinates>-70.65324629999999,-33.4422622</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL JUNJI METROPOLITANO</name>
+				<description><![CDATA[PADRE: JUNTA NACIONAL DE JARDINES INFANTILES<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 1<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL JUNJI METROPOLITANO<br>DIRECCION: Avenida Libertador Bernardo O'Higgins N° 107, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>JUNTA NACIONAL DE JARDINES INFANTILES</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 1</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL JUNJI METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avenida Libertador Bernardo O'Higgins N° 107, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avenida Libertador Bernardo O'Higgins N° 107, Santiago , Santiago</address>
+			<Point><coordinates>-70.6365594,-33.437497</coordinates></Point></Placemark>
+			<Placemark>
+				<name>PARQUE METROPOLITANO DE SANTIAGO</name>
+				<description><![CDATA[PADRE: SUBSECRETARIA DE VIVIENDA Y URBANISMO<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DIR_COMITE 2<br>ESTADO: ACTIVO<br>NOMBRE: PARQUE METROPOLITANO DE SANTIAGO<br>DIRECCION: Calle Pio Nono N° 450, Recoleta, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SUBSECRETARIA DE VIVIENDA Y URBANISMO</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DIR_COMITE 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>PARQUE METROPOLITANO DE SANTIAGO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Calle Pio Nono N° 450, Recoleta, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Calle Pio Nono N° 450, Recoleta, Santiago</address>
+			<Point><coordinates>-70.6363011,-33.4307336</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE AGRICULTURA - METROPOLITANO</name>
+				<description><![CDATA[PADRE: MINISTERIO DE AGRICULTURA<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE AGRICULTURA - METROPOLITANO<br>DIRECCION: Av. Portales N° 3396, Estacion Central, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE AGRICULTURA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE AGRICULTURA - METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Portales N° 3396, Estacion Central, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Portales N° 3396, Estacion Central, Santiago</address>
+			<Point><coordinates>-70.6814054,-33.4446345</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE BIENES NACIONALES METROPOLITANA</name>
+				<description><![CDATA[PADRE: MINISTERIO DE BIENES NACIONALES<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE BIENES NACIONALES METROPOLITANA<br>DIRECCION: Av. Libertador Bernardo O’Higgins N° 1315, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE BIENES NACIONALES</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE BIENES NACIONALES METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Libertador Bernardo O’Higgins N° 1315, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Libertador Bernardo O’Higgins N° 1315, Santiago , Santiago</address>
+			<Point><coordinates>-70.6543172,-33.4444679</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE EDUCACION METROPOLITANA</name>
+				<description><![CDATA[PADRE: MINISTERIO DE EDUCACION<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 1<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE EDUCACION METROPOLITANA<br>DIRECCION: San Martín N° 642, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE EDUCACION</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 1</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE EDUCACION METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>San Martín N° 642, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>San Martín N° 642, Santiago , Santiago</address>
+			<Point><coordinates>-70.65860599999999,-33.4366713</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE JUSTICIA - METROPOLITANO</name>
+				<description><![CDATA[PADRE: MINISTERIO DE JUSTICIA<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE JUSTICIA - METROPOLITANO<br>DIRECCION: Moneda N° 1155, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE JUSTICIA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE JUSTICIA - METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Moneda N° 1155, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Moneda N° 1155, Santiago , Santiago</address>
+			<Point><coordinates>-70.6528424,-33.4420195</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE OBRAS PUBLICAS - METROPOLITANO</name>
+				<description><![CDATA[PADRE: MINISTERIO DE OBRAS PUBLICAS<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DIR_COMITE 1<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE OBRAS PUBLICAS - METROPOLITANO<br>DIRECCION: Bombero Salas N° 1351 , Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE OBRAS PUBLICAS</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DIR_COMITE 1</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE OBRAS PUBLICAS - METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Bombero Salas N° 1351 , Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Bombero Salas N° 1351 , Santiago , Santiago</address>
+			<Point><coordinates>-70.6555465,-33.44176700000001</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE SALUD METROPOLITANA</name>
+				<description><![CDATA[PADRE: MINISTERIO DE SALUD<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE SALUD METROPOLITANA<br>DIRECCION: Padre Miguel de Olivares N° 1229, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE SALUD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE SALUD METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Padre Miguel de Olivares N° 1229, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Padre Miguel de Olivares N° 1229, Santiago , Santiago</address>
+			<Point><coordinates>-70.65230720000001,-33.4485084</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE TRABAJO Y PREVISION SOCIAL - METROPOLITANO</name>
+				<description><![CDATA[PADRE: MINISTERIO DEL TRABAJO Y PREVISION SOCIAL<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE TRABAJO Y PREVISION SOCIAL - METROPOLITANO<br>DIRECCION: Huérfanos N° 1273, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DEL TRABAJO Y PREVISION SOCIAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE TRABAJO Y PREVISION SOCIAL - METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Huérfanos N° 1273, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Huérfanos N° 1273, Santiago , Santiago</address>
+			<Point><coordinates>-70.6548044,-33.4399903</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE TRANSPORTES Y TELECOMUNICACIONES - METROPOLITANO</name>
+				<description><![CDATA[PADRE: MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DIR_COMITE 3<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE TRANSPORTES Y TELECOMUNICACIONES - METROPOLITANO<br>DIRECCION: Serrano N° 89, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DIR_COMITE 3</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE TRANSPORTES Y TELECOMUNICACIONES - METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Serrano N° 89, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Serrano N° 89, Santiago , Santiago</address>
+			<Point><coordinates>-70.6491362,-33.4456547</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE VIVIENDA METROPOLITANO</name>
+				<description><![CDATA[PADRE: MINISTERIO DE VIVIENDA Y URBANISMO<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DIR_COMITE 2<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE VIVIENDA METROPOLITANO<br>DIRECCION: Libertador Bernardo O'Higgins N° 874, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE VIVIENDA Y URBANISMO</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DIR_COMITE 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE VIVIENDA METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Libertador Bernardo O'Higgins N° 874, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Libertador Bernardo O'Higgins N° 874, Santiago , Santiago</address>
+			<Point><coordinates>-70.64884839999999,-33.4435652</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SERVICIO DE SALUD METROPOLITANO CENTRAL</name>
+				<description><![CDATA[PADRE: MINISTERIO DE SALUD<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: SERVICIO DE SALUD METROPOLITANO CENTRAL<br>DIRECCION: Victoria Subercaseaux N° 381, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE SALUD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SERVICIO DE SALUD METROPOLITANO CENTRAL</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Victoria Subercaseaux N° 381, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Victoria Subercaseaux N° 381, Santiago , Santiago</address>
+			<Point><coordinates>-70.6430446,-33.43784310000001</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SERVICIO DE SALUD METROPOLITANO NORTE</name>
+				<description><![CDATA[PADRE: MINISTERIO DE SALUD<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: SERVICIO DE SALUD METROPOLITANO NORTE<br>DIRECCION: Maruri N° 272, Independencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE SALUD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SERVICIO DE SALUD METROPOLITANO NORTE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Maruri N° 272, Independencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Maruri N° 272, Independencia, Santiago</address>
+			<Point><coordinates>-70.6554295,-33.4290152</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SERVICIO DE SALUD METROPOLITANO OCCIDENTE</name>
+				<description><![CDATA[PADRE: MINISTERIO DE SALUD<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: SERVICIO DE SALUD METROPOLITANO OCCIDENTE<br>DIRECCION: Libertador Bernardo O'Higgins N° 2429, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE SALUD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SERVICIO DE SALUD METROPOLITANO OCCIDENTE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Libertador Bernardo O'Higgins N° 2429, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Libertador Bernardo O'Higgins N° 2429, Santiago , Santiago</address>
+			<Point><coordinates>-70.6695104,-33.4482174</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SERVICIO DE SALUD METROPOLITANO ORIENTE</name>
+				<description><![CDATA[PADRE: MINISTERIO DE SALUD<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: SERVICIO DE SALUD METROPOLITANO ORIENTE<br>DIRECCION: Canada N° 308, Providencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE SALUD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SERVICIO DE SALUD METROPOLITANO ORIENTE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Canada N° 308, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Canada N° 308, Providencia, Santiago</address>
+			<Point><coordinates>-70.6261335,-33.4375834</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SERVICIO DE SALUD METROPOLITANO SUR</name>
+				<description><![CDATA[PADRE: MINISTERIO DE SALUD<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: SERVICIO DE SALUD METROPOLITANO SUR<br>DIRECCION: Av. Santa Rosa N° 3453, San Miguel, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE SALUD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SERVICIO DE SALUD METROPOLITANO SUR</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Santa Rosa N° 3453, San Miguel, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Santa Rosa N° 3453, San Miguel, Santiago</address>
+			<Point><coordinates>-70.6412718,-33.4865266</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SERVICIO DE SALUD METROPOLITANO SUR ORIENTE</name>
+				<description><![CDATA[PADRE: MINISTERIO DE SALUD<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: SERVICIO DE SALUD METROPOLITANO SUR ORIENTE<br>DIRECCION: Avda. Concha y Toro N° 3459, Puente Alto, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE SALUD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SERVICIO DE SALUD METROPOLITANO SUR ORIENTE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avda. Concha y Toro N° 3459, Puente Alto, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avda. Concha y Toro N° 3459, Puente Alto, Santiago</address>
+			<Point><coordinates>-70.5819017,-33.5780248</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SERVICIO DE VIVIENDA Y URBANIZACION METROPOLITANO</name>
+				<description><![CDATA[PADRE: SUBSECRETARIA DE VIVIENDA Y URBANISMO<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DIR_COMITE 2<br>ESTADO: ACTIVO<br>NOMBRE: SERVICIO DE VIVIENDA Y URBANIZACION METROPOLITANO<br>DIRECCION: Serrano N° 45, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SUBSECRETARIA DE VIVIENDA Y URBANISMO</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DIR_COMITE 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SERVICIO DE VIVIENDA Y URBANIZACION METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Serrano N° 45, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Serrano N° 45, Santiago , Santiago</address>
+			<Point><coordinates>-70.649485,-33.4448579</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL ADUANAS METROPOLITANA</name>
+				<description><![CDATA[PADRE: SERVICIO NACIONAL DE ADUANAS<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 4<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL ADUANAS METROPOLITANA<br>DIRECCION: Avenida Diego Aracena N° 1948, Pudahuel, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO NACIONAL DE ADUANAS</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 4</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL ADUANAS METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avenida Diego Aracena N° 1948, Pudahuel, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avenida Diego Aracena N° 1948, Pudahuel, Santiago</address>
+			<Point><coordinates>-70.7134596,-33.4514526</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE MINERIA - METROPOLITANA</name>
+				<description><![CDATA[PADRE: MINISTERIO DE MINERIA<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 4<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE MINERIA - METROPOLITANA<br>DIRECCION: amunategui N° 232, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE MINERIA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 4</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE MINERIA - METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>amunategui N° 232, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>amunategui N° 232, Santiago , Santiago</address>
+			<Point><coordinates>-70.6565621,-33.4408693</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SERNAPESCA METROPOLITANO</name>
+				<description><![CDATA[PADRE: SERVICIO NACIONAL DE PESCA Y ACUICULTURA<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 4<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SERNAPESCA METROPOLITANO<br>DIRECCION: Osvaldo Croquevielle Cardemil N° 2207, Pudahuel, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO NACIONAL DE PESCA Y ACUICULTURA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 4</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SERNAPESCA METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Osvaldo Croquevielle Cardemil N° 2207, Pudahuel, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Osvaldo Croquevielle Cardemil N° 2207, Pudahuel, Santiago</address>
+			<Point><coordinates>-70.7636137,-33.4314405</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SENAME METROPOLITANO</name>
+				<description><![CDATA[PADRE: SERVICIO NACIONAL DE MENORES<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SENAME METROPOLITANO<br>DIRECCION: Pedro de Valdivia N° 4070, Providencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO NACIONAL DE MENORES</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SENAME METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Pedro de Valdivia N° 4070, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Pedro de Valdivia N° 4070, Providencia, Santiago</address>
+			<Point><coordinates>-70.6057165,-33.459838</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE ECONOMIA, FOMENTO Y TURISMO METROPOLITANA</name>
+				<description><![CDATA[PADRE: MINISTERIO DE ECONOMIA, FOMENTO Y TURISMO<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 4<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE ECONOMIA, FOMENTO Y TURISMO METROPOLITANA<br>DIRECCION: Libertador Bdo. O”Higgins N° 1449, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE ECONOMIA, FOMENTO Y TURISMO</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 4</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE ECONOMIA, FOMENTO Y TURISMO METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Libertador Bdo. O”Higgins N° 1449, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Libertador Bdo. O”Higgins N° 1449, Santiago , Santiago</address>
+			<Point><coordinates>-70.65634179999999,-33.4447665</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SERVICIO EVALUACION AMBIENTAL METROPOLITANA</name>
+				<description><![CDATA[PADRE: SERVICIO EVALUACION AMBIENTAL<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: SERVICIO EVALUACION AMBIENTAL METROPOLITANA<br>DIRECCION: Miraflores N° 178, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO EVALUACION AMBIENTAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SERVICIO EVALUACION AMBIENTAL METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Miraflores N° 178, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Miraflores N° 178, Santiago , Santiago</address>
+			<Point><coordinates>-70.6453107,-33.4405776</coordinates></Point></Placemark>
+			<Placemark>
+				<name>CENTRO DE REFERENCIA DE SALUD DOCTOR SALVADOR ALLENDE GOSSENS</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO OCCIDENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: CENTRO DE REFERENCIA DE SALUD DOCTOR SALVADOR ALLENDE GOSSENS<br>DIRECCION: Teniente Cruz N° 800, Pudahuel, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO OCCIDENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>CENTRO DE REFERENCIA DE SALUD DOCTOR SALVADOR ALLENDE GOSSENS</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Teniente Cruz N° 800, Pudahuel, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Teniente Cruz N° 800, Pudahuel, Santiago</address>
+			<Point><coordinates>-70.7406888,-33.4447326</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL JUNAEB METROPOLITANO</name>
+				<description><![CDATA[PADRE: JUNTA NACIONAL DE AUXILIO ESCOLAR Y BECAS<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 1<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL JUNAEB METROPOLITANO<br>DIRECCION: Teatinos N° 340, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>JUNTA NACIONAL DE AUXILIO ESCOLAR Y BECAS</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 1</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL JUNAEB METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Teatinos N° 340, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Teatinos N° 340, Santiago , Santiago</address>
+			<Point><coordinates>-70.655335,-33.439629</coordinates></Point></Placemark>
+			<Placemark>
+				<name>AGENCIA REGIONAL SUPERINTENDENCIA DE SALUD METROPOLITANA</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: INACTIVO<br>NOMBRE: AGENCIA REGIONAL SUPERINTENDENCIA DE SALUD METROPOLITANA<br>DIRECCION: Av. Bernardo O'Higgins N° 1449, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>INACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>AGENCIA REGIONAL SUPERINTENDENCIA DE SALUD METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Bernardo O'Higgins N° 1449, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Bernardo O'Higgins N° 1449, Santiago , Santiago</address>
+			<Point><coordinates>-70.65634179999999,-33.4447665</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL CORFO METROPOLITANO</name>
+				<description><![CDATA[PADRE: CORPORACION DE FOMENTO DE LA PRODUCCION<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 4<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL CORFO METROPOLITANO<br>DIRECCION: Matías Cousiño N° 150, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>CORPORACION DE FOMENTO DE LA PRODUCCION</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 4</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL CORFO METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Matías Cousiño N° 150, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Matías Cousiño N° 150, Santiago , Santiago</address>
+			<Point><coordinates>-70.64992889999999,-33.4412879</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SERNATUR METROPOLITANO</name>
+				<description><![CDATA[PADRE: SERVICIO NACIONAL DE TURISMO<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 4<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SERNATUR METROPOLITANO<br>DIRECCION: Providencia N° 1550, Providencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO NACIONAL DE TURISMO</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 4</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SERNATUR METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Providencia N° 1550, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Providencia N° 1550, Providencia, Santiago</address>
+			<Point><coordinates>-70.6170209,-33.4271151</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SERNAC METROPOLITANO</name>
+				<description><![CDATA[PADRE: SERVICIO NACIONAL DEL CONSUMIDOR<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 4<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SERNAC METROPOLITANO<br>DIRECCION: Teatinos N° 333, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO NACIONAL DEL CONSUMIDOR</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 4</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SERNAC METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Teatinos N° 333, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Teatinos N° 333, Santiago , Santiago</address>
+			<Point><coordinates>-70.6551454,-33.4395054</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SII METROPOLITANO CENTRO</name>
+				<description><![CDATA[PADRE: SERVICIO DE IMPUESTOS INTERNOS<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 4<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SII METROPOLITANO CENTRO<br>DIRECCION: Alonso Ovalle N° 680, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE IMPUESTOS INTERNOS</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 4</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SII METROPOLITANO CENTRO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Alonso Ovalle N° 680, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Alonso Ovalle N° 680, Santiago , Santiago</address>
+			<Point><coordinates>-70.6451154,-33.4450832</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SII METROPOLITANO ORIENTE</name>
+				<description><![CDATA[PADRE: SERVICIO DE IMPUESTOS INTERNOS<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 4<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SII METROPOLITANO ORIENTE<br>DIRECCION: General del Canto N° 281, Providencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE IMPUESTOS INTERNOS</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 4</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SII METROPOLITANO ORIENTE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>General del Canto N° 281, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>General del Canto N° 281, Providencia, Santiago</address>
+			<Point><coordinates>-70.6177017,-33.4305553</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SII METROPOLITANO PONIENTE</name>
+				<description><![CDATA[PADRE: SERVICIO DE IMPUESTOS INTERNOS<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 4<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SII METROPOLITANO PONIENTE<br>DIRECCION: Romero N° 3226, Estacion Central, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE IMPUESTOS INTERNOS</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 4</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SII METROPOLITANO PONIENTE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Romero N° 3226, Estacion Central, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Romero N° 3226, Estacion Central, Santiago</address>
+			<Point><coordinates>-70.6783322,-33.4483081</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SII METROPOLITANO SUR</name>
+				<description><![CDATA[PADRE: SERVICIO DE IMPUESTOS INTERNOS<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 4<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SII METROPOLITANO SUR<br>DIRECCION: Ramón Subercaseaux N° 1273, San Miguel, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE IMPUESTOS INTERNOS</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 4</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SII METROPOLITANO SUR</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Ramón Subercaseaux N° 1273, San Miguel, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Ramón Subercaseaux N° 1273, San Miguel, Santiago</address>
+			<Point><coordinates>-70.6518308,-33.484832</coordinates></Point></Placemark>
+			<Placemark>
+				<name>TESORERIA REGIONAL METROPOLITANA</name>
+				<description><![CDATA[PADRE: TESORERIA GENERAL DE LA REPUBLICA<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 4<br>ESTADO: ACTIVO<br>NOMBRE: TESORERIA REGIONAL METROPOLITANA<br>DIRECCION: Teatinos N° 28, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>TESORERIA GENERAL DE LA REPUBLICA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 4</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>TESORERIA REGIONAL METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Teatinos N° 28, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Teatinos N° 28, Santiago , Santiago</address>
+			<Point><coordinates>-70.6544499,-33.4437597</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL FOSIS METROPOLITANO</name>
+				<description><![CDATA[PADRE: FONDO DE SOLIDARIDAD E INVERSION SOCIAL<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL FOSIS METROPOLITANO<br>DIRECCION: Teatinos N° 653, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>FONDO DE SOLIDARIDAD E INVERSION SOCIAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL FOSIS METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Teatinos N° 653, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Teatinos N° 653, Santiago , Santiago</address>
+			<Point><coordinates>-70.6557006,-33.4361883</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL INJUV METROPOLITANO</name>
+				<description><![CDATA[PADRE: INSTITUTO NACIONAL DE LA JUVENTUD<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL INJUV METROPOLITANO<br>DIRECCION: Agustinas N° 1564, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>INSTITUTO NACIONAL DE LA JUVENTUD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL INJUV METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Agustinas N° 1564, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Agustinas N° 1564, Santiago , Santiago</address>
+			<Point><coordinates>-70.658621,-33.4415372</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SERNAM METROPOLITANO</name>
+				<description><![CDATA[PADRE: SERVICIO NACIONAL DE LA MUJER Y EQUIDAD DE GENERO<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SERNAM METROPOLITANO<br>DIRECCION: Huérfanos N° 1219, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO NACIONAL DE LA MUJER Y EQUIDAD DE GENERO</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SERNAM METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Huérfanos N° 1219, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Huérfanos N° 1219, Santiago , Santiago</address>
+			<Point><coordinates>-70.6539612,-33.4399083</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE DESARROLLO SOCIAL METROPOLITANA</name>
+				<description><![CDATA[PADRE: MINISTERIO DE DESARROLLO SOCIAL<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE DESARROLLO SOCIAL METROPOLITANA<br>DIRECCION: Bandera N° 46, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE DESARROLLO SOCIAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE DESARROLLO SOCIAL METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Bandera N° 46, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Bandera N° 46, Santiago , Santiago</address>
+			<Point><coordinates>-70.6519143,-33.4430988</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DEFENSORIA REGIONAL METROPOLITANA CENTRO</name>
+				<description><![CDATA[PADRE: DEFENSORIA PENAL PUBLICA<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: DEFENSORIA REGIONAL METROPOLITANA CENTRO<br>DIRECCION: Avda. Pedro Montt N° 1606, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>DEFENSORIA PENAL PUBLICA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DEFENSORIA REGIONAL METROPOLITANA CENTRO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avda. Pedro Montt N° 1606, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avda. Pedro Montt N° 1606, Santiago , Santiago</address>
+			<Point><coordinates>-70.6579419,-33.4737972</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DEFENSORIA REGIONAL METROPOLITANA SUR</name>
+				<description><![CDATA[PADRE: DEFENSORIA PENAL PUBLICA<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: DEFENSORIA REGIONAL METROPOLITANA SUR<br>DIRECCION: Avda. Pedro Montt N° 1606, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>DEFENSORIA PENAL PUBLICA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DEFENSORIA REGIONAL METROPOLITANA SUR</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avda. Pedro Montt N° 1606, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avda. Pedro Montt N° 1606, Santiago , Santiago</address>
+			<Point><coordinates>-70.6579419,-33.4737972</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL DE GENDARMERIA METROPOLITANA</name>
+				<description><![CDATA[PADRE: GENDARMERIA DE CHILE<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL DE GENDARMERIA METROPOLITANA<br>DIRECCION: Avenida Vicuña Mackenna N° 5065, San Joaquin , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>GENDARMERIA DE CHILE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL DE GENDARMERIA METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avenida Vicuña Mackenna N° 5065, San Joaquin , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avenida Vicuña Mackenna N° 5065, San Joaquin , Santiago</address>
+			<Point><coordinates>-70.6155552,-33.5016574</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SML METROPOLITANO</name>
+				<description><![CDATA[PADRE: SERVICIO MEDICO LEGAL<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SML METROPOLITANO<br>DIRECCION: Avenida La Paz 1012, Independencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO MEDICO LEGAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SML METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avenida La Paz 1012, Independencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avenida La Paz 1012, Independencia, Santiago</address>
+			<Point><coordinates>-70.65053300000001,-33.4191176</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SRCEI METROPOLITANO</name>
+				<description><![CDATA[PADRE: SERVICIO DE REGISTRO CIVIL E IDENTIFICACION<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SRCEI METROPOLITANO<br>DIRECCION: Huérfanos N° 1570, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE REGISTRO CIVIL E IDENTIFICACION</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SRCEI METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Huérfanos N° 1570, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Huérfanos N° 1570, Santiago , Santiago</address>
+			<Point><coordinates>-70.65884729999999,-33.4405467</coordinates></Point></Placemark>
+			<Placemark>
+				<name>AGENCIA REGIONAL ISL RM</name>
+				<description><![CDATA[PADRE: INSTITUTO DE SEGURIDAD LABORAL<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: AGENCIA REGIONAL ISL RM<br>DIRECCION: Teatinos N° 726, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>INSTITUTO DE SEGURIDAD LABORAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>AGENCIA REGIONAL ISL RM</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Teatinos N° 726, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Teatinos N° 726, Santiago , Santiago</address>
+			<Point><coordinates>-70.65591909999999,-33.4353054</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL DT METROPOLITANA</name>
+				<description><![CDATA[PADRE: DIRECCION DEL TRABAJO<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL DT METROPOLITANA<br>DIRECCION: Agustinas N° 1253, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>DIRECCION DEL TRABAJO</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL DT METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Agustinas N° 1253, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Agustinas N° 1253, Santiago , Santiago</address>
+			<Point><coordinates>-70.6543255,-33.4410981</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL DT METROPOLITANA ORIENTE</name>
+				<description><![CDATA[PADRE: DIRECCION DEL TRABAJO<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL DT METROPOLITANA ORIENTE<br>DIRECCION: Avenida Providencia N° 729, Providencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>DIRECCION DEL TRABAJO</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL DT METROPOLITANA ORIENTE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avenida Providencia N° 729, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avenida Providencia N° 729, Providencia, Santiago</address>
+			<Point><coordinates>-70.62550519999999,-33.4328236</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL DT METROPOLITANA PONIENTE</name>
+				<description><![CDATA[PADRE: DIRECCION DEL TRABAJO<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL DT METROPOLITANA PONIENTE<br>DIRECCION: Moneda N° 723, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>DIRECCION DEL TRABAJO</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL DT METROPOLITANA PONIENTE</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Moneda N° 723, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Moneda N° 723, Santiago , Santiago</address>
+			<Point><coordinates>-70.6468088,-33.4414591</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL IPS RM</name>
+				<description><![CDATA[PADRE: INSTITUTO DE PREVISION SOCIAL<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL IPS RM<br>DIRECCION: Teatinos N° 10, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>INSTITUTO DE PREVISION SOCIAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL IPS RM</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Teatinos N° 10, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Teatinos N° 10, Santiago , Santiago</address>
+			<Point><coordinates>-70.6542944,-33.4441592</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SENCE METROPOLITANO</name>
+				<description><![CDATA[PADRE: SERVICIO NACIONAL DE CAPACITACION Y EMPLEO<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SENCE METROPOLITANO<br>DIRECCION: Teatinos N°370, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO NACIONAL DE CAPACITACION Y EMPLEO</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SENCE METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Teatinos N°370, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Teatinos N°370, Santiago , Santiago</address>
+			<Point><coordinates>-70.6554055,-33.4386531</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL GENERAL DE GOBIERNO METROPOLITANA</name>
+				<description><![CDATA[PADRE: NULL<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: INACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL GENERAL DE GOBIERNO METROPOLITANA<br>DIRECCION: Palacio de la Moneda s/n, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>NULL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>INACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL GENERAL DE GOBIERNO METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Palacio de la Moneda s/n, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Palacio de la Moneda s/n, Santiago , Santiago</address>
+			<Point><coordinates>-70.6504492,-33.4378305</coordinates></Point></Placemark>
+			<Placemark>
+				<name>CENTRO DE TRATAMIENTO Y DIAGNÓSTICO DRA. ELOÍSA DIAZ</name>
+				<description><![CDATA[PADRE: COMPLEJO HOSPITALARIO SAN JOSE<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: CENTRO DE TRATAMIENTO Y DIAGNÓSTICO DRA. ELOÍSA DIAZ<br>DIRECCION: Av. Profesor Zanartu N° 1085, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>COMPLEJO HOSPITALARIO SAN JOSE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>CENTRO DE TRATAMIENTO Y DIAGNÓSTICO DRA. ELOÍSA DIAZ</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Profesor Zanartu N° 1085, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Profesor Zanartu N° 1085, Santiago , Santiago</address>
+			<Point><coordinates>-70.65479309999999,-33.4174043</coordinates></Point></Placemark>
+			<Placemark>
+				<name>COORDINACION REGIONAL SENAMA METROPOLITANO</name>
+				<description><![CDATA[PADRE: SERVICIO NACIONAL DEL ADULTO MAYOR<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: COORDINACION REGIONAL SENAMA METROPOLITANO<br>DIRECCION: San Antonio N° 427, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO NACIONAL DEL ADULTO MAYOR</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>COORDINACION REGIONAL SENAMA METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>San Antonio N° 427, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>San Antonio N° 427, Santiago , Santiago</address>
+			<Point><coordinates>-70.6483374,-33.4378573</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL ONEMI METROPOLITANA</name>
+				<description><![CDATA[PADRE: OFICINA NACIONAL DE EMERGENCIAS<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL ONEMI METROPOLITANA<br>DIRECCION: Almirante Barroso N° 27, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>OFICINA NACIONAL DE EMERGENCIAS</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL ONEMI METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Almirante Barroso N° 27, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Almirante Barroso N° 27, Santiago , Santiago</address>
+			<Point><coordinates>-70.6615162,-33.44523</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SENADIS METROPOLITANO</name>
+				<description><![CDATA[PADRE: SERVICIO NACIONAL DE LA DISCAPACIDAD<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SENADIS METROPOLITANO<br>DIRECCION:  Pasaje Rosa Rodríguez N° 1339, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO NACIONAL DE LA DISCAPACIDAD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SENADIS METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value> Pasaje Rosa Rodríguez N° 1339, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Pasaje Rosa Rodríguez N° 1339, Santiago , Santiago</address>
+			<Point><coordinates>-70.6558953,-33.43976019999999</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SENDA METROPOLITANO</name>
+				<description><![CDATA[PADRE: SERVICIO NACIONAL PARA LA PREVENCION Y REHABILITACION CONSUMO DE DROGAS Y ALCOHOL (SENDA)<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SENDA METROPOLITANO<br>DIRECCION:  Ahumada N° 370, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO NACIONAL PARA LA PREVENCION Y REHABILITACION CONSUMO DE DROGAS Y ALCOHOL (SENDA)</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SENDA METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value> Ahumada N° 370, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Ahumada N° 370, Santiago , Santiago</address>
+			<Point><coordinates>-70.6511166,-33.4388586</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SERCOTEC METROPOLITANA</name>
+				<description><![CDATA[PADRE: SERVICIO DE COOPERACION TECNICA (SERCOTEC)<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 4<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SERCOTEC METROPOLITANA<br>DIRECCION: Huerfanos N° 1117, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE COOPERACION TECNICA (SERCOTEC)</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 4</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SERCOTEC METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Huerfanos N° 1117, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Huerfanos N° 1117, Santiago , Santiago</address>
+			<Point><coordinates>-70.6527108,-33.4395899</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL CLINICO METROPOLITANO LA FLORIDA DRA ELOISA DIAZ INSUNZA</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO SUR ORIENTE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL CLINICO METROPOLITANO LA FLORIDA DRA ELOISA DIAZ INSUNZA<br>DIRECCION: Froilán Roa N° 6542, La Florida, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO SUR ORIENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL CLINICO METROPOLITANO LA FLORIDA DRA ELOISA DIAZ INSUNZA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Froilán Roa N° 6542, La Florida, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Froilán Roa N° 6542, La Florida, Santiago</address>
+			<Point><coordinates>-70.59194839999999,-33.5191245</coordinates></Point></Placemark>
+			<Placemark>
+				<name>HOSPITAL EL CARMEN DR. LUIS VALENTIN FERRADA</name>
+				<description><![CDATA[PADRE: SERVICIO DE SALUD METROPOLITANO CENTRAL<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: HOSPITAL EL CARMEN DR. LUIS VALENTIN FERRADA<br>DIRECCION: Camino a Rinconada N° 1201, Maipu, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SERVICIO DE SALUD METROPOLITANO CENTRAL</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>HOSPITAL EL CARMEN DR. LUIS VALENTIN FERRADA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Camino a Rinconada N° 1201, Maipu, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Camino a Rinconada N° 1201, Maipu, Santiago</address>
+			<Point><coordinates>-70.77147090000001,-33.5089743</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL SAG METROPOLITANO</name>
+				<description><![CDATA[PADRE: MINISTERIO DE AGRICULTURA<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL SAG METROPOLITANO<br>DIRECCION: Av. Portales N° 3396, Estación Central, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE AGRICULTURA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL SAG METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Portales N° 3396, Estación Central, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Portales N° 3396, Estación Central, Santiago</address>
+			<Point><coordinates>-70.6814054,-33.4446345</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL INDAP METROPOLITANO</name>
+				<description><![CDATA[PADRE: MINISTERIO DE AGRICULTURA<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL INDAP METROPOLITANO<br>DIRECCION: Av. Portales N° 3396, Estación Central, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE AGRICULTURA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL INDAP METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Portales N° 3396, Estación Central, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Portales N° 3396, Estación Central, Santiago</address>
+			<Point><coordinates>-70.6814054,-33.4446345</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION REGIONAL CONAF METROPOLITANO</name>
+				<description><![CDATA[PADRE: MINISTERIO DE AGRICULTURA<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION REGIONAL CONAF METROPOLITANO<br>DIRECCION: Pio X N° 2475, Providencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE AGRICULTURA</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION REGIONAL CONAF METROPOLITANO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Pio X N° 2475, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Pio X N° 2475, Providencia, Santiago</address>
+			<Point><coordinates>-70.6039188,-33.4212722</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DEL MEDIO AMBIENTE METROPOLITANA</name>
+				<description><![CDATA[PADRE: MINISTERIO DEL MEDIO AMBIENTE<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DEL MEDIO AMBIENTE METROPOLITANA<br>DIRECCION: San Martín N° 73, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DEL MEDIO AMBIENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DEL MEDIO AMBIENTE METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>San Martín N° 73, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>San Martín N° 73, Santiago , Santiago</address>
+			<Point><coordinates>-70.6575371,-33.4432231</coordinates></Point></Placemark>
+			<Placemark>
+				<name>OFICINA MACROZONAL CENTRO DEL MEDIO AMBIENTE (SANTIAGO)</name>
+				<description><![CDATA[PADRE: SUPERINTENDENCIA DEL MEDIO AMBIENTE<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 5<br>ESTADO: ACTIVO<br>NOMBRE: OFICINA MACROZONAL CENTRO DEL MEDIO AMBIENTE (SANTIAGO)<br>DIRECCION: Miraflores N° 178, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SUPERINTENDENCIA DEL MEDIO AMBIENTE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 5</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>OFICINA MACROZONAL CENTRO DEL MEDIO AMBIENTE (SANTIAGO)</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Miraflores N° 178, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Miraflores N° 178, Santiago , Santiago</address>
+			<Point><coordinates>-70.6453107,-33.4405776</coordinates></Point></Placemark>
+			<Placemark>
+				<name>FISCALIA DEL MINISTERIO DE OBRAS PUBLICAS - METROPOLITANA</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: <br>NOMBRE UCE: DIR_COMITE 1<br>ESTADO: ACTIVO<br>NOMBRE: FISCALIA DEL MINISTERIO DE OBRAS PUBLICAS - METROPOLITANA<br>DIRECCION: Bombero Salas N° 1351 , Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value/>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DIR_COMITE 1</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>FISCALIA DEL MINISTERIO DE OBRAS PUBLICAS - METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Bombero Salas N° 1351 , Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Bombero Salas N° 1351 , Santiago , Santiago</address>
+			<Point><coordinates>-70.6555465,-33.44176700000001</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SUPERINTENDENCIA DE SERVICIOS SANITARIOS OFICINA REGIONAL METROPOLITANA</name>
+				<description><![CDATA[PADRE: SUPERINTENDENCIA DE SERVICIOS SANITARIOS<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DIR_COMITE 1<br>ESTADO: ACTIVO<br>NOMBRE: SUPERINTENDENCIA DE SERVICIOS SANITARIOS OFICINA REGIONAL METROPOLITANA<br>DIRECCION: Moneda N° 673, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SUPERINTENDENCIA DE SERVICIOS SANITARIOS</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DIR_COMITE 1</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SUPERINTENDENCIA DE SERVICIOS SANITARIOS OFICINA REGIONAL METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Moneda N° 673, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Moneda N° 673, Santiago , Santiago</address>
+			<Point><coordinates>-70.6460519,-33.4414787</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE DEPORTES METROPOLITANA</name>
+				<description><![CDATA[PADRE: SUBSECRETARIA DE DEPORTES<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: INACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE DEPORTES METROPOLITANA<br>DIRECCION: Coyancura N° 2241, Providencia, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>SUBSECRETARIA DE DEPORTES</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>INACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE DEPORTES METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Coyancura N° 2241, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Coyancura N° 2241, Providencia, Santiago</address>
+			<Point><coordinates>-70.6083666,-33.4234087</coordinates></Point></Placemark>
+			<Placemark>
+				<name>SECRETARIA REGIONAL MINISTERIAL DE LA MUJER Y EQUIDAD DE GENERO - RM</name>
+				<description><![CDATA[PADRE: MINISTERIO DE LA MUJER Y EQUIDAD DE GENERO<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: SECRETARIA REGIONAL MINISTERIAL DE LA MUJER Y EQUIDAD DE GENERO - RM<br>DIRECCION: Huérfanos N° 1219, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE LA MUJER Y EQUIDAD DE GENERO</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>SECRETARIA REGIONAL MINISTERIAL DE LA MUJER Y EQUIDAD DE GENERO - RM</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Huérfanos N° 1219, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Huérfanos N° 1219, Santiago , Santiago</address>
+			<Point><coordinates>-70.6539612,-33.4399083</coordinates></Point></Placemark>
+			<Placemark>
+				<name>CARABINEROS DE CHILE - HOSPITAL DE CARABINEROS</name>
+				<description><![CDATA[PADRE: MINISTERIO DE SALUD<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 2<br>ESTADO: ACTIVO<br>NOMBRE: CARABINEROS DE CHILE - HOSPITAL DE CARABINEROS<br>DIRECCION: Antonio Varas N° 2500, Ñuñoa, Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>MINISTERIO DE SALUD</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 2</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>CARABINEROS DE CHILE - HOSPITAL DE CARABINEROS</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Antonio Varas N° 2500, Ñuñoa, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Antonio Varas N° 2500, Ñuñoa, Santiago</address>
+			<Point><coordinates>-70.6100865,-33.4501134</coordinates></Point></Placemark>
+			<Placemark>
+				<name>DIRECCION POLICIAL METROPOLITANA DE SANTIAGO</name>
+				<description><![CDATA[PADRE: POLICIA DE INVESTIGACIONES DE CHILE<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: DIRECCION POLICIAL METROPOLITANA DE SANTIAGO<br>DIRECCION: Avenida General Mackenna N° 1370, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>POLICIA DE INVESTIGACIONES DE CHILE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>DIRECCION POLICIAL METROPOLITANA DE SANTIAGO</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avenida General Mackenna N° 1370, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avenida General Mackenna N° 1370, Santiago , Santiago</address>
+			<Point><coordinates>-70.656994,-33.4331877</coordinates></Point></Placemark>
+			<Placemark>
+				<name>POLICIA DE INVESTIGACIONES DE CHILE - METROPOLITANA</name>
+				<description><![CDATA[PADRE: POLICIA DE INVESTIGACIONES DE CHILE<br>ES_PLANIFICABLE: 0<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: INACTIVO<br>NOMBRE: POLICIA DE INVESTIGACIONES DE CHILE - METROPOLITANA<br>DIRECCION: Avenida General Mackenna N° 1370, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>POLICIA DE INVESTIGACIONES DE CHILE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>0.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>INACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>POLICIA DE INVESTIGACIONES DE CHILE - METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Avenida General Mackenna N° 1370, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Avenida General Mackenna N° 1370, Santiago , Santiago</address>
+			<Point><coordinates>-70.656994,-33.4331877</coordinates></Point></Placemark>
+			<Placemark>
+				<name>CARABINEROS DE CHILE - JEFATURA ZONAL METROPOLITANA</name>
+				<description><![CDATA[PADRE: CARABINEROS DE CHILE<br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DAA_AREA 6<br>ESTADO: ACTIVO<br>NOMBRE: CARABINEROS DE CHILE - JEFATURA ZONAL METROPOLITANA<br>DIRECCION: Amunategui N° 519, Santiago , Santiago<br>Color: Verde]]></description>
+				<styleUrl>#icon-1899-0F9D58</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value>CARABINEROS DE CHILE</value>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DAA_AREA 6</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>CARABINEROS DE CHILE - JEFATURA ZONAL METROPOLITANA</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Amunategui N° 519, Santiago , Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Verde</value>
+					</Data>
+				</ExtendedData>
+				<address>Amunategui N° 519, Santiago , Santiago</address>
+			<Point><coordinates>-70.6566916,-33.4376785</coordinates></Point></Placemark>
+		</Folder>
+		<Style id="icon-1899-0F9D58-normal">
+			<IconStyle>
+				<color>ff589D0F</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/ms/icons/green.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="icon-1899-0F9D58-highlight">
+			<IconStyle>
+				<color>ff589D0F</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/ms/icons/green.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id="icon-1899-0F9D58">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

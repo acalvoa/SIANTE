@@ -22,10 +22,25 @@
 			//	NAME: "Servicios Publicos",
 			//	LOGIC: "SERVICES_L"
 			//},
+			//{	
+			//	LINK: "layers/final_archivo.kml",
+			//	NAME: "Servicios Publicos",
+			//	LOGIC: "FINAL_ARCHIVO"
+			//}
 			{	
-				LINK: "layers/final_archivo.kml",
-				NAME: "Servicios Publicos",
-				LOGIC: "FINAL_ARCHIVO"
+				LINK: "layers/capa_azul.kml",
+				NAME: "Sector Municipal",
+				LOGIC: "CAPA_AZUL"
+			},
+			{	
+				LINK: "layers/capa_roja.kml",
+				NAME: "Universidades",
+				LOGIC: "CAPA_ROJA"
+			},
+			{	
+				LINK: "layers/capa_verde.kml",
+				NAME: "Sector Público",
+				LOGIC: "CAPA_VERDE"
 			}
 			],
 			APP: {}
