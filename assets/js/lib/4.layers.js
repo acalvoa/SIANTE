@@ -21,6 +21,7 @@
 			//	LINK: "layers/servicios.kml",
 			//	NAME: "Servicios Publicos",
 			//	LOGIC: "SERVICES_L"
+			//},
 			{	
 				LINK: "layers/final_archivo.kml",
 				NAME: "Servicios Publicos",
