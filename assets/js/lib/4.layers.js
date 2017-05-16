@@ -27,20 +27,40 @@
 			//	NAME: "Servicios Publicos",
 			//	LOGIC: "FINAL_ARCHIVO"
 			//}
+			// {	
+			// 	LINK: "layers/capa_azul.kml",
+			// 	NAME: "Sector Municipal",
+			// 	LOGIC: "CAPA_AZUL"
+			// },
+			// {	
+			// 	LINK: "layers/capa_roja.kml",
+			// 	NAME: "Universidades",
+			// 	LOGIC: "CAPA_ROJA"
+			// },
+			// {	
+			// 	LINK: "layers/capa_verde.kml",
+			// 	NAME: "Sector Público",
+			// 	LOGIC: "CAPA_VERDE"
+			// },
 			{	
-				LINK: "layers/capa_azul.kml",
-				NAME: "Sector Municipal",
-				LOGIC: "CAPA_AZUL"
+				LINK: "layers/Colegios.kml",
+				NAME: "Colegios Independencía, Lo Prado",
+				LOGIC: "COLEGIOS"
 			},
 			{	
-				LINK: "layers/capa_roja.kml",
-				NAME: "Universidades",
-				LOGIC: "CAPA_ROJA"
+				LINK: "layers/CONPATENTE.kml",
+				NAME: "Local - Con patente",
+				LOGIC: "CONPATENTE"
 			},
 			{	
-				LINK: "layers/capa_verde.kml",
-				NAME: "Sector Público",
-				LOGIC: "CAPA_VERDE"
+				LINK: "layers/SINPATENTE.kml",
+				NAME: "Local - Sin patente",
+				LOGIC: "SINPATENTE"
+			},
+			{	
+				LINK: "layers/SININFO.kml",
+				NAME: "Local - Sin Información",
+				LOGIC: "SININFO"
 			}
 			],
 			APP: {}

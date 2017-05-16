@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>SIN PATENTE</name>
+    <Style id="icon-503-DB4436-normal">
+     <IconStyle>
+        <color>ff5252FF</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/red.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff5252FF</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/red.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>GABRIELA MISTRAL 809</name>
+      <address>GABRIELA MISTRAL 809, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 3<br>MÁQUINAS FUERA DE SERVICIO: 2<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: GABRIELA MISTRAL 809, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>3.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>2.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>GABRIELA MISTRAL 809, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7365063,-33.4440841</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 7029</name>
+      <address>SAN PABLO 7029, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 3<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 3<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 7029, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>3.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>3.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 7029, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7342776,-33.4444261</coordinates></Point></Placemark>
+    <Placemark>
+      <name>LOS COPIHUES 6550</name>
+      <address>LOS COPIHUES 6550, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 3<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 3<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: LOS COPIHUES 6550, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>3.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>3.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>LOS COPIHUES 6550, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7276428,-33.4394431</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 6909</name>
+      <address>SAN PABLO 6909, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 4<br>MÁQUINAS FUERA DE SERVICIO: 1<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: SI<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 6909, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>4.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>1.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 6909, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7327334,-33.4443872</coordinates></Point></Placemark>
+    <Placemark>
+      <name>GABRIELA MISTRAL 822</name>
+      <address>GABRIELA MISTRAL 822, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 4<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 4<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: GABRIELA MISTRAL 822, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>4.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>4.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>GABRIELA MISTRAL 822, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7365889,-33.4438276</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 6025 A</name>
+      <address>SAN PABLO 6025 A, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 4<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 4<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 6025 A, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>4.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>4.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 6025 A, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.74251509999999,-33.4445493</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 6009</name>
+      <address>SAN PABLO 6009, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 4<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 4<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 6009, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>4.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>4.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 6009, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7196932,-33.4436459</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 6809</name>
+      <address>SAN PABLO 6809, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 5<br>MÁQUINAS FUERA DE SERVICIO: 6<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 11<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 6809, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>5.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>6.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>11.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 6809, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7313588,-33.4445626</coordinates></Point></Placemark>
+    <Placemark>
+      <name>GABRIELA MISTRAL 830-A</name>
+      <address>GABRIELA MISTRAL 830-A, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 5<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: GABRIELA MISTRAL 830-A, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>5.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>GABRIELA MISTRAL 830-A, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7365949,-33.4436953</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 6871</name>
+      <address>SAN PABLO 6871, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 5<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: SI<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 6871, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>5.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 6871, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7319845,-33.444403</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 6839 A</name>
+      <address>SAN PABLO 6839 A, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 5<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 6839 A, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>5.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 6839 A, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.74251509999999,-33.4445493</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 6535</name>
+      <address>SAN PABLO 6535, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 5<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 6535, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>5.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 6535, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7277746,-33.4442644</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 6536</name>
+      <address>SAN PABLO 6536, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 5<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 6536, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>5.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 6536, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7277671,-33.4446048</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 7023 LOCAL B</name>
+      <address>SAN PABLO 7023, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 5<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 7023, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>5.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 7023, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.73397469999999,-33.4444302</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 7103</name>
+      <address>SAN PABLO 7103, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 5<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 7103, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>5.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 7103, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7347217,-33.4445481</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 7115</name>
+      <address>SAN PABLO 7115, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 5<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 7115, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>5.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 7115, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7349172,-33.4445509</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 7187 LOCAL B</name>
+      <address>SAN PABLO 7187, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 5<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 7187, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>5.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 7187, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.736199,-33.4444456</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 7187 APROXIMADO</name>
+      <address>SAN PABLO 7187, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 5<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 7187, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>5.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 7187, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.736199,-33.4444456</coordinates></Point></Placemark>
+    <Placemark>
+      <name>GABRIELA MISTRAL 807</name>
+      <address>GABRIELA MISTRAL 807, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 5<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: GABRIELA MISTRAL 807, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>5.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>GABRIELA MISTRAL 807, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7365043,-33.4441179</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 6885</name>
+      <address>SAN PABLO 6885, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 6<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 6<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 6885, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>6.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>6.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 6885, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7321606,-33.4445698</coordinates></Point></Placemark>
+    <Placemark>
+      <name>AV. INDEPENDENCIA 2085</name>
+      <address>AV. INDEPENDENCIA 2085, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: INDEPENDENCIA<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 10<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 10<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: AV. INDEPENDENCIA 2085, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>10.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>10.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>AV. INDEPENDENCIA 2085, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6607266,-33.4073312</coordinates></Point></Placemark>
+    <Placemark>
+      <name>AV. VIVACETA 2051</name>
+      <address>AV. VIVACETA 2051, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: INDEPENDENCIA<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 13<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 13<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: AV. VIVACETA 2051, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>13.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>13.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>AV. VIVACETA 2051, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.66855269999999,-33.4043301</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 7145</name>
+      <address>SAN PABLO 7145, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 30<br>MÁQUINAS FUERA DE SERVICIO: 3<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 33<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 7145, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>30.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>3.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>33.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 7145, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7354302,-33.4444784</coordinates></Point></Placemark>
+    <Placemark>
+      <name>AV. INDEPENDENCIA 952</name>
+      <address>AV. INDEPENDENCIA 952, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: INDEPENDENCIA<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 38<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 38<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: AV. INDEPENDENCIA 952, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>38.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>38.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>AV. INDEPENDENCIA 952, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6561207,-33.4199261</coordinates></Point></Placemark>
+    <Placemark>
+      <name>AV. INDEPENDENCIA 1972</name>
+      <address>AV. INDEPENDENCIA 1972, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: INDEPENDENCIA<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 69<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 69<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: AV. INDEPENDENCIA 1972, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>69.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>69.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>AV. INDEPENDENCIA 1972, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6605065,-33.4084978</coordinates></Point></Placemark>
+    <Placemark>
+      <name>AV. INDEPENDENCIA 1989</name>
+      <address>AV. INDEPENDENCIA 1989, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: INDEPENDENCIA<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 110<br>MÁQUINAS FUERA DE SERVICIO: 0<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 110<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: AV. INDEPENDENCIA 1989, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>110.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>0.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>110.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>AV. INDEPENDENCIA 1989, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6603027,-33.4086535</coordinates></Point></Placemark>
+    <Placemark>
+      <name>GABRIELA MISTRAL 830</name>
+      <address>GABRIELA MISTRAL 830, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 0<br>MÁQUINAS FUERA DE SERVICIO: 2<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 2<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: GABRIELA MISTRAL 830, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>0.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>2.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>2.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>GABRIELA MISTRAL 830, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7365949,-33.4436953</coordinates></Point></Placemark>
+    <Placemark>
+      <name>LAS REJAS NORTE 12</name>
+      <address>LAS REJAS NORTE 12, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 0<br>MÁQUINAS FUERA DE SERVICIO: 2<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 2<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: LAS REJAS NORTE 12, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>0.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>2.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>2.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>LAS REJAS NORTE 12, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7112925,-33.4518402</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAN PABLO 7023 LOCAL A</name>
+      <address>SAN PABLO 7023, LO PRADO, Chile</address>
+      <description><![CDATA[REGIÓN: 13<br>COMUNA_: LO PRADO<br>ESTADO LOCAL: SIN PATENTE MUNICIPAL<br>MÁQUINAS ACTIVAS: 0<br>MÁQUINAS FUERA DE SERVICIO: 5<br>TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO): 5<br>TIENE MÁQUINAS TRAGAMONEDA: SI<br>TIENE MÁQUINAS CASCADA: NO<br>TIENE MÁQUINAS PINBALL: NO<br>TIENE OTRO TIPO DE MAQUINA: NO<br>address: SAN PABLO 7023, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="REGIÓN">
+          <value>13.0</value>
+        </Data>
+        <Data name="COMUNA_">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="ESTADO LOCAL">
+          <value>SIN PATENTE MUNICIPAL</value>
+        </Data>
+        <Data name="MÁQUINAS ACTIVAS">
+          <value>0.0</value>
+        </Data>
+        <Data name="MÁQUINAS FUERA DE SERVICIO">
+          <value>5.0</value>
+        </Data>
+        <Data name="TOTAL DE MAQUINAS (ACTIVAS MÁS FUERA DE SERVICIO)">
+          <value>5.0</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS TRAGAMONEDA">
+          <value>SI</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS CASCADA">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE MÁQUINAS PINBALL">
+          <value>NO</value>
+        </Data>
+        <Data name="TIENE OTRO TIPO DE MAQUINA">
+          <value>NO</value>
+        </Data>
+        <Data name="address">
+          <value>SAN PABLO 7023, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.73397469999999,-33.4444302</coordinates></Point></Placemark>
+  </Document>
+</kml>

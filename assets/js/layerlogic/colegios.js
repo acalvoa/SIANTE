@@ -1,6 +1,6 @@
 (function($){
 	// CLASS PROGRAMING IN JAVASCRIPT ES5
-	CAPA_VERDE = new function(ARGS){
+	COLEGIOS = new function(ARGS){
 		// WE DEFINE THE STANDARD PROTOTYPE		
 		// SETTINGS
 		var _SETTINGS = {

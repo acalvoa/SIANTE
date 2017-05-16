@@ -76,7 +76,7 @@
 				$.ajax({
 					url: "layers/"+layer,
 					success: function(result){
-						var placemarks = folder[k].getElementsByTagName("Placemark");
+						var placemarks = result.getElementsByTagName("Placemark");
 						for(i=0;i<placemarks.length;i++){
 							var place = placemarks[i].getElementsByTagName("address")[0].innerHTML
 							$.ajax({

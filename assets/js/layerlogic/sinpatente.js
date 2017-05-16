@@ -1,6 +1,6 @@
 (function($){
 	// CLASS PROGRAMING IN JAVASCRIPT ES5
-	CAPA_VERDE = new function(ARGS){
+	SINPATENTE = new function(ARGS){
 		// WE DEFINE THE STANDARD PROTOTYPE		
 		// SETTINGS
 		var _SETTINGS = {
@@ -159,11 +159,11 @@
 				});
 			},
 			show: function(){
-				_SETTINGS.DATA = MAP.load_kml('/layers/Colegios.kml',{
+				_SETTINGS.DATA = MAP.load_kml('/layers/SINPATENTE.kml',{
 					map:$("div[cartography]").attr("map-target")
 				});
-				LEYENDA.load("Leyenda - Servicios Publicos");
-				LEYENDA.set(_SETTINGS.SCALE);
+				// LEYENDA.load("Leyenda - Servicios Publicos");
+				// LEYENDA.set(_SETTINGS.SCALE);
 			},
 			hide: function(){
 				var placemarks = _SETTINGS.DATA.docs[0].markers

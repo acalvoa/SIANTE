@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Colegios</name>
+    <Style id="icon-503-CDDC39-normal">
+      <IconStyle>
+        <color>ff589D0F</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/green.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-CDDC39-highlight">
+     <IconStyle>
+        <color>ff589D0F</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/green.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-CDDC39">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-CDDC39-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-CDDC39-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name> ESCUELA BASICA N°389 REPUBLICA DE ESTADOS UNIDOS [10114]</name>
+      <address>Scala 751, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 1<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Scala 751<br>Comuna: LO PRADO<br>address: Scala 751, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>1.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Scala 751</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Scala 751, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7144505,-33.44468</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA BASICA PARTICULAR N°811 DRA.VICTORIA GARCIA [10142]</name>
+      <address>Yale 6702, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 2<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Yale 6702<br>Comuna: LO PRADO<br>address: Yale 6702, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>2.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Yale 6702</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Yale 6702, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.73031209999999,-33.4510402</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA DE PARVULOS N°1168 PINOCHO [10195]</name>
+      <address>Los Lingues 7146, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 3<br>Mensualidad:  Sin información<br>Dependencia:  -<br>Dirección: Los Lingues 7146<br>Comuna: LO PRADO<br>address: Los Lingues 7146, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>3.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Sin información</value>
+        </Data>
+        <Data name="Dependencia">
+          <value> -</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Los Lingues 7146</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Los Lingues 7146, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.735608,-33.4439418</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA ESP. MI MUNDO EN PALABRAS [26005]</name>
+      <address>Avenida Portales 5756, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 4<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Avenida Portales 5756<br>Comuna: LO PRADO<br>address: Avenida Portales 5756, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>4.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Avenida Portales 5756</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Avenida Portales 5756, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7143361,-33.445549</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA GOLDA MEIR [10092]</name>
+      <address>Avenida Dorsal 6001, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 5<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Avenida Dorsal 6001<br>Comuna: LO PRADO<br>address: Avenida Dorsal 6001, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>5.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Avenida Dorsal 6001</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Avenida Dorsal 6001, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7166397,-33.4510803</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA IGNACIO CARRERA PINTO [10095]</name>
+      <address>Nicaragua 8131, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 6<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Nicaragua 8131<br>Comuna: LO PRADO<br>address: Nicaragua 8131, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>6.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Nicaragua 8131</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Nicaragua 8131, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7392177,-33.4373184</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA JARDIN LO PRADO [10156]</name>
+      <address>Las Siemprevivas 1081, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 7<br>Mensualidad:  $1.000 a $10.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Las Siemprevivas 1081<br>Comuna: LO PRADO<br>address: Las Siemprevivas 1081, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>7.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $1.000 a $10.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Las Siemprevivas 1081</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Las Siemprevivas 1081, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7320611,-33.43707759999999</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COMPLEJO EDUCACIONAL PEDRO PRADO [10076]</name>
+      <address>Los Canelos 816, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 8<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Los Canelos 816 Altura 6.500 De Av. San Pablo 816<br>Comuna: LO PRADO<br>address: Los Canelos 816, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>8.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Los Canelos 816 Altura 6.500 De Av. San Pablo 816</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Los Canelos 816, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7280657,-33.4437524</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA PARTICULAR BABILONIA [10147]</name>
+      <address>Territorio Antartico 6100, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 9<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Territorio Antartico 6100<br>Comuna: LO PRADO<br>address: Territorio Antartico 6100, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>9.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Territorio Antartico 6100</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Territorio Antartico 6100, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7195559,-33.4482614</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA PARTICULAR ESPECIAL RENACER [10176]</name>
+      <address>Avenida Portales 5904, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 10<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Avenida Portales 5904<br>Comuna: LO PRADO<br>address: Avenida Portales 5904, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>10.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Avenida Portales 5904</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Avenida Portales 5904, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.71671789999999,-33.4451977</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA PARTICULAR RAPA NUI [10149]</name>
+      <address>Av Las Torres 935, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 11<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Av Las Torres 935<br>Comuna: LO PRADO<br>address: Av Las Torres 935, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>11.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Av Las Torres 935</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Av Las Torres 935, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7309566,-33.4408012</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA PARTICULAR ROYAL SCHOOL [11835]</name>
+      <address>Ministro Gana 40 40, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 12<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Ministro Gana 40 40<br>Comuna: LO PRADO<br>address: Ministro Gana 40 40, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>12.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Ministro Gana 40 40</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Ministro Gana 40 40, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7186179,-33.4555194</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA POETA PABLO NERUDA [10106]</name>
+      <address>Obispo Rodriguez 5935, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 13<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Obispo Rodriguez 5935<br>Comuna: LO PRADO<br>address: Obispo Rodriguez 5935, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>13.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Obispo Rodriguez 5935</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Obispo Rodriguez 5935, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.712671,-33.4550223</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA POETA VICENTE HUIDOBRO [10119]</name>
+      <address>Milton Rossel 7191, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 14<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Milton Rossel 7191<br>Comuna: LO PRADO<br>address: Milton Rossel 7191, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>14.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Milton Rossel 7191</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Milton Rossel 7191, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.73435669999999,-33.4515112</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESC. BAS. Y ESP. CELEI [25839]</name>
+      <address>Territorio Antartico 6048, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 15<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Territorio Antartico 6048<br>Comuna: LO PRADO<br>address: Territorio Antartico 6048, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>15.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Territorio Antartico 6048</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Territorio Antartico 6048, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7182973,-33.4482011</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA SOR TERESA DE LOS ANDES [10103]</name>
+      <address>San Pablo 8011 Los Maitenes, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 16<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: San Pablo 8011 Los Maitenes<br>Comuna: LO PRADO<br>address: San Pablo 8011 Los Maitenes, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>16.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>San Pablo 8011 Los Maitenes</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>San Pablo 8011 Los Maitenes, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7383272,-33.4445273</coordinates></Point></Placemark>
+    <Placemark>
+      <name> MUSTAFA KEMAL ATATURK [10010]</name>
+      <address>9 De Julio 5300, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 17<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: 9 De Julio 5300<br>Comuna: LO PRADO<br>address: 9 De Julio 5300, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>17.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>9 De Julio 5300</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>9 De Julio 5300, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7100093,-33.4396568</coordinates></Point></Placemark>
+    <Placemark>
+      <name> CENTRO DE LENGUAJE MARCELA PAZ [25015]</name>
+      <address>Venecia 1572, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 18<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Venecia 1572<br>Comuna: INDEPENDENCIA<br>address: Venecia 1572, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>18.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Venecia 1572</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Venecia 1572, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6619135,-33.4080132</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COLEGIO CIENTIFICO HUMANISTA ALVARO COVARRUBIAS [20519]</name>
+      <address>Calle Huanuco 2347, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 19<br>Mensualidad: <br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Calle Huanuco 2347<br>Comuna: INDEPENDENCIA<br>address: Calle Huanuco 2347, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>19.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value/>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Calle Huanuco 2347</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Calle Huanuco 2347, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6604957,-33.4039779</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COLEGIO ELENA BETTINI [10350]</name>
+      <address>3 De Diciembre 2761, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 20<br>Mensualidad:  $25.001 a $50.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: 3 De Diciembre 2761<br>Comuna: INDEPENDENCIA<br>address: 3 De Diciembre 2761, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>20.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $25.001 a $50.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>3 De Diciembre 2761</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>3 De Diciembre 2761, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6728029,-33.4025715</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COLEGIO INDUSTRIAL VASCO NUNEZ DE BALBOA [8644]</name>
+      <address>Independencia 780, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 21<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Independencia 780<br>Comuna: INDEPENDENCIA<br>address: Independencia 780, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>21.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Independencia 780</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Independencia 780, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6556882,-33.4221828</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COLEGIO JEAN JACQUES [8684]</name>
+      <address>Independencia 2713, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 22<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Independencia 2713<br>Comuna: INDEPENDENCIA<br>address: Independencia 2713, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>22.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Independencia 2713</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Independencia 2713, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.66522549999999,-33.4016805</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COLEGIO PARTICULAR JUAN PABLO [10355]</name>
+      <address>Baron De Juras Reales 2954, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 23<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Baron De Juras Reales 2954<br>Comuna: INDEPENDENCIA<br>address: Baron De Juras Reales 2954, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>23.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Baron De Juras Reales 2954</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Baron De Juras Reales 2954, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6763868,-33.4016535</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COLEGIO POLITEC. AVENIDA INDEPENDENCIA [11885]</name>
+      <address>Avenida Independencia 1869, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 24<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Avenida Independencia 1869<br>Comuna: INDEPENDENCIA<br>address: Avenida Independencia 1869, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>24.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Avenida Independencia 1869</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Avenida Independencia 1869, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6596524,-33.4097494</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COLEGIO POLIVALENTE PLUS ULTRA [8616]</name>
+      <address>Gamero 1270, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 25<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Gamero 1270<br>Comuna: INDEPENDENCIA<br>address: Gamero 1270, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>25.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Gamero 1270</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Gamero 1270, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.65683530000001,-33.4207829</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COLEGIO PRESIDENTE ALESSANDRI [10220]</name>
+      <address>Gamero 721, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 26<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Gamero 721 - Población Juan Antonio Ríos 2 721<br>Comuna: INDEPENDENCIA<br>address: Gamero 721, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>26.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Gamero 721 - Población Juan Antonio Ríos 2 721</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Gamero 721, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6773865,-33.4184664</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESC. BAS. PART. TERESIANA DE SAN GABRIEL [8623]</name>
+      <address>Rivera 1150, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 27<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Rivera 1150<br>Comuna: INDEPENDENCIA<br>address: Rivera 1150, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>27.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Rivera 1150</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Rivera 1150, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6549347,-33.4253737</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESC. DE PARVULOS Y ESPECIAL [31158]</name>
+      <address>Enrique Soro 1015, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 28<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Enrique Soro 1015<br>Comuna: INDEPENDENCIA<br>address: Enrique Soro 1015, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>28.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Enrique Soro 1015</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Enrique Soro 1015, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6717907,-33.4182892</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESC.ESP.ONCOL.HOSP.ROBERTO DEL RIO [25204]</name>
+      <address>Profesor A.Zanartu 1085, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 29<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Profesor A.Zanartu 1085<br>Comuna: INDEPENDENCIA<br>address: Profesor A.Zanartu 1085, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>29.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Profesor A.Zanartu 1085</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Profesor A.Zanartu 1085, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.65479309999999,-33.4174043</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESC. ESP. SAN ANTONIO DE LO PRADO [26370]</name>
+      <address>Fort Dodge 158, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 30<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Fort Dodge 158<br>Comuna: LO PRADO<br>address: Fort Dodge 158, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>30.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Fort Dodge 158</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Fort Dodge 158, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7343136,-33.4520421</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA BASICA CAMILO MORI [8572]</name>
+      <address>Baldomero Flores 2046, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 31<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Baldomero Flores 2046<br>Comuna: INDEPENDENCIA<br>address: Baldomero Flores 2046, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>31.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Baldomero Flores 2046</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Baldomero Flores 2046, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6666024,-33.4243696</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA BASICA CORNELIA OLIVARES [8515]</name>
+      <address>Maruri 697, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 32<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Maruri 697<br>Comuna: INDEPENDENCIA<br>address: Maruri 697, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>32.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Maruri 697</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Maruri 697, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6568638,-33.4232093</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA BASICA N°728 MARYLAND COLLEGE [8703]</name>
+      <address>Gamero 1389, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 33<br>Mensualidad:  $25.001 a $50.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Gamero 1389<br>Comuna: INDEPENDENCIA<br>address: Gamero 1389, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>33.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $25.001 a $50.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Gamero 1389</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Gamero 1389, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6574642,-33.4207641</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA DE PARVULOS ANTU-HUILEN [8529]</name>
+      <address>Gamero 1985, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 34<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Gamero 1985<br>Comuna: INDEPENDENCIA<br>address: Gamero 1985, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>34.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Gamero 1985</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Gamero 1985, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6658638,-33.4221323</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA DE PARVULOS N°1515 HOSP. CLIN DE LA U. DE CHILE [24815]</name>
+      <address>Avenida Santo Dumontt 999, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 35<br>Mensualidad:  Sin información<br>Dependencia:  -<br>Dirección: Avenida Santo Dumontt 999<br>Comuna: INDEPENDENCIA<br>address: Avenida Santo Dumontt 999, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>35.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Sin información</value>
+        </Data>
+        <Data name="Dependencia">
+          <value> -</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Avenida Santo Dumontt 999</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Avenida Santo Dumontt 999, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6530942,-33.4200542</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA ESP. DICKENS COLLEGE [26081]</name>
+      <address>Avenida Salomon Sack 686, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 36<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Avenida Salomon Sack 686 Esquina 18 Norte 686<br>Comuna: INDEPENDENCIA<br>address: Avenida Salomon Sack 686, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>36.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Avenida Salomon Sack 686 Esquina 18 Norte 686</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Avenida Salomon Sack 686, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6752503,-33.4169775</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESC.DE EDUCACION DIFERENCIAL QUILLAHUE [10127]</name>
+      <address>General Buendia 350, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 37<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: General Buendia 350<br>Comuna: LO PRADO<br>address: General Buendia 350, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>37.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>General Buendia 350</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>General Buendia 350, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.727891,-33.4497555</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA NUEVA ZELANDIA [8547]</name>
+      <address>Gamero 2722, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 38<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Gamero 2722<br>Comuna: INDEPENDENCIA<br>address: Gamero 2722, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>38.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Gamero 2722</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Gamero 2722, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6721814,-33.4218916</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA PARTICULAR JUAN PABLO I [8709]</name>
+      <address>Avda. Inglaterra 1433, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 39<br>Mensualidad:  $50.001 a $100.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Avda. Inglaterra 1433<br>Comuna: INDEPENDENCIA<br>address: Avda. Inglaterra 1433, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>39.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $50.001 a $100.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Avda. Inglaterra 1433</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Avda. Inglaterra 1433, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6598331,-33.4122842</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA PARTICULAR SANTA TERESITA [10327]</name>
+      <address>Namur 1258, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 40<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Namur 1258<br>Comuna: INDEPENDENCIA<br>address: Namur 1258, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>40.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Namur 1258</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Namur 1258, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6727265,-33.4123222</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA SAN JORGE [10335]</name>
+      <address>14 De La Fama 2660, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 41<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: 14 De La Fama 2660<br>Comuna: INDEPENDENCIA<br>address: 14 De La Fama 2660, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>41.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>14 De La Fama 2660</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>14 De La Fama 2660, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6774246,-33.4015639</coordinates></Point></Placemark>
+    <Placemark>
+      <name><![CDATA[ ESCUELA TECNICA L.BDO.O'HIGGINS-DIURNA [8621]]]></name>
+      <address>Avda. Independencia 439, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 42<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Avda. Independencia 439<br>Comuna: INDEPENDENCIA<br>address: Avda. Independencia 439, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>42.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Avda. Independencia 439</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Avda. Independencia 439, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6544201,-33.4258188</coordinates></Point></Placemark>
+    <Placemark>
+      <name> LICEO GABRIELA MISTRAL [8497]</name>
+      <address>Av. Independencia 1225, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 43<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Av. Independencia 1225<br>Comuna: INDEPENDENCIA<br>address: Av. Independencia 1225, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>43.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Av. Independencia 1225</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Av. Independencia 1225, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6566861,-33.4159246</coordinates></Point></Placemark>
+    <Placemark>
+      <name> LICEO LAS AMERICAS MODERNAS [10321]</name>
+      <address>Fermin Vivaceta 1824, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 44<br>Mensualidad:  $1.000 a $10.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Fermin Vivaceta 1824<br>Comuna: INDEPENDENCIA<br>address: Fermin Vivaceta 1824, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>44.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $1.000 a $10.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Fermin Vivaceta 1824</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Fermin Vivaceta 1824, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.66710030000002,-33.4085883</coordinates></Point></Placemark>
+    <Placemark>
+      <name> LICEO MIGUEL RAFAEL PRADO [8589]</name>
+      <address>Gamero 1651, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 45<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Gamero 1651<br>Comuna: INDEPENDENCIA<br>address: Gamero 1651, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>45.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Gamero 1651</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Gamero 1651, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6593194,-33.4210551</coordinates></Point></Placemark>
+    <Placemark>
+      <name> LICEO POLIVALENTE A80 PRESIDENTE JOSE MANUEL BALMACEDA [10199]</name>
+      <address>Salomon Sack 331, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 46<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Salomon Sack 331<br>Comuna: INDEPENDENCIA<br>address: Salomon Sack 331, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>46.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Salomon Sack 331</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Salomon Sack 331, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.669935,-33.41990910000001</coordinates></Point></Placemark>
+    <Placemark>
+      <name> LICEO SAN FRANCISCO DE QUITO [8542]</name>
+      <address>Huasco 1801, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 47<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Huasco 1801<br>Comuna: INDEPENDENCIA<br>address: Huasco 1801, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>47.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Huasco 1801</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Huasco 1801, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6627751,-33.4107385</coordinates></Point></Placemark>
+    <Placemark>
+      <name> LICEO SANTA TERESITA [10223]</name>
+      <address>Padre Faustino Gazziero 2348, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 48<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Padre Faustino Gazziero 2348<br>Comuna: INDEPENDENCIA<br>address: Padre Faustino Gazziero 2348, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>48.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Padre Faustino Gazziero 2348</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Padre Faustino Gazziero 2348, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6745676,-33.4117394</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA BAS. MY GARDEN SCHOOL [25838]</name>
+      <address>San Pablo N°6135, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 49<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: San Pablo N°6135<br>Comuna: LO PRADO<br>address: San Pablo N°6135, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>49.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>San Pablo N°6135</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>San Pablo N°6135, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7237584,-33.4443073</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COLEGIO ADVENTISTA SANTIAGO PONIENTE [24730]</name>
+      <address>Pedro De Cordova 5817, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 50<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección:  Pedro De Cordova 5817<br>Comuna: LO PRADO<br>address:  Pedro De Cordova 5817, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>50.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value> Pedro De Cordova 5817</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value> Pedro De Cordova 5817, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.71040459999999,-33.4515656</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COLEGIO ARTURO TORO AMOR [10224]</name>
+      <address>Enrique Soro 1059, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 51<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Enrique Soro 1059<br>Comuna: INDEPENDENCIA<br>address: Enrique Soro 1059, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>51.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Enrique Soro 1059</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Enrique Soro 1059, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6714904,-33.4179254</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COLEGIO GEORGE WASHINGTON [8728]</name>
+      <address>Echeverria 935, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 52<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Echeverria 935<br>Comuna: INDEPENDENCIA<br>address: Echeverria 935, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>52.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Echeverria 935</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Echeverria 935, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6516408,-33.4249528</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESC. ESP. DE LENGUAJE SAN EXPEDITO [31277]</name>
+      <address>Las Madreselvas 821, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 53<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Las Madreselvas 821<br>Comuna: LO PRADO<br>address: Las Madreselvas 821, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>53.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Las Madreselvas 821</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Las Madreselvas 821, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.72666850000002,-33.4439618</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COLEGIO POLITECNICO AVDA. INDEPENDENCIA [8654]</name>
+      <address>General Saavedra 1339, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 54<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: General Saavedra 1339<br>Comuna: INDEPENDENCIA<br>address: General Saavedra 1339, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>54.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>General Saavedra 1339</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>General Saavedra 1339, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6587831,-33.4091943</coordinates></Point></Placemark>
+    <Placemark>
+      <name> COLEGIO SANTA MARIA CERVELLON [8769]</name>
+      <address>Avenida Independencia 1783, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 55<br>Mensualidad:  Más de $100.000<br>Dependencia:  -<br>Dirección: Avenida Independencia 1783<br>Comuna: INDEPENDENCIA<br>address: Avenida Independencia 1783, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>55.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Más de $100.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value> -</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Avenida Independencia 1783</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Avenida Independencia 1783, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6592251,-33.410841</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESC. ESP.PART. SAN AGUSTIN DE INDEPENDENCIA [25953]</name>
+      <address>Bezanilla 1655, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 56<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Bezanilla 1655<br>Comuna: INDEPENDENCIA<br>address: Bezanilla 1655, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>56.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Bezanilla 1655</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Bezanilla 1655, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.66269,-33.4177716</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESC.PART.ALVARO COVARRUBIAS ARLEGUI ANEX [24931]</name>
+      <address>Avda Einstein 1250, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 57<br>Mensualidad:  $50.001 a $100.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Avda Einstein 1250<br>Comuna: INDEPENDENCIA<br>address: Avda Einstein 1250, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>57.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $50.001 a $100.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Avda Einstein 1250</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Avda Einstein 1250, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6585498,-33.4029275</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA BASICA N°1436 COLEGIO IBEROAMERICANO [24647]</name>
+      <address>Domingo Santa Maria 1675, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 58<br>Mensualidad:  Más de $100.000<br>Dependencia:  -<br>Dirección: Domingo Santa Maria 1675<br>Comuna: INDEPENDENCIA<br>address: Domingo Santa Maria 1675, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>58.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Más de $100.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value> -</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Domingo Santa Maria 1675</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Domingo Santa Maria 1675, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6615544,-33.415577</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA DE PARVULOS N° 1300 ALVARO COVARRUBIAS A. [11959]</name>
+      <address>Calle Huanaco 2365, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 59<br>Mensualidad:  Sin información<br>Dependencia:  -<br>Dirección: Calle Huanaco 2365<br>Comuna: INDEPENDENCIA<br>address: Calle Huanaco 2365, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>59.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Sin información</value>
+        </Data>
+        <Data name="Dependencia">
+          <value> -</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Calle Huanaco 2365</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Calle Huanaco 2365, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6605653,-33.4036788</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA LUIS GALDAMES [10282]</name>
+      <address>Luis Galdames 2110, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 60<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Luis Galdames 2110<br>Comuna: INDEPENDENCIA<br>address: Luis Galdames 2110, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>60.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Luis Galdames 2110</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Luis Galdames 2110, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6730104,-33.4064801</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA CENTRO EDUC.INTEGRAL DE ADULTOS [10128]</name>
+      <address>San Pablo 6500, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 61<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: San Pablo 6500<br>Comuna: LO PRADO<br>address: San Pablo 6500, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>61.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>San Pablo 6500</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>San Pablo 6500, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7272911,-33.44460410000001</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA PARTICULAR ISLA DE PASCUA [10372]</name>
+      <address>Grumete Pantaleon Cortes 1989, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 62<br>Mensualidad:  $1.000 a $10.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Grumete Pantaleon Cortes 1989<br>Comuna: INDEPENDENCIA<br>address: Grumete Pantaleon Cortes 1989, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>62.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $1.000 a $10.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Grumete Pantaleon Cortes 1989</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Grumete Pantaleon Cortes 1989, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6735052,-33.4074127</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA PARTICULAR THOMAS JEFFERSON [8726]</name>
+      <address>Pablo Urzua 1438, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 63<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Pablo Urzua 1438<br>Comuna: INDEPENDENCIA<br>address: Pablo Urzua 1438, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>63.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Pablo Urzua 1438</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Pablo Urzua 1438, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6604637,-33.4009194</coordinates></Point></Placemark>
+    <Placemark>
+      <name> LICEO ADULTOS PART.LAS AMERICAS MODERNAS [24763]</name>
+      <address>Fermin Vivaceta 1824, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 64<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Fermin Vivaceta 1824<br>Comuna: INDEPENDENCIA<br>address: Fermin Vivaceta 1824, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>64.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Fermin Vivaceta 1824</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Fermin Vivaceta 1824, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.66710030000002,-33.4085883</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA ANEXO BASICA PART.VILLA LOURDES [24854]</name>
+      <address>Gabriela Mistral 141, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 65<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Gabriela Mistral 141<br>Comuna: LO PRADO<br>address: Gabriela Mistral 141, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>65.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Gabriela Mistral 141</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Gabriela Mistral 141, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7377784,-33.4518512</coordinates></Point></Placemark>
+    <Placemark>
+      <name> LICEO ROSA ESTER ALESANDRI RODRIGUEZ [8514]</name>
+      <address>Huasco 1889, INDEPENDENCIA, Chile</address>
+      <description><![CDATA[N°: 66<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Huasco 1889<br>Comuna: INDEPENDENCIA<br>address: Huasco 1889, INDEPENDENCIA, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>66.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Huasco 1889</value>
+        </Data>
+        <Data name="Comuna">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="address">
+          <value>Huasco 1889, INDEPENDENCIA, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6625227,-33.40963930000001</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA BAS. COLEGIO BAU [10160]</name>
+      <address>Av Las Torres 365, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 67<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Av Las Torres 365<br>Comuna: LO PRADO<br>address: Av Las Torres 365, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>67.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Av Las Torres 365</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Av Las Torres 365, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7310585,-33.4501053</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA ESP. RUCAMALEN [25433]</name>
+      <address>Avenida Portales 6010, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 68<br>Mensualidad:  Gratuito<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Avenida Portales 6010<br>Comuna: LO PRADO<br>address: Avenida Portales 6010, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>68.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Avenida Portales 6010</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Avenida Portales 6010, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7193188,-33.4450524</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA JAIME GOMEZ GARCIA [10089]</name>
+      <address>San German 839, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 69<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: San German 839<br>Comuna: LO PRADO<br>address: San German 839, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>69.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>San German 839</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>San German 839, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7196773,-33.4421005</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA MARISCAL DE AYACUCHO [10097]</name>
+      <address>Gabriela Mistral 992, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 70<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: Gabriela Mistral 992<br>Comuna: LO PRADO<br>address: Gabriela Mistral 992, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>70.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Gabriela Mistral 992</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Gabriela Mistral 992, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.73630589999999,-33.4404964</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA PARTICULAR FRINGS COLLEGE [10140]</name>
+      <address>Sagitario 5295, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 71<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Sagitario 5295,Anexo Dagoberto Godoy 5859<br>Comuna: LO PRADO<br>address: Sagitario 5295, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>71.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Sagitario 5295,Anexo Dagoberto Godoy 5859</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Sagitario 5295, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7076374,-33.453849</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA PARTICULAR VILLA LOURDES [10171]</name>
+      <address>Milton Rossel 7243, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 72<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Milton Rossel 7243 Villa Presidente Kennedy 7243<br>Comuna: LO PRADO<br>address: Milton Rossel 7243, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>72.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Milton Rossel 7243 Villa Presidente Kennedy 7243</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Milton Rossel 7243, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7361729,-33.4513203</coordinates></Point></Placemark>
+    <Placemark>
+      <name> ESCUELA PROFESORA GLADYS VALENZUELA V [10091]</name>
+      <address>General Buendia 509, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 73<br>Mensualidad:  Gratuito<br>Dependencia: MUNICIPAL<br>Dirección: General Buendia 509<br>Comuna: LO PRADO<br>address: General Buendia 509, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>73.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> Gratuito</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>MUNICIPAL</value>
+        </Data>
+        <Data name="Dirección">
+          <value>General Buendia 509</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>General Buendia 509, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.72678789999999,-33.4471519</coordinates></Point></Placemark>
+    <Placemark>
+      <name> LICEO TENIENTE DAGOBERTO GODOY NO.3 [10162]</name>
+      <address>Isla Decepcion 232, LO PRADO, Chile</address>
+      <description><![CDATA[N°: 74<br>Mensualidad:  $10.001 a $25.000<br>Dependencia: PARTICULAR SUBVENCIONADO<br>Dirección: Isla Decepcion 232<br>Comuna: LO PRADO<br>address: Isla Decepcion 232, LO PRADO, Chile]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <ExtendedData>
+        <Data name="N°">
+          <value>74.0</value>
+        </Data>
+        <Data name="Mensualidad">
+          <value> $10.001 a $25.000</value>
+        </Data>
+        <Data name="Dependencia">
+          <value>PARTICULAR SUBVENCIONADO</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Isla Decepcion 232</value>
+        </Data>
+        <Data name="Comuna">
+          <value>LO PRADO</value>
+        </Data>
+        <Data name="address">
+          <value>Isla Decepcion 232, LO PRADO, Chile</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7137205,-33.4507843</coordinates></Point></Placemark>
+  </Document>
+</kml>
