@@ -2,6 +2,7 @@ div[leyenda]{
 	position: absolute;
 	z-index: 1000;
 	min-width: 250px;
+	max-width: 300px;
 	width: auto;
 	height: auto;
 	background: rgba(255, 255, 255, 0.9);
@@ -37,6 +38,28 @@ div[leyenda]{
 			    width: 20px;
 				color: #666;
 				text-align: center;
+			}
+		}
+		div[itemleyedcolumn]{
+			float: left;
+		    height: 40px;
+		    width: 100%;
+		    margin-left: 3px;
+			div[itemcolor]{
+				float: left;
+			    height: 30px;
+			    width: 30px;
+			}
+			div[itemnumber]{
+				float: left;
+				height: 40px;
+				line-height: 40px;
+				vertical-align: middle;
+				padding-left: 10px;
+			    width: ~'calc(100% - 80px)';
+				color: #666;
+				text-align: left;
+				font-size: 14px;
 			}
 		}
 	}

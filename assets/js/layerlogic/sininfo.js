@@ -162,8 +162,25 @@
 				_SETTINGS.DATA = MAP.load_kml('/layers/SININFO.kml',{
 					map:$("div[cartography]").attr("map-target")
 				});
-				// LEYENDA.load("Leyenda - Servicios Publicos");
-				// LEYENDA.set(_SETTINGS.SCALE);
+				LEYENDA.load("Leyenda - Colegios y Locales");
+				LEYENDA.setColumn({
+					Colegios: {
+						TYPE: 'IMG',
+						IMG: 'http://maps.google.com/mapfiles/kml/pal3/icon21.png'
+					},
+					'Locales Sin Patente':{
+						TYPE: 'COLOR',
+						COLOR: "red"
+					},
+					'Locales Sin Información':{
+						TYPE: 'COLOR',
+						COLOR: "yellow"
+					},
+					'Locales Con Patente':{
+						TYPE: 'COLOR',
+						COLOR: "blue"
+					}
+				});
 			},
 			hide: function(){
 				var placemarks = _SETTINGS.DATA.docs[0].markers
