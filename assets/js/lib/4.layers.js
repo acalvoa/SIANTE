@@ -61,6 +61,21 @@
 				LINK: "layers/SININFO.kml",
 				NAME: "Local - Sin Información",
 				LOGIC: "SININFO"
+			},
+			{	
+				LINK: "layers/salud.kml",
+				NAME: "Centros de Salud",
+				LOGIC: "SALUD"
+			},
+			{	
+				LINK: "layers/comisarias.kml",
+				NAME: "Comisarias",
+				LOGIC: "COMISARIAS"
+			},
+			{	
+				LINK: "layers/pdi.kml",
+				NAME: "Policia de Investigaciones",
+				LOGIC: "PDI"
 			}
 			],
 			APP: {}
