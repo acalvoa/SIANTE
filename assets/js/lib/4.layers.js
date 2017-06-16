@@ -73,6 +73,11 @@
 				LOGIC: "COMISARIAS"
 			},
 			{	
+				LINK: "layers/pdi.kml",
+				NAME: "Policia de Investigaciones",
+				LOGIC: "PDI"
+			},
+			{	
 				LINK: "layers/colegios_lo_prado.kml",
 				NAME: "Colegios de Lo Prado",
 				LOGIC: "COLEGIOS_LO_PRADO"
