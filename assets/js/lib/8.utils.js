@@ -78,7 +78,8 @@
 					success: function(result){
 						var placemarks = result.getElementsByTagName("Placemark");
 						for(i=0;i<placemarks.length;i++){
-							var place = placemarks[i].getElementsByTagName("address")[0].innerHTML
+							console.log(placemarks[i]);
+							var place = placemarks[i].getElementsByTagName("address")[0].innerHTML;
 							$.ajax({
 							  	dataType: "json",
 							  	url: 'https://maps.googleapis.com/maps/api/geocode/json?address='+place,
