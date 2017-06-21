@@ -86,6 +86,11 @@
 				LINK: "layers/locales_patentes.kml",
 				NAME: "Locales con Patente - Lo Prado",
 				LOGIC: "LOCALES_LO_PRADO"
+			},
+			{
+				LINK: "layers/locales_con_patentes_independencia.kml",
+				NAME: "Locales con Patentes - Independencia",
+				LOGIC: "L_CON_PATENTE_INDEPENDENCIA"
 			}
 			],
 			APP: {}

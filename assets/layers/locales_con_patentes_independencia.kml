@@ -1,0 +1,2282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Locales con Patentes - Independencia</name>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ALEJANDRO LUNA SOTO</name>
+      <address>AV. INDEPENDENCIA, 2089, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 726546<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 022740364-0<br>DIRECCION: AV. INDEPENDENCIA, 2089, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: VTA COMIDA AL PASO JUEGOS ELECTRONICOS DE DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 10 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>726546.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>022740364-0</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 2089, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>VTA COMIDA AL PASO JUEGOS ELECTRONICOS DE DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>10 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6607338,-33.407293</coordinates></Point></Placemark>
+    <Placemark>
+      <name>JUAN MARTINEZ CASTRO</name>
+      <address>AV. GAMERO, 1502-C, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 727729<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 019934957-0<br>DIRECCION: AV. GAMERO, 1502-C, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: CONF BEB CIGARR JUEGOS ELEC DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 10 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>727729.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>019934957-0</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. GAMERO, 1502-C, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>CONF BEB CIGARR JUEGOS ELEC DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>10 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6589032,-33.4209916</coordinates></Point></Placemark>
+    <Placemark>
+      <name>ROMAN SIGUENZA VALLES ENTRETENIMIENTOS EIRL</name>
+      <address>AV. INDEPENDENCIA, 2098, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 727259<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 076046275-6<br>DIRECCION: AV. INDEPENDENCIA, 2098, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: INT VIDEO JUEGOS CTR LLAM ALMAC N/ AGENC VIAJE JUEGOS ELEC  DEST<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 12 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>727259.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>076046275-6</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 2098, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>INT VIDEO JUEGOS CTR LLAM ALMAC N/ AGENC VIAJE JUEGOS ELEC  DEST</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>12 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6609324,-33.4072591</coordinates></Point></Placemark>
+    <Placemark>
+      <name>JAZNA MIMICA YAVAR</name>
+      <address>ENRIQUE SORO, 1022, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 727934<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 016558447-3<br>DIRECCION: ENRIQUE SORO, 1022, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALIMENT MASCOT CONF BEB JUEGOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 12 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>727934.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>016558447-3</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>ENRIQUE SORO, 1022, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALIMENT MASCOT CONF BEB JUEGOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>12 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6722892,-33.4186543</coordinates></Point></Placemark>
+    <Placemark>
+      <name>JUAN CARLOS TORO RIVERA</name>
+      <address>PROF. ZAÑARTU, 1127-A, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 723073<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 010350827-4<br>DIRECCION: PROF. ZAÑARTU, 1127-A, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMAC BAZAR  PAQ. COMIDA PREP. BEB JUEGOS ELECTRONICOS<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 15 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>723073.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>010350827-4</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>PROF. ZAÑARTU, 1127-A, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMAC BAZAR  PAQ. COMIDA PREP. BEB JUEGOS ELECTRONICOS</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>15 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.65481640000002,-33.4175869</coordinates></Point></Placemark>
+    <Placemark>
+      <name>DROGUET VALENZUELA SUSAN</name>
+      <address>MANUEL CONTRERAS, 2780, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 714363<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 010227203-K<br>DIRECCION: MANUEL CONTRERAS, 2780, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: BAZAR LACTEOS AVES JUEGOS ELECTRONICOS<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 2 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>714363.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>010227203-K</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>MANUEL CONTRERAS, 2780, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>BAZAR LACTEOS AVES JUEGOS ELECTRONICOS</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>2 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6739214,-33.4109432</coordinates></Point></Placemark>
+    <Placemark>
+      <name>LEIVA BASCUNAN GLADYS</name>
+      <address>LONGITUDINAL 3, 502, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 725342<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 007205949-2<br>DIRECCION: LONGITUDINAL 3, 502, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMACEN DE COMESTIBLES JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 2 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>725342.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>007205949-2</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>LONGITUDINAL 3, 502, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMACEN DE COMESTIBLES JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>2 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6737,-33.419567</coordinates></Point></Placemark>
+    <Placemark>
+      <name>ROSA HERNANDEZ PAREDES</name>
+      <address>GRUMETE BUSTOS, 602, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 726221<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 014690627-3<br>DIRECCION: GRUMETE BUSTOS, 602, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: CTR LLAM INT BEB CONF ENV FAB AUT JUEGOS ELEC DEST<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 2 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>726221.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>014690627-3</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>GRUMETE BUSTOS, 602, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>CTR LLAM INT BEB CONF ENV FAB AUT JUEGOS ELEC DEST</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>2 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6621468,-33.4258161</coordinates></Point></Placemark>
+    <Placemark>
+      <name>LORENA GUTIERREZ MANRIQUEZ</name>
+      <address>AV. HIPODROMO CHILE, 1386, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728831<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 010190157-2<br>DIRECCION: AV. HIPODROMO CHILE, 1386, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: JUEGOS ELECTRONICOS DE DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 20 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728831.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>010190157-2</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. HIPODROMO CHILE, 1386, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>JUEGOS ELECTRONICOS DE DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>20 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6604341,-33.4070814</coordinates></Point></Placemark>
+    <Placemark>
+      <name>JEANNETTE HERMOSILLA VALENZUELA</name>
+      <address>AV. INDEPENDENCIA, 178, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 726836<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 011155811-6<br>DIRECCION: AV. INDEPENDENCIA, 178, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: BAZAR PAQ CONF BEB HEL CIG JUEGOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 27 MAQUINAS<br>LOCAL: 104]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>726836.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>011155811-6</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 178, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>BAZAR PAQ CONF BEB HEL CIG JUEGOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>27 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value>104</value>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.65331619999999,-33.4299088</coordinates></Point></Placemark>
+    <Placemark>
+      <name>AGUILERA OLIVARES MARTA</name>
+      <address>AV. VIVACETA, 1092, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 714283<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 004813964-7<br>DIRECCION: AV. VIVACETA, 1092, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMACEN DE COMEST JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 3 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>714283.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>004813964-7</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. VIVACETA, 1092, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMACEN DE COMEST JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>3 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6636012,-33.4183131</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SUC BARRERA B BENJAMIN</name>
+      <address>AV. EL PINO, 801, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 602185<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 053121740-3<br>DIRECCION: AV. EL PINO, 801, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: SUPERMERCADO JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 3 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>602185.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>053121740-3</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. EL PINO, 801, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>SUPERMERCADO JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>3 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6655337,-33.4253291</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SOC. COMERCIAL E IMPORT. L Y B LTDA.</name>
+      <address>AV. INDEPENDENCIA, 934, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 729617<br>CLASIF.: COMERCIAL<br>TIPO: PROVISORIA<br>RUT: 076131489-0<br>DIRECCION: AV. INDEPENDENCIA, 934, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: JUEGOS ELECTRONICOS DE ENTRETENIMIENTO<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 37 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>729617.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>PROVISORIA</value>
+        </Data>
+        <Data name="RUT">
+          <value>076131489-0</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 934, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>JUEGOS ELECTRONICOS DE ENTRETENIMIENTO</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>37 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.65593299999999,-33.4200927</coordinates></Point></Placemark>
+    <Placemark>
+      <name>DAZA QUINONES MIGUEL</name>
+      <address>NUEVA UNO, 1624, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 720864<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 007470510-3<br>DIRECCION: NUEVA UNO, 1624, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMAC FRUT/VERDUR JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 4 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>720864.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>007470510-3</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>NUEVA UNO, 1624, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMAC FRUT/VERDUR JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>4 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6766916,-33.4099902</coordinates></Point></Placemark>
+    <Placemark>
+      <name>BAZARESBRZ SPA.</name>
+      <address>AV. INDEPENDENCIA, 1008, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 727710<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 076408019-k<br>DIRECCION: AV. INDEPENDENCIA, 1008, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: BAZAR JUEGOS ELECTRONICOS<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 4 MAQUINAS<br>LOCAL: 2]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>727710.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>076408019-k</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 1008, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>BAZAR JUEGOS ELECTRONICOS</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>4 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value>2</value>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.65609390000002,-33.41925519999999</coordinates></Point></Placemark>
+    <Placemark>
+      <name>MAURICIO ARAVENA VALENZUELA</name>
+      <address>LASTRA, 1157, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 724460<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 012465699-0<br>DIRECCION: LASTRA, 1157, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMACEN COMESTIBLES JUEGOS ELEC. DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 4 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>724460.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>012465699-0</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>LASTRA, 1157, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMACEN COMESTIBLES JUEGOS ELEC. DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>4 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6550382,-33.4284199</coordinates></Point></Placemark>
+    <Placemark>
+      <name>ENRIQUE CALLAMPI QUISPE</name>
+      <address>AV. GAMERO, 1819, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 724775<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 014752124-3<br>DIRECCION: AV. GAMERO, 1819, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMACENES DE COMESTIBLES JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 4 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>724775.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>014752124-3</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. GAMERO, 1819, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMACENES DE COMESTIBLES JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>4 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6635115,-33.4217437</coordinates></Point></Placemark>
+    <Placemark>
+      <name>VERGARA DIAZ RAQUEL</name>
+      <address>OBISPO CARLOS SAN MARTIN, 1731, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 724787<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 008588827-7<br>DIRECCION: OBISPO CARLOS SAN MARTIN, 1731, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: BAZAR CONF BEB HELADOS JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 4 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>724787.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>008588827-7</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>OBISPO CARLOS SAN MARTIN, 1731, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>BAZAR CONF BEB HELADOS JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>4 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6717824,-33.4093027</coordinates></Point></Placemark>
+    <Placemark>
+      <name>BAZARESBRZ SPA.</name>
+      <address>AV. INDEPENDENCIA, 1008, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 727710<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 076408019-k<br>DIRECCION: AV. INDEPENDENCIA, 1008, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: BAZAR JUEGOS ELECTRONICOS<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 4 MAQUINAS<br>LOCAL: 2]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>727710.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>076408019-k</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 1008, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>BAZAR JUEGOS ELECTRONICOS</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>4 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value>2</value>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.65609390000002,-33.41925519999999</coordinates></Point></Placemark>
+    <Placemark>
+      <name>CABEZA CABEZA MANUEL</name>
+      <address>MARURI, 1635, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 800344<br>CLASIF.: MICROEMP<br>TIPO: DEFINITIVA<br>RUT: 003066177-k<br>DIRECCION: MARURI, 1635, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: BILLAR ALMAC FRUT VERD CIG POOLI PING PONG JUEGOS ELECT. DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 4 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>800344.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>MICROEMP</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>003066177-k</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>MARURI, 1635, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>BILLAR ALMAC FRUT VERD CIG POOLI PING PONG JUEGOS ELECT. DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>4 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.66146669999999,-33.4120048</coordinates></Point></Placemark>
+    <Placemark>
+      <name>BERNARDA AROS VILLALOBOS</name>
+      <address>AV. GAMERO, 2368, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 680010<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 006679920-4<br>DIRECCION: AV. GAMERO, 2368, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: BEB ANALCOHOLICAS Y CONF JUEGOS ELEC DEST<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 5 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>680010.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>006679920-4</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. GAMERO, 2368, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>BEB ANALCOHOLICAS Y CONF JUEGOS ELEC DEST</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>5 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6649589,-33.4219802</coordinates></Point></Placemark>
+    <Placemark>
+      <name>FRANCO VILLABLANCA CARLO</name>
+      <address>AV. SALOMON SACK, 914, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 711427<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 007220010-1<br>DIRECCION: AV. SALOMON SACK, 914, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: JUEGOS ELECTRONICOS JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 5 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>711427.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>007220010-1</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. SALOMON SACK, 914, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>JUEGOS ELECTRONICOS JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>5 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.67802879999999,-33.41447160000001</coordinates></Point></Placemark>
+    <Placemark>
+      <name>REGIS MORALES DE BALTA</name>
+      <address>RIVERA, 1208, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728295<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 022087566-0<br>DIRECCION: RIVERA, 1208, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: BAZAR CONF BEB CTRO DE LLAM JUEG ELECTRON DEST<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 5 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728295.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>022087566-0</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>RIVERA, 1208, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>BAZAR CONF BEB CTRO DE LLAM JUEG ELECTRON DEST</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>5 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6552128,-33.4254311</coordinates></Point></Placemark>
+    <Placemark>
+      <name>LUIS ALBERTO SERRANO ROJAS</name>
+      <address>LUIS GONZALEZ, 902, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728848<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 005121410-2<br>DIRECCION: LUIS GONZALEZ, 902, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: BAZAR Y JUEGOS ELECT DESTREZA (SIN AUT. DE FUNC. MAQUINAS)<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 5 MAQUINAS<br>LOCAL: 2]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728848.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>005121410-2</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>LUIS GONZALEZ, 902, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>BAZAR Y JUEGOS ELECT DESTREZA (SIN AUT. DE FUNC. MAQUINAS)</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>5 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value>2</value>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6638327,-33.4217209</coordinates></Point></Placemark>
+    <Placemark>
+      <name>PATRICIA PEÑA MARTINEZ</name>
+      <address>AV. LA PAZ, 390, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 721576<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 008040525-1<br>DIRECCION: AV. LA PAZ, 390, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMACEN JUEGOS ELECTRONICOS<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 6 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>721576.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>008040525-1</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. LA PAZ, 390, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMACEN JUEGOS ELECTRONICOS</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>6 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6513495,-33.4272078</coordinates></Point></Placemark>
+    <Placemark>
+      <name>MARIA PATRICIA LANTADILLA MEDINA</name>
+      <address>AV. VIVACETA, 2059, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 723104<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 008015701-0<br>DIRECCION: AV. VIVACETA, 2059, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: FUENTE DE SODA JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 6 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>723104.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>008015701-0</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. VIVACETA, 2059, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>FUENTE DE SODA JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>6 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.662007,-33.4235373</coordinates></Point></Placemark>
+    <Placemark>
+      <name>PANIFICADORA GURIA LTDA</name>
+      <address>QUINCE NORTE, 910, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 708308<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 078012650-7<br>DIRECCION: QUINCE NORTE, 910, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: FCA PAN MASAS DULCES ALMAC CEC LACT JUEGOS ELECTRONICOS<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 6 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>708308.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>078012650-7</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>QUINCE NORTE, 910, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>FCA PAN MASAS DULCES ALMAC CEC LACT JUEGOS ELECTRONICOS</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>6 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6754593,-33.4195165</coordinates></Point></Placemark>
+    <Placemark>
+      <name>HILDA SUSANA ESPINOZA MUÑOZ</name>
+      <address>RIVERA, 1301, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 800096<br>CLASIF.: MICROEMP<br>TIPO: DEFINITIVA<br>RUT: 014674873-2<br>DIRECCION: RIVERA, 1301, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMAC C/LLAM INTERN JUEG/DEST. PELUQUERIA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 6 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>800096.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>MICROEMP</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>014674873-2</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>RIVERA, 1301, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMAC C/LLAM INTERN JUEG/DEST. PELUQUERIA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>6 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.65562779999999,-33.4255424</coordinates></Point></Placemark>
+    <Placemark>
+      <name>ROLANDO JORQUERA GONZALEZ</name>
+      <address>AV. EL PINO, 810, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 722719<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 007994875-6<br>DIRECCION: AV. EL PINO, 810, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMACEN Y VERDULERIA JUEGOS ELECTRONICOS<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 7 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>722719.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>007994875-6</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. EL PINO, 810, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMACEN Y VERDULERIA JUEGOS ELECTRONICOS</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>7 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6655774,-33.4252149</coordinates></Point></Placemark>
+    <Placemark>
+      <name>PEPE ROJAS LAUREANO</name>
+      <address>TRES NORTE, 604, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 725702<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 014732120-1<br>DIRECCION: TRES NORTE, 604, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMACEN PAN FRUT Y VERDURAS EXPORT ENTRET ELECRTONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 4 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>725702.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>014732120-1</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>TRES NORTE, 604, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMACEN PAN FRUT Y VERDURAS EXPORT ENTRET ELECRTONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>4 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6657275,-33.4266635</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SERGIO BENAVIDES SERV. DE ENTRETENIMIENTOS EIRL</name>
+      <address>AV. INDEPENDENCIA, 2081, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 726383<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 076091768-0<br>DIRECCION: AV. INDEPENDENCIA, 2081, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ART. ELECT. EXPLOT ENTRET ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 28 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>726383.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>076091768-0</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 2081, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ART. ELECT. EXPLOT ENTRET ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>28 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.66071939999999,-33.4073693</coordinates></Point></Placemark>
+    <Placemark>
+      <name>MARIA ELENA CCANTO MADERA</name>
+      <address>RIVERA, 1406, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 725918<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 022289225-2<br>DIRECCION: RIVERA, 1406, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMACEN COMESTIBLES JUEGOS ELECTRONICOS<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 7 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>725918.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>022289225-2</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>RIVERA, 1406, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMACEN COMESTIBLES JUEGOS ELECTRONICOS</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>7 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6562391,-33.4256879</coordinates></Point></Placemark>
+    <Placemark>
+      <name>ROMAN SIGUENZA VALLES ENTRETENIMIENTOS EIRL</name>
+      <address>AV. VIVACETA, 1364, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 727816<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 076046275-6<br>DIRECCION: AV. VIVACETA, 1364, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMACEN BAZAR JUEGOS ELEC DEST<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 9 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>727816.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>076046275-6</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. VIVACETA, 1364, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMACEN BAZAR JUEGOS ELEC DEST</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>9 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6656429,-33.4120267</coordinates></Point></Placemark>
+    <Placemark>
+      <name>FIRST ELECTRONICS S.A.</name>
+      <address>NUEVA DE MATTE, 2649, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728841<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 076061972-8<br>DIRECCION: NUEVA DE MATTE, 2649, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: BAZAR PAQUETERIA JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 8 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728841.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>076061972-8</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>NUEVA DE MATTE, 2649, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>BAZAR PAQUETERIA JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>8 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6725715,-33.4087741</coordinates></Point></Placemark>
+    <Placemark>
+      <name>ALEJANDRA VENEGAS CARVAJAL</name>
+      <address>NUEVA DE MATTE, 2520, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 719843<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 012464888-2<br>DIRECCION: NUEVA DE MATTE, 2520, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: BAZAR ALMACEN DE COMEST JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 6 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>719843.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>012464888-2</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>NUEVA DE MATTE, 2520, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>BAZAR ALMACEN DE COMEST JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>6 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.67044779999999,-33.4088183</coordinates></Point></Placemark>
+    <Placemark>
+      <name>LUCILA PARADA HERRERA</name>
+      <address>CONCHA PEDREGAL, 801, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 610962<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 008004940-4<br>DIRECCION: CONCHA PEDREGAL, 801, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMACEN POR MENOR PARAFINA JUEGOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 6 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>610962.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>008004940-4</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>CONCHA PEDREGAL, 801, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMACEN POR MENOR PARAFINA JUEGOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>6 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.65917859999999,-33.4226487</coordinates></Point></Placemark>
+    <Placemark>
+      <name>RAMIREZ RODRIGUEZ JOSE</name>
+      <address>NUEVA DE MATTE, 2626, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 715141<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 007728704-3<br>DIRECCION: NUEVA DE MATTE, 2626, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMAC FRUT VERDURAS JUEGOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 5 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>715141.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>007728704-3</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>NUEVA DE MATTE, 2626, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMAC FRUT VERDURAS JUEGOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>5 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.67220209999999,-33.4087795</coordinates></Point></Placemark>
+    <Placemark>
+      <name>RAUL ANDRES LEIVA SOTO</name>
+      <address>MARURI, 295, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 613350<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 016151278-8<br>DIRECCION: MARURI, 295, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMAC AMASAND MASAS CAFET EXPLOT ENTRETENIMIENTOS ELECTRONICOS<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 5 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>613350.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>016151278-8</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>MARURI, 295, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMAC AMASAND MASAS CAFET EXPLOT ENTRETENIMIENTOS ELECTRONICOS</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>5 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6553673,-33.428581</coordinates></Point></Placemark>
+    <Placemark>
+      <name>GARRIDO GOMEZ ENRIQUE</name>
+      <address>AV. VIVACETA, 1644, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 713751<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 002853345-4<br>DIRECCION: AV. VIVACETA, 1644, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMACEN ARR PELICULAS JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 2 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>713751.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>002853345-4</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. VIVACETA, 1644, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMACEN ARR PELICULAS JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>2 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6662958,-33.410323</coordinates></Point></Placemark>
+    <Placemark>
+      <name>HOLBEIN NORIEGA HERNANDEZ</name>
+      <address>RIVERA, 1438, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 725311<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 014690590-0<br>DIRECCION: RIVERA, 1438, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: CTRO LLAMA EXP BEB CONF JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 10 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>725311.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>014690590-0</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>RIVERA, 1438, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>CTRO LLAMA EXP BEB CONF JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>10 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6564176,-33.4257291</coordinates></Point></Placemark>
+    <Placemark>
+      <name>GOMEZ AVALOS WALESKA</name>
+      <address>NUEVA DE MATTE, 2640, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 713375<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 012628681-3<br>DIRECCION: NUEVA DE MATTE, 2640, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: CONF Y BAZAR JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 5 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>713375.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>012628681-3</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>NUEVA DE MATTE, 2640, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>CONF Y BAZAR JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>5 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6724299,-33.4087762</coordinates></Point></Placemark>
+    <Placemark>
+      <name>CRISTIAN ABUHADBA SAN MARTIN</name>
+      <address>AV. INDEPENDENCIA, 932, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 726534<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 013457013-K<br>DIRECCION: AV. INDEPENDENCIA, 932, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: CONF ENV FAB AUTOR BEB. HELADOS ENVAS. JUEGOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 35 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>726534.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>013457013-K</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 932, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>CONF ENV FAB AUTOR BEB. HELADOS ENVAS. JUEGOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>35 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6559292,-33.4201122</coordinates></Point></Placemark>
+    <Placemark>
+      <name>ALVARO ARMIJO CANDIA</name>
+      <address>AV. VIVACETA, 957, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728070<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 011474328-3<br>DIRECCION: AV. VIVACETA, 957, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: JUEGOS ELECTRONICOS JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 10 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728070.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>011474328-3</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. VIVACETA, 957, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>JUEGOS ELECTRONICOS JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>10 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6632372,-33.4203339</coordinates></Point></Placemark>
+    <Placemark>
+      <name>YOVANNY RUIZ GARCIA</name>
+      <address>AV. INDEPENDENCIA, 2085, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 726661<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 021192292-3<br>DIRECCION: AV. INDEPENDENCIA, 2085, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: CTRO LLAMAD CIBER FOTOC JUEGOS ELECTRONICOS<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 10 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>726661.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>021192292-3</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 2085, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>CTRO LLAMAD CIBER FOTOC JUEGOS ELECTRONICOS</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>10 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>LORENZO SALDIAS INSULZA COM EIRL</name>
+      <address>GAMERO, 1860, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 726900<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 076058098-8<br>DIRECCION: GAMERO, 1860, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMACEN COMESTIBLES JUEGOS ELECTRONICOS<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 12 MAQUINAS<br>LOCAL: F]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>726900.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>076058098-8</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>GAMERO, 1860, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMACEN COMESTIBLES JUEGOS ELECTRONICOS</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>12 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value>F</value>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6655123,-33.4220727</coordinates></Point></Placemark>
+    <Placemark>
+      <name>COMERCIAL KIRIN LIMITADA</name>
+      <address>AV. INDEPENDENCIA, 335, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 727415<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 076384003-4<br>DIRECCION: AV. INDEPENDENCIA, 335, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: JUEGOS DE DESTREZA (8 MAQ.)<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 8 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>727415.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>076384003-4</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 335, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>JUEGOS DE DESTREZA (8 MAQ.)</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>8 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.65396729999999,-33.4276796</coordinates></Point></Placemark>
+    <Placemark>
+      <name>ZAIDONG WANG</name>
+      <address>AV. INDEPENDENCIA, 608, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728010<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 022515750-2<br>DIRECCION: AV. INDEPENDENCIA, 608, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: OF. ADM. EXPLOTACION MAQUINAS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 30 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728010.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>022515750-2</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 608, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>OF. ADM. EXPLOTACION MAQUINAS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>30 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6551061,-33.4239663</coordinates></Point></Placemark>
+    <Placemark>
+      <name>CHEN CHEN</name>
+      <address>AV. INDEPENDENCIA, 291, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728259<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 021477499-2<br>DIRECCION: AV. INDEPENDENCIA, 291, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: SALON POOL JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 33 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728259.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>021477499-2</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 291, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>SALON POOL JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>33 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6536859,-33.4286926</coordinates></Point></Placemark>
+    <Placemark>
+      <name>XIUMEI WANG</name>
+      <address>AV. INDEPENDENCIA, 1153, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728319<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 014756930-0<br>DIRECCION: AV. INDEPENDENCIA, 1153, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: VTA MAQUINAS DE JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 27 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728319.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>014756930-0</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 1153, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>VTA MAQUINAS DE JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>27 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6566359,-33.4169609</coordinates></Point></Placemark>
+    <Placemark>
+      <name>FAB. Y DIST. DE MAQUINARIAS DE ENTRET. D</name>
+      <address>INDEPENDENCIA, 948, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728386<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 076200871-8<br>DIRECCION: INDEPENDENCIA, 948, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: SALA DE BILLAR SALON DE JUEGOS <br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 97 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728386.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>076200871-8</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>INDEPENDENCIA, 948, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>SALA DE BILLAR SALON DE JUEGOS </value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>97 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6561035,-33.4199754</coordinates></Point></Placemark>
+    <Placemark>
+      <name>YU WEN LEE</name>
+      <address>AV. INDEPENEDNCIA, 1998, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728487<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 022578018-8<br>DIRECCION: AV. INDEPENEDNCIA, 1998, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: COMPRA VENTA ART. ELECTRONICOS (MAQ. DE DESTREZA)<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 70 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728487.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>022578018-8</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENEDNCIA, 1998, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>COMPRA VENTA ART. ELECTRONICOS (MAQ. DE DESTREZA)</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>70 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6605199,-33.408087</coordinates></Point></Placemark>
+    <Placemark>
+      <name>COMERCIAL MILLIONS SPA.</name>
+      <address>AV. INDEPENDENCIA, 950, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728510<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 076183548-3<br>DIRECCION: AV. INDEPENDENCIA, 950, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: COMPRA VENTA CONF BEB JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 50 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728510.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>076183548-3</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 950, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>COMPRA VENTA CONF BEB JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>50 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.655964,-33.41993100000001</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SONIA SOLIS GOMEZ</name>
+      <address>AV. GAMERO, 1737, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728344<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 014729637-1<br>DIRECCION: AV. GAMERO, 1737, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: LACTEOS PAN ABARR ALIM CONGEL BEB CONF JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 4 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728344.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>014729637-1</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. GAMERO, 1737, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>LACTEOS PAN ABARR ALIM CONGEL BEB CONF JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>4 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.66363679999999,-33.4217625</coordinates></Point></Placemark>
+    <Placemark>
+      <name>AMOROSO Y CIA. LIMITADA</name>
+      <address>GAMERO, 1860, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728825<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 078506860-2<br>DIRECCION: GAMERO, 1860, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: VTA HIELO CUBO PROD. CONG JUEGOS ENTRETENCION<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 15 MAQUINAS<br>LOCAL: G]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728825.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>078506860-2</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>GAMERO, 1860, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>VTA HIELO CUBO PROD. CONG JUEGOS ENTRETENCION</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>15 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value>G</value>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6655123,-33.4220727</coordinates></Point></Placemark>
+    <Placemark>
+      <name>CHI MIN WU</name>
+      <address>AV. INDEPENDENCIA, 952, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728830<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 022151252-9<br>DIRECCION: AV. INDEPENDENCIA, 952, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: JUEGOS ELECTRONICOS DE DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 60 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728830.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>022151252-9</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 952, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>JUEGOS ELECTRONICOS DE DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>60 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.65596889999999,-33.4199058</coordinates></Point></Placemark>
+    <Placemark>
+      <name>XIAOXI WANG</name>
+      <address>AV. INDEPENDENCIA, 123, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728838<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 022216083-9<br>DIRECCION: AV. INDEPENDENCIA, 123, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ENTRETENIMIENTOS ELECTRONICOS DE DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 170 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728838.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>022216083-9</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 123, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ENTRETENIMIENTOS ELECTRONICOS DE DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>170 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6530974,-33.43065310000001</coordinates></Point></Placemark>
+    <Placemark>
+      <name>ROSA DEL CARMEN ROMERO GUTIERREZ</name>
+      <address>NICANOR OPAZO, 2132, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 800529<br>CLASIF.: MICROEMP<br>TIPO: DEFINITIVA<br>RUT: 008869438-4<br>DIRECCION: NICANOR OPAZO, 2132, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: ALMAC COMEST CEC LACT BEB CONF PAN HUEV JUEGOS ELECTRONICOS DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 3 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>800529.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>MICROEMP</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>008869438-4</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>NICANOR OPAZO, 2132, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>ALMAC COMEST CEC LACT BEB CONF PAN HUEV JUEGOS ELECTRONICOS DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>3 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6748058,-33.4067208</coordinates></Point></Placemark>
+    <Placemark>
+      <name>NITRO ENTRETENIMENTOS LTDA</name>
+      <address>AV. INDEPENDENCIA, 924 - 928, INDEPENDENCIA, SANTIAGO</address>
+      <description><![CDATA[ROL: 728911<br>CLASIF.: COMERCIAL<br>TIPO: DEFINITIVA<br>RUT: 076112331-9<br>DIRECCION: AV. INDEPENDENCIA, 924 - 928, INDEPENDENCIA, SANTIAGO<br>COMUNA: INDEPENDENCIA<br>GIRO: JUEGOS ELECTRONICOS DE DESTREZA<br>ESTADO: VIGENTE<br>MAQUINAS SOLICITADAS: 35 MAQUINAS<br>LOCAL: ]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="ROL">
+          <value>728911.0</value>
+        </Data>
+        <Data name="CLASIF.">
+          <value>COMERCIAL</value>
+        </Data>
+        <Data name="TIPO">
+          <value>DEFINITIVA</value>
+        </Data>
+        <Data name="RUT">
+          <value>076112331-9</value>
+        </Data>
+        <Data name="DIRECCION">
+          <value>AV. INDEPENDENCIA, 924 - 928, INDEPENDENCIA, SANTIAGO</value>
+        </Data>
+        <Data name="COMUNA">
+          <value>INDEPENDENCIA</value>
+        </Data>
+        <Data name="GIRO">
+          <value>JUEGOS ELECTRONICOS DE DESTREZA</value>
+        </Data>
+        <Data name="ESTADO">
+          <value>VIGENTE</value>
+        </Data>
+        <Data name="MAQUINAS SOLICITADAS">
+          <value>35 MAQUINAS</value>
+        </Data>
+        <Data name="LOCAL">
+          <value/>
+        </Data>
+      </ExtendedData>
+    <Point xmlns=""><coordinates>-70.6560556,-33.4202683</coordinates></Point></Placemark>
+
+    <Style id="icon-1899-0F9D58-normal">
+			<IconStyle>
+				<color>ff589D0F</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/ms/icons/green.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="icon-1899-0F9D58-highlight">
+			<IconStyle>
+				<color>ff589D0F</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/ms/icons/green.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id="icon-1899-0F9D58">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+  </Document>
+</kml>
