@@ -77,6 +77,16 @@
 				NAME: "Policia de Investigaciones",
 				LOGIC: "PDI"
 			},
+			{	
+				LINK: "layers/colegios_lo_prado.kml",
+				NAME: "Colegios de Lo Prado",
+				LOGIC: "COLEGIOS_LO_PRADO"
+			},
+			{	
+				LINK: "layers/locales_patentes.kml",
+				NAME: "Locales con Patente - Lo Prado",
+				LOGIC: "LOCALES_LO_PRADO"
+			},
 			{
 				LINK: "layers/locales_con_patentes_independencia.kml",
 				NAME: "Locales con Patentes - Independencia",
