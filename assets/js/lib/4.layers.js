@@ -76,6 +76,11 @@
 				LINK: "layers/pdi.kml",
 				NAME: "Policia de Investigaciones",
 				LOGIC: "PDI"
+			},
+			{
+				LINK: "layers/locales_con_patentes_independencia.kml",
+				NAME: "Locales con Patentes - Independencia",
+				LOGIC: "L_CON_PATENTE_INDEPENDENCIA"
 			}
 			],
 			APP: {}
