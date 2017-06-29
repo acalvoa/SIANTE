@@ -1,4 +1,4 @@
-# Change Log
+# Changelog
 
 ## [Refactor layers](!4) (23/06/2017)
 
