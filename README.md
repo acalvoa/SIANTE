@@ -51,34 +51,39 @@ Go [http://localhost:1337](http://localhost:1337)
   ```bash
   $ cd /opt/apps/SIANTE
   ```
+- Logearse como super usuario
 
+  ```bash
+  $ sudo su
+  ```
+  
 - Bajar aplicación a travez del pid
 
   ```bash
-  $ sudo forever list
+  $# forever list
   info:    Forever processes running
   data:        uid  command       script        forever pid   id logfile                 uptime
   data:    [0] UD8F /usr/bin/node app.js --prod 31309   31322    /root/.forever/UD8F.log 0:0:8:33.133
-  $ sudo forever stop 15144
+  $# forever stop 15144
   ```
 
 - Descargar los últimos cambios
 
   ```bash
-  $ git pull origin master
+  $# git pull origin master
   ```
   
 - Subir aplicación
 
   ```bash
-  $ sudo forever start app.js --prod
+  $# forever start app.js --prod
   ```
   
 - Go [http://testing.contraloria.cl/cartografia/](http://testing.contraloria.cl/cartografia/)
 - ¿Ver log?
  
   ```bash
-  $ sudo forever logs app.js -f
+  $# forever logs app.js -f
   data:    app.js:31322 -                .-..-.
   data:    app.js:31322 -    Sails              <|    .-..-.
   data:    app.js:31322 -    v0.11.5             |\
