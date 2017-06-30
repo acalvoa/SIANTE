@@ -18,7 +18,7 @@ Sistema de analisis territorial para procesamiento de información
 - Clonar repositorio
 
   ```bash
-  $ git clone git@192.168.105.62:teamlengthle4/SIANTE.git
+  $ git clone http://192.168.105.62:8070/teamlengthle4/SIANTE.git
   $ cd SIANTE
   ```
 
