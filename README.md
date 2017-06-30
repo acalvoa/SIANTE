@@ -57,8 +57,8 @@ Go [http://localhost:1337](http://localhost:1337)
   ```bash
   $ sudo forever list
   info:    Forever processes running
-  data:        uid  command                            script           forever    pid   id logfile                                   uptime
-  data:    [0] oL0L "/usr/bin/node." /home/animus/Escritorio/SIANTE/app.js 22304   15144    /home/animus/.forever/oL0L.log 0:0:0:31.642
+  data:        uid  command       script        forever pid   id logfile                 uptime
+  data:    [0] UD8F /usr/bin/node app.js --prod 31309   31322    /root/.forever/UD8F.log 0:0:8:33.133
   $ sudo forever stop 15144
   ```
 
@@ -79,28 +79,24 @@ Go [http://localhost:1337](http://localhost:1337)
  
   ```bash
   $ sudo forever logs app.js -f
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - debug: --------------------------------------------------------
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - debug: :: Wed Jun 21 2017 18:42:45 GMT-0400 (Hora est. Sudamérica Pacífico)
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - debug: Environment : development
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - debug: Port        : 1337
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - debug: --------------------------------------------------------
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:                .-..-.
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:    Sails              <|    .-..-.
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:    v0.11.5             |\
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:                       /|.\
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:                      / || \
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:                    ,'  |'  \
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:                 .-'.-==|/_--'
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:                 `--'-------'
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:    __---___--___---___--___---___--___
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:  ____---___--___---___--___---___--___-__
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info: Server lifted in `D:\Usuarios\sgonzalezvi\Documents\GeoPortal\SIANTE`
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info: To see your app, visit http://localhost:1337
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info: To shut down Sails, press <CTRL> + C at any time.
-  data:    /home/animus/Escritorio/SIANTE/app.js:15144 -
+  data:    app.js:31322 -                .-..-.
+  data:    app.js:31322 -    Sails              <|    .-..-.
+  data:    app.js:31322 -    v0.11.5             |\
+  data:    app.js:31322 -                       /|.\
+  data:    app.js:31322 -                      / || \
+  data:    app.js:31322 -                    ,'  |'  \
+  data:    app.js:31322 -                 .-'.-==|/_--'
+  data:    app.js:31322 -                 `--'-------'
+  data:    app.js:31322 -    __---___--___---___--___---___--___
+  data:    app.js:31322 -  ____---___--___---___--___---___--___-__
+  data:    app.js:31322 - Server lifted in `/opt/apps/SIANTE`
+  data:    app.js:31322 - To see your app, visit http://localhost
+  data:    app.js:31322 - To shut down Sails, press <CTRL> + C at any time.
+  data:    app.js:31322 - --------------------------------------------------------
+  data:    app.js:31322 - :: Fri Jun 30 2017 16:09:20 GMT-0400 (-04)
+  data:    app.js:31322 - Environment : production
+  data:    app.js:31322 - Port        : 80
+  data:    app.js:31322 - --------------------------------------------------------
   ```
   
 ![https://media.giphy.com/media/l0Exi8cyEMxc3OGFa/giphy.gif](https://media.giphy.com/media/l0Exi8cyEMxc3OGFa/giphy.gif)
