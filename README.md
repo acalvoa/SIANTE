@@ -40,51 +40,45 @@ Go [http://localhost:1337](http://localhost:1337)
   
 ### Testing
 
-- Acceder al servidor (password: shadowfax)
+- Acceder al servidor animus
 
   ```bash
-  $ ssh animus@192.168.105.62
+  $ ssh <your-user>@192.168.105.62
   ```
 
 - Entrar al directorio del aplicativo
 
   ```bash
-  $ cd Escritorio/SIANTE
-  ```
-
-- Instalar forever (solo en caso de no estar instalado)
-
-  ```bash
-  $ npm install -g forever
+  $ cd /opt/apps/SIANTE
   ```
 
 - Bajar aplicación a travez del pid
 
   ```bash
-  $ forever list
+  $ sudo forever list
   info:    Forever processes running
   data:        uid  command                            script           forever    pid   id logfile                                   uptime
   data:    [0] oL0L "/usr/bin/node." /home/animus/Escritorio/SIANTE/app.js 22304   15144    /home/animus/.forever/oL0L.log 0:0:0:31.642
-  $ forever stop 15144
+  $ sudo forever stop 15144
   ```
 
-- Traer los últimos cambios
+- Descargar los últimos cambios
 
   ```bash
-  $ git pull
+  $ git pull origin master
   ```
   
 - Subir aplicación
 
   ```bash
-  $ forever start app.js --prod
+  $ sudo forever start app.js --prod
   ```
   
 - Go [http://testing.contraloria.cl/cartografia/](http://testing.contraloria.cl/cartografia/)
 - ¿Ver log?
  
   ```bash
-  $ forever logs app.js -f
+  $ sudo forever logs app.js -f
   data:    /home/animus/Escritorio/SIANTE/app.js:15144 - info:
   data:    /home/animus/Escritorio/SIANTE/app.js:15144 - debug: --------------------------------------------------------
   data:    /home/animus/Escritorio/SIANTE/app.js:15144 - debug: :: Wed Jun 21 2017 18:42:45 GMT-0400 (Hora est. Sudamérica Pacífico)
