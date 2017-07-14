@@ -1,107 +1,103 @@
-# Siante
+# GEOCGR
 
-Sistema de analisis territorial para procesamiento de información
+## Carcateristicas
 
-## Dependencias 
+- Implementa ORM basico
+- Implementa Websockets como metodo de comunicación
+- Disponibiliza una API HTTP mediada por controllers
 
-- [NodeJS](https://nodejs.org/en/download/)
-- SailsJS
+## Dependencias
+
+- Oracle Weblogic 11g
+
+## Eclipse plugins
+
+- Oracle Server Tools
 
 ## Configuración
 
-- Instalar SailsJS
+En el proceso de creación del paquete distribuible (*Apache Ant*) se generarán dos archivos de configuración. Las propiedades de estos archivos serán obtenidas de los archivos de configuración definidos para cada ambiente:
+  - `Properties/develop.properties`
+  - `Properties/testing.properties`
+  - `Properties/production.properties`
 
-  ```bash
-  $ npm instal -g sails
-  ```
- 
-- Clonar repositorio
+Los archivos generados por `Ant` son:
+  - `CHILECOMPRA/app/config/properties.json` para las properties de front-end
+  - `Properties/config.properties` para las properties del back-end
 
-  ```bash
-  $ git clone http://192.168.105.62:8070/teamlengthle4/SIANTE.git
-  $ cd SIANTE
-  ```
+Cabe destacar que el archivo `Properties/config.properties` debe ser copiado en la ruta definida en `PATH_CONFIG_FILE` del archivo de configuración de cada ambiente y el archivo `CHILECOMPRA/app/config/properties.json` irá en el .war.
 
-- Instalar dependecias del proyecto
+Por defecto *Apache Ant* generará los archivos de configuración para el ambiente de desarrollo (develop). Para especificar el ambiente debemos enviarlo por el parámetro `env`. Esto será ejemplificado en la sección [Distribuir](#Distribuir).
 
-  ```bash
-  $ npm install
-  ```
-  
-## Despliegue
-  
-### Desarrollo
+## Desarrollo en Eclipse
 
-  ```bash
-  $ sails lift
-  ```
+- Crear un Proyecto EAR que contenga el proyecto
+- Crear un Servidor Weblogic 11g
+- Agregar el proyecto EAR al servidor creado
+- Enjoy!
 
-Go [http://localhost:1337](http://localhost:1337)
-  
-### Testing
+## Compilación y distribución
 
-- Acceder al servidor animus
+Para la compilación y distribución se utiliza la herramienta [Apache Ant](http://ant.apache.org/).
 
-  ```bash
-  $ ssh <your-user>@192.168.105.62
-  ```
+### Instalar Apache Ant
 
-- Entrar al directorio del aplicativo
+- Linux
+   
+   ```bash
+   $ sudo apt-get install ant
+   ```
 
-  ```bash
-  $ cd /opt/apps/SIANTE
-  ```
-- Logearse como super usuario
+### Uso
 
-  ```bash
-  $ sudo su
-  ```
-  
-- Bajar aplicación a travez del pid
+```bash
+$ ant -p
+Buildfile: /home/sgonzalezvi/git/sisgeob-chilecompra/build.xml
 
-  ```bash
-  $# forever list
-  info:    Forever processes running
-  data:        uid  command       script        forever pid   id logfile                 uptime
-  data:    [0] UD8F /usr/bin/node app.js --prod 31309   31322    /root/.forever/UD8F.log 0:0:8:33.133
-  $# forever stop 15144
-  ```
+Main targets:
 
-- Descargar los últimos cambios
+ clean     Clean up
+ compile   Compile the source
+ dist      Generate the distribution
+ dist-ear  Generate the EAR distribution
+Default target: dist
 
-  ```bash
-  $# git pull origin master
-  ```
-  
-- Subir aplicación
+```
 
-  ```bash
-  $# forever start app.js --prod
-  ```
-  
-- Go [http://testing.contraloria.cl/cartografia/](http://testing.contraloria.cl/cartografia/)
-- ¿Ver log?
- 
-  ```bash
-  $# forever logs app.js -f
-  data:    app.js:31322 -                .-..-.
-  data:    app.js:31322 -    Sails              <|    .-..-.
-  data:    app.js:31322 -    v0.11.5             |\
-  data:    app.js:31322 -                       /|.\
-  data:    app.js:31322 -                      / || \
-  data:    app.js:31322 -                    ,'  |'  \
-  data:    app.js:31322 -                 .-'.-==|/_--'
-  data:    app.js:31322 -                 `--'-------'
-  data:    app.js:31322 -    __---___--___---___--___---___--___
-  data:    app.js:31322 -  ____---___--___---___--___---___--___-__
-  data:    app.js:31322 - Server lifted in `/opt/apps/SIANTE`
-  data:    app.js:31322 - To see your app, visit http://localhost
-  data:    app.js:31322 - To shut down Sails, press <CTRL> + C at any time.
-  data:    app.js:31322 - --------------------------------------------------------
-  data:    app.js:31322 - :: Fri Jun 30 2017 16:09:20 GMT-0400 (-04)
-  data:    app.js:31322 - Environment : production
-  data:    app.js:31322 - Port        : 80
-  data:    app.js:31322 - --------------------------------------------------------
-  ```
-  
-![https://media.giphy.com/media/l0Exi8cyEMxc3OGFa/giphy.gif](https://media.giphy.com/media/l0Exi8cyEMxc3OGFa/giphy.gif)
+### Distribuir
+
+#### Desarrollo
+
+```bash
+$ ant dist
+$ ll dist 
+total 63M
+-rw-rw-r-- 1 sgonzalezvi sgonzalezvi 63M jul  5 17:34 sisgeob-chilecompra.war
+```
+
+#### Testing
+
+```bash
+$ ant dist -Denv=testing
+$ ll dist 
+total 63M
+-rw-rw-r-- 1 sgonzalezvi sgonzalezvi 63M jul  5 17:34 sisgeob-chilecompra.war
+```
+
+#### Producción
+
+```bash
+$ ant dist -Denv=production
+$ ll dist 
+total 63M
+-rw-rw-r-- 1 sgonzalezvi sgonzalezvi 63M jul  5 17:34 sisgeob-chilecompra.war
+```
+
+#### EAR
+
+```bash
+$ ant dist-ear
+$ ll dist 
+total 63M
+-rw-rw-r-- 1 sgonzalezvi sgonzalezvi 63M jul  5 17:35 sisgeob-chilecompra.ear
+```
