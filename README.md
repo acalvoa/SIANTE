@@ -1,38 +1,25 @@
-# GEOCGR
+# SIANTE
 
 ## Carcateristicas
 
-- Implementa ORM basico
-- Implementa Websockets como metodo de comunicación
-- Disponibiliza una API HTTP mediada por controllers
+- Funcional en plataforma JBOSS
 
 ## Dependencias
 
-- Oracle Weblogic 11g
+- Jboss 6.4
 
 ## Eclipse plugins
 
-- Oracle Server Tools
+- JBoss
 
 ## Configuración
-
-En el proceso de creación del paquete distribuible (*Apache Ant*) se generarán dos archivos de configuración. Las propiedades de estos archivos serán obtenidas de los archivos de configuración definidos para cada ambiente:
-  - `Properties/develop.properties`
-  - `Properties/testing.properties`
-  - `Properties/production.properties`
-
-Los archivos generados por `Ant` son:
-  - `CHILECOMPRA/app/config/properties.json` para las properties de front-end
-  - `Properties/config.properties` para las properties del back-end
-
-Cabe destacar que el archivo `Properties/config.properties` debe ser copiado en la ruta definida en `PATH_CONFIG_FILE` del archivo de configuración de cada ambiente y el archivo `CHILECOMPRA/app/config/properties.json` irá en el .war.
 
 Por defecto *Apache Ant* generará los archivos de configuración para el ambiente de desarrollo (develop). Para especificar el ambiente debemos enviarlo por el parámetro `env`. Esto será ejemplificado en la sección [Distribuir](#Distribuir).
 
 ## Desarrollo en Eclipse
 
 - Crear un Proyecto EAR que contenga el proyecto
-- Crear un Servidor Weblogic 11g
+- Crear un Servidor JBoss 6.1+
 - Agregar el proyecto EAR al servidor creado
 - Enjoy!
 
@@ -78,7 +65,7 @@ total 63M
 #### Testing
 
 ```bash
-$ ant dist -Denv=testing
+$ ant dist
 $ ll dist 
 total 63M
 -rw-rw-r-- 1 sgonzalezvi sgonzalezvi 63M jul  5 17:34 sisgeob-chilecompra.war
