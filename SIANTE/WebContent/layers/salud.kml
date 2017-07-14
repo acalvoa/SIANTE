@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>salud.xls</name>
+    <Style id="icon-1624-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal5/icon11.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1624-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal5/icon11.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1624-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1624-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1624-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>COSAM Independencia</name>
+      <address>Salomón Sack 331, Independencia</address>
+      <description><![CDATA[Dependencia: Municipal<br>Nivel de Atención: Secundario<br>Dirección: Salomón Sack<br>Número: 331<br>Comuna: Independencia<br>Location: Salomón Sack 331, Independencia]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Municipal</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Secundario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Salomón Sack</value>
+        </Data>
+        <Data name="Número">
+          <value>331.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Independencia</value>
+        </Data>
+        <Data name="Location">
+          <value>Salomón Sack 331, Independencia</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.669935,-33.41990910000001</coordinates></Point></Placemark>
+    <Placemark>
+      <name>COSAM Lo Prado</name>
+      <address>San Germán 1052, Lo Prado</address>
+      <description><![CDATA[Dependencia: Municipal<br>Nivel de Atención: Secundario<br>Dirección: San Germán<br>Número: 1052<br>Comuna: Lo Prado<br>Location: San Germán 1052, Lo Prado]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Municipal</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Secundario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>San Germán</value>
+        </Data>
+        <Data name="Número">
+          <value>1052.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Lo Prado</value>
+        </Data>
+        <Data name="Location">
+          <value>San Germán 1052, Lo Prado</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7195891,-33.43977340000001</coordinates></Point></Placemark>
+    <Placemark>
+      <name>Centro de Salud Familiar Agustín Cruz Melo</name>
+      <address>Independencia 1325, Independencia</address>
+      <description><![CDATA[Dependencia: Municipal<br>Nivel de Atención: Primario<br>Dirección: Independencia <br>Número: 1325<br>Comuna: Independencia<br>Location: Independencia 1325, Independencia]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Municipal</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Primario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Independencia </value>
+        </Data>
+        <Data name="Número">
+          <value>1325.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Independencia</value>
+        </Data>
+        <Data name="Location">
+          <value>Independencia 1325, Independencia</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6594156,-33.4152722</coordinates></Point></Placemark>
+    <Placemark>
+      <name>Centro de Salud Familiar Juan Antonio Ríos</name>
+      <address>Soberanía 1180, Independencia</address>
+      <description><![CDATA[Dependencia: Municipal<br>Nivel de Atención: Primario<br>Dirección: Soberanía<br>Número: 1180<br>Comuna: Independencia<br>Location: Soberanía 1180, Independencia]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Municipal</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Primario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Soberanía</value>
+        </Data>
+        <Data name="Número">
+          <value>1180.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Independencia</value>
+        </Data>
+        <Data name="Location">
+          <value>Soberanía 1180, Independencia</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6682199,-33.4172884</coordinates></Point></Placemark>
+    <Placemark>
+      <name>Consultorio Santa Anita</name>
+      <address>San Pablo 5597, Lo Prado</address>
+      <description><![CDATA[Dependencia: Municipal<br>Nivel de Atención: Primario<br>Dirección: San Pablo<br>Número: 5597<br>Comuna: Lo Prado<br>Location: San Pablo 5597, Lo Prado]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Municipal</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Primario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>San Pablo</value>
+        </Data>
+        <Data name="Número">
+          <value>5597.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Lo Prado</value>
+        </Data>
+        <Data name="Location">
+          <value>San Pablo 5597, Lo Prado</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.71212419999999,-33.4425992</coordinates></Point></Placemark>
+    <Placemark>
+      <name>Centro de Salud Familiar Pablo Neruda</name>
+      <address>Dorsal 6741, Lo Prado</address>
+      <description><![CDATA[Dependencia: Municipal<br>Nivel de Atención: Primario<br>Dirección: Dorsal<br>Número: 6741<br>Comuna: Lo Prado<br>Location: Dorsal 6741, Lo Prado]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Municipal</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Primario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Dorsal</value>
+        </Data>
+        <Data name="Número">
+          <value>6741.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Lo Prado</value>
+        </Data>
+        <Data name="Location">
+          <value>Dorsal 6741, Lo Prado</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7310572,-33.4504678</coordinates></Point></Placemark>
+    <Placemark>
+      <name>Centro de Salud Familiar Dr. Raúl Yazigi</name>
+      <address>Caleta Iquique 214, Lo Prado</address>
+      <description><![CDATA[Dependencia: Municipal<br>Nivel de Atención: Primario<br>Dirección: Caleta Iquique <br>Número: 214<br>Comuna: Lo Prado<br>Location: Caleta Iquique 214, Lo Prado]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Municipal</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Primario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Caleta Iquique </value>
+        </Data>
+        <Data name="Número">
+          <value>214.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Lo Prado</value>
+        </Data>
+        <Data name="Location">
+          <value>Caleta Iquique 214, Lo Prado</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7154685,-33.4517998</coordinates></Point></Placemark>
+    <Placemark>
+      <name>Centro de Salud Familiar Dr. Avendaño</name>
+      <address>Teniente Cruz 1087, Lo Prado</address>
+      <description><![CDATA[Dependencia: Municipal<br>Nivel de Atención: Primario<br>Dirección: Teniente Cruz <br>Número: 1087<br>Comuna: Lo Prado<br>Location: Teniente Cruz 1087, Lo Prado]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Municipal</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Primario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Teniente Cruz </value>
+        </Data>
+        <Data name="Número">
+          <value>1087.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Lo Prado</value>
+        </Data>
+        <Data name="Location">
+          <value>Teniente Cruz 1087, Lo Prado</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7408408,-33.4368456</coordinates></Point></Placemark>
+    <Placemark>
+      <name>Complejo Hospitalario San José</name>
+      <address>San José 1196, Independencia</address>
+      <description><![CDATA[Dependencia: Servicio de Salud<br>Nivel de Atención: Terciario<br>Dirección: San José <br>Número: 1196<br>Comuna: Independencia<br>Location: San José 1196, Independencia]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Servicio de Salud</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Terciario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>San José </value>
+        </Data>
+        <Data name="Número">
+          <value>1196.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Independencia</value>
+        </Data>
+        <Data name="Location">
+          <value>San José 1196, Independencia</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6529221,-33.4163505</coordinates></Point></Placemark>
+    <Placemark>
+      <name>Hospital Clínico de Niños Dr. Roberto del Río</name>
+      <address>Profesor Zañartu 1085, Independencia</address>
+      <description><![CDATA[Dependencia: Servicio de Salud<br>Nivel de Atención: Terciario<br>Dirección: Profesor Zañartu <br>Número: 1085<br>Comuna: Independencia<br>Location: Profesor Zañartu 1085, Independencia]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Servicio de Salud</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Terciario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Profesor Zañartu </value>
+        </Data>
+        <Data name="Número">
+          <value>1085.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Independencia</value>
+        </Data>
+        <Data name="Location">
+          <value>Profesor Zañartu 1085, Independencia</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.65479309999999,-33.4174043</coordinates></Point></Placemark>
+    <Placemark>
+      <name>Instituto Nacional del Cáncer Dr. Caupolicán Pardo Correa</name>
+      <address>Profesor Zañartu 1010, Independencia</address>
+      <description><![CDATA[Dependencia: Servicio de Salud<br>Nivel de Atención: Terciario<br>Dirección: Profesor Zañartu <br>Número: 1010<br>Comuna: Independencia<br>Location: Profesor Zañartu 1010, Independencia]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Servicio de Salud</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Terciario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Profesor Zañartu </value>
+        </Data>
+        <Data name="Número">
+          <value>1010.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Independencia</value>
+        </Data>
+        <Data name="Location">
+          <value>Profesor Zañartu 1010, Independencia</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6526442,-33.4176654</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAPU-Juan Antonio Ríos</name>
+      <address>Soberanía 1180, Independencia</address>
+      <description><![CDATA[Dependencia: Municipal<br>Nivel de Atención: Primario<br>Dirección: Soberanía <br>Número: 1180<br>Comuna: Independencia<br>Location: Soberanía 1180, Independencia]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Municipal</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Primario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Soberanía </value>
+        </Data>
+        <Data name="Número">
+          <value>1180.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Independencia</value>
+        </Data>
+        <Data name="Location">
+          <value>Soberanía 1180, Independencia</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6682199,-33.4172884</coordinates></Point></Placemark>
+    <Placemark>
+      <name>Hospital Clínico Universidad de Chile</name>
+      <address>Santos Dumond 999, Independencia</address>
+      <description><![CDATA[Dependencia: Universidad de Chile<br>Nivel de Atención: No Aplica<br>Dirección: Santos Dumond<br>Número: 999<br>Comuna: Independencia<br>Location: Santos Dumond 999, Independencia]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Universidad de Chile</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>No Aplica</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Santos Dumond</value>
+        </Data>
+        <Data name="Número">
+          <value>999.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Independencia</value>
+        </Data>
+        <Data name="Location">
+          <value>Santos Dumond 999, Independencia</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.6530942,-33.4200542</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAPU-Dr. Avendaño</name>
+      <address>Teniente Cruz 1087, Lo Prado</address>
+      <description><![CDATA[Dependencia: Municipal<br>Nivel de Atención: Primario<br>Dirección: Teniente Cruz <br>Número: 1087<br>Comuna: Lo Prado<br>Location: Teniente Cruz 1087, Lo Prado]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Municipal</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Primario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Teniente Cruz </value>
+        </Data>
+        <Data name="Número">
+          <value>1087.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Lo Prado</value>
+        </Data>
+        <Data name="Location">
+          <value>Teniente Cruz 1087, Lo Prado</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7408408,-33.4368456</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAPU-Dr. Raúl Yazigi</name>
+      <address>Caleta Iquique 214, Lo Prado</address>
+      <description><![CDATA[Dependencia: Municipal<br>Nivel de Atención: Primario<br>Dirección: Caleta Iquique <br>Número: 214<br>Comuna: Lo Prado<br>Location: Caleta Iquique 214, Lo Prado]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Municipal</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Primario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Caleta Iquique </value>
+        </Data>
+        <Data name="Número">
+          <value>214.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Lo Prado</value>
+        </Data>
+        <Data name="Location">
+          <value>Caleta Iquique 214, Lo Prado</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7154685,-33.4517998</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAPU-Pablo Neruda</name>
+      <address>Dorsal 6741, Lo Prado</address>
+      <description><![CDATA[Dependencia: Municipal<br>Nivel de Atención: Primario<br>Dirección: Dorsal<br>Número: 6741<br>Comuna: Lo Prado<br>Location: Dorsal 6741, Lo Prado]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Municipal</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Primario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Dorsal</value>
+        </Data>
+        <Data name="Número">
+          <value>6741.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Lo Prado</value>
+        </Data>
+        <Data name="Location">
+          <value>Dorsal 6741, Lo Prado</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7310572,-33.4504678</coordinates></Point></Placemark>
+    <Placemark>
+      <name>SAPU-Santa Anita</name>
+      <address>Camino de Loyola 5302, Lo Prado</address>
+      <description><![CDATA[Dependencia: Municipal<br>Nivel de Atención: Primario<br>Dirección: Camino de Loyola<br>Número: 5302<br>Comuna: Lo Prado<br>Location: Camino de Loyola 5302, Lo Prado]]></description>
+      <styleUrl>#icon-1624-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Dependencia">
+          <value>Municipal</value>
+        </Data>
+        <Data name="Nivel de Atención">
+          <value>Primario</value>
+        </Data>
+        <Data name="Dirección">
+          <value>Camino de Loyola</value>
+        </Data>
+        <Data name="Número">
+          <value>5302.0</value>
+        </Data>
+        <Data name="Comuna">
+          <value>Lo Prado</value>
+        </Data>
+        <Data name="Location">
+          <value>Camino de Loyola 5302, Lo Prado</value>
+        </Data>
+      </ExtendedData>
+    <Point><coordinates>-70.7091954,-33.4381197</coordinates></Point></Placemark>
+  </Document>
+</kml>

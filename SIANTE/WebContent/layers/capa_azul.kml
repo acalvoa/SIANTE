@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Mapa sin nombre</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>capa_azul</name>
+			<Placemark>
+				<name>Ilustre Municipalidad de Colina</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Colina<br>DIRECCION: Av. Concepción 2, Colina, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Colina</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Concepción 2, Colina, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Concepción 2, Colina, Santiago</address>
+			<Point><coordinates>-70.716408,-33.3546959</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Lampa</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Lampa<br>DIRECCION: Baquedano 824, Lampa, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Lampa</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Baquedano 824, Lampa, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Baquedano 824, Lampa, Santiago</address>
+			<Point><coordinates>-70.8782521,-33.2842917</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Tiltil</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Tiltil<br>DIRECCION: Arturo Prat 200, Tiltil, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Tiltil</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Arturo Prat 200, Tiltil, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Arturo Prat 200, Tiltil, Santiago</address>
+			<Point><coordinates>-70.9290594,-33.0852116</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Puente Alto</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Puente Alto<br>DIRECCION: Av. Concha y Toro 1820, Puente Alto, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Puente Alto</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Concha y Toro 1820, Puente Alto, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Concha y Toro 1820, Puente Alto, Santiago</address>
+			<Point><coordinates>-70.5796356,-33.5953261</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Pirque</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Pirque<br>DIRECCION: Av. Concha y Toro 02548, Pirque, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Pirque</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Concha y Toro 02548, Pirque, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Concha y Toro 02548, Pirque, Santiago</address>
+			<Point><coordinates>-70.5804515,-33.5878588</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de San José de Maipo</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de San José de Maipo<br>DIRECCION: Camino El Volcán 19775, San José de Maipo, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de San José de Maipo</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Camino El Volcán 19775, San José de Maipo, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Camino El Volcán 19775, San José de Maipo, Santiago</address>
+			<Point><coordinates>-70.3523529,-33.6348113</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de San Bernardo</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de San Bernardo<br>DIRECCION: Eyzaguirre 450, San Bernardo, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de San Bernardo</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Eyzaguirre 450, San Bernardo, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Eyzaguirre 450, San Bernardo, Santiago</address>
+			<Point><coordinates>-70.7052355,-33.5921995</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Calera de Tango</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Calera de Tango<br>DIRECCION: Av. Calera de Tango 345, Calera de Tango, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Calera de Tango</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Calera de Tango 345, Calera de Tango, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Calera de Tango 345, Calera de Tango, Santiago</address>
+			<Point><coordinates>-70.76165569999999,-33.6302291</coordinates></Point></Placemark>
+			<Placemark>
+				<name>lustre Municipalidad de Buin</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: lustre Municipalidad de Buin<br>DIRECCION: Carlos Condell 415, Buin, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>lustre Municipalidad de Buin</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Carlos Condell 415, Buin, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Carlos Condell 415, Buin, Santiago</address>
+			<Point><coordinates>-70.7414058,-33.7314104</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Paine</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Paine<br>DIRECCION: Av. General Baquedano 490, Paine, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Paine</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. General Baquedano 490, Paine, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. General Baquedano 490, Paine, Santiago</address>
+			<Point><coordinates>-70.742513,-33.8097369</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Talagante</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Talagante<br>DIRECCION: 21 de Mayo 875, Talagante, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Talagante</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>21 de Mayo 875, Talagante, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>21 de Mayo 875, Talagante, Santiago</address>
+			<Point><coordinates>-70.9298477,-33.6651524</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Isla de Maipo</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Isla de Maipo<br>DIRECCION: Alcalde David López 09, Isla de Maipo, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Isla de Maipo</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Alcalde David López 09, Isla de Maipo, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Alcalde David López 09, Isla de Maipo, Santiago</address>
+			<Point><coordinates>-70.89999999999999,-33.7464562</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de El Monte</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de El Monte<br>DIRECCION: Av. Los Libertadores 277, El Monte, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de El Monte</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Los Libertadores 277, El Monte, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Los Libertadores 277, El Monte, Santiago</address>
+			<Point><coordinates>-70.9790328,-33.6790701</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Padre Hurtado</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Padre Hurtado<br>DIRECCION: Camino a Melipilla 3295, Padre Hurtado, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Padre Hurtado</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Camino a Melipilla 3295, Padre Hurtado, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Camino a Melipilla 3295, Padre Hurtado, Santiago</address>
+			<Point><coordinates>-70.82268309999999,-33.5763041</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Peñaflor</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Peñaflor<br>DIRECCION: Alcalde Luis Araya Cereceda 1215, Peñaflor, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Peñaflor</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Alcalde Luis Araya Cereceda 1215, Peñaflor, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Alcalde Luis Araya Cereceda 1215, Peñaflor, Santiago</address>
+			<Point><coordinates>-70.8987302,-33.6064142</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Melipilla</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Melipilla<br>DIRECCION: Silva Chávez 480, Melipilla, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Melipilla</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Silva Chávez 480, Melipilla, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Silva Chávez 480, Melipilla, Santiago</address>
+			<Point><coordinates>-71.2166958,-33.6858284</coordinates></Point></Placemark>
+			<Placemark>
+				<name>lustre Municipalidad de María Pinto</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: lustre Municipalidad de María Pinto<br>DIRECCION: Av. 18 de Septiembre 78, María Pinto, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>lustre Municipalidad de María Pinto</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. 18 de Septiembre 78, María Pinto, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. 18 de Septiembre 78, María Pinto, Santiago</address>
+			<Point><coordinates>-71.0362742,-33.4908821</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Curacaví</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Curacaví<br>DIRECCION: Ambrosio O'Higgins 1305, Curacaví, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Curacaví</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Ambrosio O'Higgins 1305, Curacaví, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Ambrosio O'Higgins 1305, Curacaví, Santiago</address>
+			<Point><coordinates>-71.1365696,-33.4054101</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de San Pedro</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de San Pedro<br>DIRECCION: Av. Hermosilla 11, San Pedro, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de San Pedro</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Hermosilla 11, San Pedro, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Hermosilla 11, San Pedro, Santiago</address>
+			<Point><coordinates>-71.45986549999999,-33.8937794</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Alhué</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Alhué<br>DIRECCION: Pintor Onofre Jarpa 55, Alhué, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Alhué</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Pintor Onofre Jarpa 55, Alhué, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Pintor Onofre Jarpa 55, Alhué, Santiago</address>
+			<Point><coordinates>-71.0988823,-34.0317363</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Cerrillos</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Cerrillos<br>DIRECCION: Piloto Lazo 120, Cerrillo, Cerrillos, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Cerrillos</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Piloto Lazo 120, Cerrillo, Cerrillos, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Piloto Lazo 120, Cerrillo, Cerrillos, Santiago</address>
+			<Point><coordinates>-70.7031634,-33.4880599</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Cerro Navia</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Cerro Navia<br>DIRECCION: Av. Del Consistorial 6645, Cerro Navia, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Cerro Navia</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Del Consistorial 6645, Cerro Navia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Del Consistorial 6645, Cerro Navia, Santiago</address>
+			<Point><coordinates>-70.7288119,-33.4349427</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Conchalí</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Conchalí<br>DIRECCION: Av. Independencia 3499, Conchalí, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Conchalí</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Independencia 3499, Conchalí, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Independencia 3499, Conchalí, Santiago</address>
+			<Point><coordinates>-70.6714111,-33.3962524</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de El Bosque</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de El Bosque<br>DIRECCION: Alejandro Guzmán 735, El Bosque, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de El Bosque</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Alejandro Guzmán 735, El Bosque, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Alejandro Guzmán 735, El Bosque, Santiago</address>
+			<Point><coordinates>-70.6654898,-33.55590250000001</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Estación Central</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Estación Central<br>DIRECCION: Av. Alameda Libertador B. O'Higgins 3920, Estación Central, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Estación Central</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Alameda Libertador B. O'Higgins 3920, Estación Central, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Alameda Libertador B. O'Higgins 3920, Estación Central, Santiago</address>
+			<Point><coordinates>-70.6894745,-33.453687</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Huechuraba</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Huechuraba<br>DIRECCION: Premio Nobel 5555, Huechuraba, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Huechuraba</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Premio Nobel 5555, Huechuraba, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Premio Nobel 5555, Huechuraba, Santiago</address>
+			<Point><coordinates>-70.6352284,-33.3748602</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Independencia</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Independencia<br>DIRECCION: Av. Independencia 834, Independencia, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Independencia</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Independencia 834, Independencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Independencia 834, Independencia, Santiago</address>
+			<Point><coordinates>-70.6556951,-33.4213784</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de La Cisterna</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de La Cisterna<br>DIRECCION: Pedro Aguirre Cerda 0161, La Cisterna, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de La Cisterna</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Pedro Aguirre Cerda 0161, La Cisterna, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Pedro Aguirre Cerda 0161, La Cisterna, Santiago</address>
+			<Point><coordinates>-70.6655002,-33.5346977</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de La Florida</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de La Florida<br>DIRECCION: Av. Vicuña Mackenna 7210, La Florida, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de La Florida</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Vicuña Mackenna 7210, La Florida, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Vicuña Mackenna 7210, La Florida, Santiago</address>
+			<Point><coordinates>-70.60023869999999,-33.5199543</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de La Granja</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de La Granja<br>DIRECCION: Av. Américo Vespucio 002, Pard. 25 Santa Rosa, La Granja, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de La Granja</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Américo Vespucio 002, Pard. 25 Santa Rosa, La Granja, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Américo Vespucio 002, Pard. 25 Santa Rosa, La Granja, Santiago</address>
+			<Point><coordinates>-70.6335967,-33.5451505</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de La Pintana</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de La Pintana<br>DIRECCION: Santa Rosa 12975, La Pintana, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de La Pintana</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Santa Rosa 12975, La Pintana, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Santa Rosa 12975, La Pintana, Santiago</address>
+			<Point><coordinates>-70.6271008,-33.600082</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de La Reina</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de La Reina<br>DIRECCION: Av. Larraín 9925, La Reina, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de La Reina</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Larraín 9925, La Reina, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Larraín 9925, La Reina, Santiago</address>
+			<Point><coordinates>-70.5300134,-33.4525068</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Las Condes</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Las Condes<br>DIRECCION: Av. Apoquindo 3400, Las Condes, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Las Condes</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Apoquindo 3400, Las Condes, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Apoquindo 3400, Las Condes, Santiago</address>
+			<Point><coordinates>-70.5947481,-33.4161663</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Lo Barnechea</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Lo Barnechea<br>DIRECCION: Av. Las Condes 14891, Lo Barnechea, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Lo Barnechea</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Las Condes 14891, Lo Barnechea, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Las Condes 14891, Lo Barnechea, Santiago</address>
+			<Point><coordinates>-70.4939916,-33.3636736</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Lo Espejo</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Lo Espejo<br>DIRECCION: Centenario 02745, Lo Espejo, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Lo Espejo</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Centenario 02745, Lo Espejo, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Centenario 02745, Lo Espejo, Santiago</address>
+			<Point><coordinates>-70.6958824,-33.5332768</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Lo Prado</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Lo Prado<br>DIRECCION: Av. San Pablo 5959, Lo Prado, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Lo Prado</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. San Pablo 5959, Lo Prado, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. San Pablo 5959, Lo Prado, Santiago</address>
+			<Point><coordinates>-70.7186237,-33.4436531</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Macul</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Macul<br>DIRECCION: Av. Los Plátanos 3130, Macul, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Macul</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Los Plátanos 3130, Macul, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Los Plátanos 3130, Macul, Santiago</address>
+			<Point><coordinates>-70.60003979999999,-33.4821137</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Maipú</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Maipú<br>DIRECCION: Av. 5 de Abril 0260, Maipú, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Maipú</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. 5 de Abril 0260, Maipú, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. 5 de Abril 0260, Maipú, Santiago</address>
+			<Point><coordinates>-70.76055530000001,-33.5106925</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Ñuñoa</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Ñuñoa<br>DIRECCION: Av. Irarrazaval 3550, Ñuñoa, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Ñuñoa</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Irarrazaval 3550, Ñuñoa, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Irarrazaval 3550, Ñuñoa, Santiago</address>
+			<Point><coordinates>-70.5939089,-33.4552336</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Peñalolén</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Peñalolén<br>DIRECCION: Av. Grecia 8735, Peñalolén, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Peñalolén</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Grecia 8735, Peñalolén, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Grecia 8735, Peñalolén, Santiago</address>
+			<Point><coordinates>-70.541662,-33.476666</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Pedro Aguirre Cerda</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Pedro Aguirre Cerda<br>DIRECCION: Florencia 1996, Pedro Aguirre Cerda, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Pedro Aguirre Cerda</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Florencia 1996, Pedro Aguirre Cerda, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Florencia 1996, Pedro Aguirre Cerda, Santiago</address>
+			<Point><coordinates>-70.6634698,-33.487395</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Providencia</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Providencia<br>DIRECCION: Av. Pedro de Valdivia 963, Providencia, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Providencia</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Pedro de Valdivia 963, Providencia, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Pedro de Valdivia 963, Providencia, Santiago</address>
+			<Point><coordinates>-70.60956209999999,-33.4319203</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Pudahuel</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Pudahuel<br>DIRECCION: Av. San Pablo 8444, Pudahuel, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Pudahuel</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. San Pablo 8444, Pudahuel, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. San Pablo 8444, Pudahuel, Santiago</address>
+			<Point><coordinates>-70.7440057,-33.4456699</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Quilicura</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Quilicura<br>DIRECCION: José Francisco Vergara 450, Quilicura, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Quilicura</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>José Francisco Vergara 450, Quilicura, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>José Francisco Vergara 450, Quilicura, Santiago</address>
+			<Point><coordinates>-70.7311922,-33.368725</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Quinta Normal</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Quinta Normal<br>DIRECCION: Av. Carrascal 4447, Quinta Normal, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Quinta Normal</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Carrascal 4447, Quinta Normal, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Carrascal 4447, Quinta Normal, Santiago</address>
+			<Point><coordinates>-70.6943374,-33.422813</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Recoleta</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Recoleta<br>DIRECCION: Av. Recoleta 676, Recoleta, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Recoleta</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Recoleta 676, Recoleta, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Recoleta 676, Recoleta, Santiago</address>
+			<Point><coordinates>-70.6454734,-33.4241394</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Renca</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Renca<br>DIRECCION: Blanco Encalada 1335, Renca, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Renca</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Blanco Encalada 1335, Renca, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Blanco Encalada 1335, Renca, Santiago</address>
+			<Point><coordinates>-70.7045297,-33.4036361</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de San Joaquín</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de San Joaquín<br>DIRECCION: Av. Santa Rosa 2606, San Joaquín, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de San Joaquín</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Santa Rosa 2606, San Joaquín, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Santa Rosa 2606, San Joaquín, Santiago</address>
+			<Point><coordinates>-70.6415277,-33.4791771</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de San Miguel</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de San Miguel<br>DIRECCION: Av. Gran Avenida José Miguel Carrera 3418, San Miguel, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de San Miguel</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Gran Avenida José Miguel Carrera 3418, San Miguel, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Gran Avenida José Miguel Carrera 3418, San Miguel, Santiago</address>
+			<Point><coordinates>-70.6497074,-33.4858336</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de San Ramón</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de San Ramón<br>DIRECCION: Ossa 1771, San Ramón, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de San Ramón</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Ossa 1771, San Ramón, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Ossa 1771, San Ramón, Santiago</address>
+			<Point><coordinates>-70.6441603,-33.5424441</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Santiago</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Santiago<br>DIRECCION: Plaza de Armas s/n, Santiago, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Santiago</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Plaza de Armas s/n, Santiago, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Plaza de Armas s/n, Santiago, Santiago</address>
+			<Point><coordinates>-70.6504796,-33.4378439</coordinates></Point></Placemark>
+			<Placemark>
+				<name>Ilustre Municipalidad de Vitacura</name>
+				<description><![CDATA[PADRE: <br>ES_PLANIFICABLE: 1<br>NOMBRE UCE: DMUN<br>ESTADO: ACTIVO<br>NOMBRE: Ilustre Municipalidad de Vitacura<br>DIRECCION: Av. Bicentenario 3800, Vitacura, Santiago<br>Color: Azul]]></description>
+				<styleUrl>#icon-1899-0288D1</styleUrl>
+				<ExtendedData>
+					<Data name="PADRE">
+						<value/>
+					</Data>
+					<Data name="ES_PLANIFICABLE">
+						<value>1.0</value>
+					</Data>
+					<Data name="NOMBRE UCE">
+						<value>DMUN</value>
+					</Data>
+					<Data name="ESTADO">
+						<value>ACTIVO</value>
+					</Data>
+					<Data name="NOMBRE">
+						<value>Ilustre Municipalidad de Vitacura</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Av. Bicentenario 3800, Vitacura, Santiago</value>
+					</Data>
+					<Data name="Color">
+						<value>Azul</value>
+					</Data>
+				</ExtendedData>
+				<address>Av. Bicentenario 3800, Vitacura, Santiago</address>
+			<Point><coordinates>-70.6012971,-33.3985611</coordinates></Point></Placemark>
+		</Folder>
+		<Style id="icon-1899-0288D1-normal">
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/ms/icons/blue.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id="icon-1899-0288D1-highlight">
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/ms/icons/blue.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id="icon-1899-0288D1">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

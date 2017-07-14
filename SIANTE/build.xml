@@ -1,0 +1,41 @@
+<project name="SIANTE - Sistema de analisis territorial" default="dist">
+    <!-- Global properties -->
+    <property name="build.dir" value="build"/>
+    <property name="dist.dir" value="dist"/>
+    <property name="src.dir" value="src"/>
+    <property name="web.dir" value="WebContent"/>
+    <property name="lib.dir" value="${web.dir}/WEB-INF/lib"/>
+
+    <property name="env" value="develop"/>
+
+    <!-- Classpath -->
+    <!-- <path id="classpath">
+        <fileset dir="${lib.dir}" includes="**/*.jar" />
+    </path> -->
+
+    <!-- Public Targets -->
+    <target name="clean" description="Clean up">
+        <delete dir="${build.dir}"/>
+        <delete dir="${dist.dir}"/>
+    </target>
+
+    <target name="compile" description="Compile the source">
+        <mkdir dir="${build.dir}/classes"/>
+    </target>
+
+    <target name="dist" depends="compile" description="Generate the distribution">
+        <mkdir dir="${dist.dir}"/>
+
+        <war destfile="${dist.dir}/siante.war" needxmlfile='false'>
+            <fileset dir="${web.dir}" />
+            <classes dir="${build.dir}/classes"/>
+        </war>
+    </target>
+
+    <target name="dist-ear" depends="dist" description="Generate the EAR distribution">
+        <ear destfile="${dist.dir}/siante.ear" appxml="" >
+            <fileset dir="${dist.dir}" includes="*.war"/>
+        </ear>
+        <delete file="${dist.dir}/siante.war"/>
+    </target>
+</project>
