@@ -1,107 +1,90 @@
-# Siante
+# SIANTE
 
-Sistema de analisis territorial para procesamiento de información
+## Carcateristicas
 
-## Dependencias 
+- Funcional en plataforma JBOSS
 
-- [NodeJS](https://nodejs.org/en/download/)
-- SailsJS
+## Dependencias
+
+- Jboss 6.4
+
+## Eclipse plugins
+
+- JBoss
 
 ## Configuración
 
-- Instalar SailsJS
+Por defecto *Apache Ant* generará los archivos de configuración para el ambiente de desarrollo (develop). Para especificar el ambiente debemos enviarlo por el parámetro `env`. Esto será ejemplificado en la sección [Distribuir](#Distribuir).
 
-  ```bash
-  $ npm instal -g sails
-  ```
- 
-- Clonar repositorio
+## Desarrollo en Eclipse
 
-  ```bash
-  $ git clone http://192.168.105.62:8070/teamlengthle4/SIANTE.git
-  $ cd SIANTE
-  ```
+- Crear un Proyecto EAR que contenga el proyecto
+- Crear un Servidor JBoss 6.1+
+- Agregar el proyecto EAR al servidor creado
+- Enjoy!
 
-- Instalar dependecias del proyecto
+## Compilación y distribución
 
-  ```bash
-  $ npm install
-  ```
-  
-## Despliegue
-  
-### Desarrollo
+Para la compilación y distribución se utiliza la herramienta [Apache Ant](http://ant.apache.org/).
 
-  ```bash
-  $ sails lift
-  ```
+### Instalar Apache Ant
 
-Go [http://localhost:1337](http://localhost:1337)
-  
-### Testing
+- Linux
+   
+   ```bash
+   $ sudo apt-get install ant
+   ```
 
-- Acceder al servidor animus
+### Uso
 
-  ```bash
-  $ ssh <your-user>@192.168.105.62
-  ```
+```bash
+$ ant -p
+Buildfile: /home/sgonzalezvi/git/sisgeob-chilecompra/build.xml
 
-- Entrar al directorio del aplicativo
+Main targets:
 
-  ```bash
-  $ cd /opt/apps/SIANTE
-  ```
-- Logearse como super usuario
+ clean     Clean up
+ compile   Compile the source
+ dist      Generate the distribution
+ dist-ear  Generate the EAR distribution
+Default target: dist
 
-  ```bash
-  $ sudo su
-  ```
-  
-- Bajar aplicación a travez del pid
+```
 
-  ```bash
-  $# forever list
-  info:    Forever processes running
-  data:        uid  command       script        forever pid   id logfile                 uptime
-  data:    [0] UD8F /usr/bin/node app.js --prod 31309   31322    /root/.forever/UD8F.log 0:0:8:33.133
-  $# forever stop 15144
-  ```
+### Distribuir
 
-- Descargar los últimos cambios
+#### Desarrollo
 
-  ```bash
-  $# git pull origin master
-  ```
-  
-- Subir aplicación
+```bash
+$ ant dist
+$ ll dist 
+total 63M
+-rw-rw-r-- 1 sgonzalezvi sgonzalezvi 63M jul  5 17:34 sisgeob-chilecompra.war
+```
 
-  ```bash
-  $# forever start app.js --prod
-  ```
-  
-- Go [http://testing.contraloria.cl/cartografia/](http://testing.contraloria.cl/cartografia/)
-- ¿Ver log?
- 
-  ```bash
-  $# forever logs app.js -f
-  data:    app.js:31322 -                .-..-.
-  data:    app.js:31322 -    Sails              <|    .-..-.
-  data:    app.js:31322 -    v0.11.5             |\
-  data:    app.js:31322 -                       /|.\
-  data:    app.js:31322 -                      / || \
-  data:    app.js:31322 -                    ,'  |'  \
-  data:    app.js:31322 -                 .-'.-==|/_--'
-  data:    app.js:31322 -                 `--'-------'
-  data:    app.js:31322 -    __---___--___---___--___---___--___
-  data:    app.js:31322 -  ____---___--___---___--___---___--___-__
-  data:    app.js:31322 - Server lifted in `/opt/apps/SIANTE`
-  data:    app.js:31322 - To see your app, visit http://localhost
-  data:    app.js:31322 - To shut down Sails, press <CTRL> + C at any time.
-  data:    app.js:31322 - --------------------------------------------------------
-  data:    app.js:31322 - :: Fri Jun 30 2017 16:09:20 GMT-0400 (-04)
-  data:    app.js:31322 - Environment : production
-  data:    app.js:31322 - Port        : 80
-  data:    app.js:31322 - --------------------------------------------------------
-  ```
-  
-![https://media.giphy.com/media/l0Exi8cyEMxc3OGFa/giphy.gif](https://media.giphy.com/media/l0Exi8cyEMxc3OGFa/giphy.gif)
+#### Testing
+
+```bash
+$ ant dist
+$ ll dist 
+total 63M
+-rw-rw-r-- 1 sgonzalezvi sgonzalezvi 63M jul  5 17:34 sisgeob-chilecompra.war
+```
+
+#### Producción
+
+```bash
+$ ant dist -Denv=production
+$ ll dist 
+total 63M
+-rw-rw-r-- 1 sgonzalezvi sgonzalezvi 63M jul  5 17:34 sisgeob-chilecompra.war
+```
+
+#### EAR
+
+```bash
+$ ant dist-ear
+$ ll dist 
+total 63M
+-rw-rw-r-- 1 sgonzalezvi sgonzalezvi 63M jul  5 17:35 sisgeob-chilecompra.ear
+```
