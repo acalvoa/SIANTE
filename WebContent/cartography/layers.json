@@ -38,5 +38,9 @@
     {
         "LINK": "layers/locales_con_patentes_independencia.kml",
         "NAME": "Locales con Patentes - Independencia"
+    },
+    {
+        "LINK": "layers/antenas_moviles.kml",
+        "NAME": "Antenas telefonía móvil"
     }
 ]
