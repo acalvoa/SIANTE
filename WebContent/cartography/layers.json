@@ -42,5 +42,9 @@
     {
         "LINK": "layers/antenas_moviles.kml",
         "NAME": "Antenas telefonía móvil"
+    },
+    {
+        "LINK": "layers/restriccion_prohibicion_acuiferos.kml",
+        "NAME": "Restricción y prohibición Acuiferos"
     }
 ]
