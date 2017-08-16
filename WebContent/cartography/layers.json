@@ -50,5 +50,9 @@
     {
         "LINK": "layers/zonas_conservacion_historica.kml",
         "NAME": "Zonas de conservación histórica"
+    },
+    {
+        "LINK": "layers/integra.kml",
+        "NAME": "Jardines infantiles Fundación Integra"
     }
 ]
