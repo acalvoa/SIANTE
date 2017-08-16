@@ -46,5 +46,9 @@
     {
         "LINK": "layers/restriccion_prohibicion_acuiferos.kml",
         "NAME": "Restricción y prohibición Acuiferos"
+    },
+    {
+        "LINK": "layers/zonas_conservacion_historica.kml",
+        "NAME": "Zonas de conservación histórica"
     }
 ]
