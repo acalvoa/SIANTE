@@ -121,9 +121,19 @@
                 //LEYENDA.set(_SETTINGS.SCALE);
             },
             hide: function(){
-                var placemarks = _SETTINGS.DATA.docs[0].markers
-                for(k=0;k<placemarks.length;k++){
-                    placemarks[k].setMap(null);
+                var placemarks = _SETTINGS.DATA.docs[0].markers;
+                var gpolygons = _SETTINGS.DATA.docs[0].gpolygons;
+
+                if(placemarks != undefined) {
+                    for(k=0; k<placemarks.length; k++){
+                        placemarks[k].setMap(null);
+                    }
+                }
+                
+                if(gpolygons != undefined) {
+                    for(k=0; k<gpolygons.length; k++){
+                        gpolygons[k].setMap(null);
+                    }
                 }
             },
             PROPS: {

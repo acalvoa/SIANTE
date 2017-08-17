@@ -42,5 +42,21 @@
     {
         "LINK": "layers/antenas_moviles.kml",
         "NAME": "Antenas telefonía móvil"
+    },
+    {
+        "LINK": "layers/restriccion_prohibicion_acuiferos.kml",
+        "NAME": "Restricción y prohibición Acuíferos"
+    },
+    {
+        "LINK": "layers/zonas_conservacion_historica.kml",
+        "NAME": "Zonas de conservación histórica"
+    },
+    {
+        "LINK": "layers/integra.kml",
+        "NAME": "Jardines infantiles Fundación Integra"
+    },
+    {
+        "LINK": "layers/junji.kml",
+        "NAME": "Jardines infantiles Junji"
     }
 ]
