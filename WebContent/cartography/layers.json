@@ -54,5 +54,9 @@
     {
         "LINK": "layers/integra.kml",
         "NAME": "Jardines infantiles Fundación Integra"
+    },
+    {
+        "LINK": "layers/junji.kml",
+        "NAME": "Jardines infantiles Junji"
     }
 ]
