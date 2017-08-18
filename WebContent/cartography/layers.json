@@ -47,10 +47,10 @@
         "LINK": "layers/restriccion_prohibicion_acuiferos.kml",
         "NAME": "Restricción y prohibición Acuíferos",
         "LEYEND": {
-            "Zona de Prohibicion": {
+            "Zona de Prohibición": {
                 "color": "#FB4A49"
             },
-            "Area de Restriccion": {
+            "Area de Restricción": {
                 "color": "#FBD749"
             }
         }
