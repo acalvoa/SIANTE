@@ -7,7 +7,8 @@
             STACK: [],
             CATEGORY:[],
             SCALE: ["#ffff00","#ffff00","#66ccff","#9966ff","#3366ff","#0000cc","#248f24","#cc0000","#0099cc","#006666","#993366"],
-            DATA: null
+            DATA: null,
+            LEYEND: null
         };
 
         var _VARS = {};
@@ -22,6 +23,7 @@
 
             _PUBLIC.PROPS.NAME = ARGS.NAME;
             _PUBLIC.PROPS.LINK = ARGS.LINK;
+            _PUBLIC.PROPS.LEYEND = ARGS.LEYEND;
             _PUBLIC.PROPS.ID = ARGS.ID;
         }
         // AUXILIARIA METHOD
@@ -117,8 +119,13 @@
                 _SETTINGS.DATA = MAP.load_kml(_PUBLIC.PROPS.LINK, {
                     map:$("div[cartography]").attr("map-target")
                 });
-                //LEYENDA.load("Leyenda - Servicios Publicos");
-                //LEYENDA.set(_SETTINGS.SCALE);
+
+                if(_PUBLIC.PROPS.LEYEND != undefined) {
+                    _SETTINGS.LEYEND = LEYENDA.load(_PUBLIC.PROPS.NAME);
+                    _SETTINGS.LEYEND.set(_PUBLIC.PROPS.LEYEND);
+                    _SETTINGS.LEYEND.show();
+                }
+                
             },
             hide: function(){
                 var placemarks = _SETTINGS.DATA.docs[0].markers;
@@ -135,10 +142,12 @@
                         gpolygons[k].setMap(null);
                     }
                 }
+                _SETTINGS.LEYEND.remove();
             },
             PROPS: {
                 NAME: null,
                 LINK: null,
+                LEYEND: null,
                 ID: null
             }
         };
