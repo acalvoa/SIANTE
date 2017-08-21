@@ -1,7 +1,9 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
   <head>
-    <title>SIANTE - Sistema de analisis territorial</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>SIANTE - Sistema de análisis territorial</title>
 
     <!-- Viewport mobile tag for sensible mobile support -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -142,8 +144,12 @@
                 </div>
             </div>
             <app name="leyend" leyend="Leyenda" button><i class="fa fa-info-circle"></i></app>
-            <div title>Leyenda - Sin capa de analisis</div>
-            <div body></div>
+            <div prototypeleyend>
+                <div leyend-box>
+                    <div title>Leyenda - Sin capa de análisis</div>
+                    <div body></div>
+                </div>
+            </div>
         </div>
     </div>
 
