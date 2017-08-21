@@ -7,11 +7,14 @@
     <property name="lib.dir" value="${web.dir}/WEB-INF/lib"/>
 
     <property name="env" value="develop"/>
+    
 
-    <!-- Classpath -->
-    <!-- <path id="classpath">
-        <fileset dir="${lib.dir}" includes="**/*.jar" />
-    </path> -->
+    <!-- Private Targets -->
+    <target name="getVersion">
+        <loadfile property="version_file" srcfile="VERSION" failonerror="false"/>
+        <property name="version" value="${version_file}"/>
+        <echo>Version: ${version_file}</echo>
+    </target>
 
     <!-- Public Targets -->
     <target name="clean" description="Clean up">
@@ -32,8 +35,9 @@
         </war>
     </target>
 
-    <target name="dist-ear" depends="dist" description="Generate the EAR distribution">
-        <ear destfile="${dist.dir}/siante.ear" appxml="" >
+    <target name="dist-ear" depends="dist, getVersion" description="Generate the EAR distribution">
+        <!-- Cuando se implemente el backend hay que agregar el atributo appxml y quitar update-->
+        <ear destfile="${dist.dir}/siante-${version}.ear" update="true">
             <fileset dir="${dist.dir}" includes="*.war"/>
         </ear>
         <delete file="${dist.dir}/siante.war"/>
