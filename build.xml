@@ -29,15 +29,14 @@
     <target name="dist" depends="compile" description="Generate the distribution">
         <mkdir dir="${dist.dir}"/>
 
-        <war destfile="${dist.dir}/siante.war" needxmlfile='false'>
+        <war destfile="${dist.dir}/siante.war" webxml="${web.dir}/WEB-INF/web.xml">
             <fileset dir="${web.dir}" />
             <classes dir="${build.dir}/classes"/>
         </war>
     </target>
 
     <target name="dist-ear" depends="dist, getVersion" description="Generate the EAR distribution">
-        <!-- Cuando se implemente el backend hay que agregar el atributo appxml y quitar update-->
-        <ear destfile="${dist.dir}/siante-${version}.ear" update="true">
+        <ear destfile="${dist.dir}/siante-${version}.ear" appxml="${web.dir}/META-INF/application.xml">
             <fileset dir="${dist.dir}" includes="*.war"/>
         </ear>
         <delete file="${dist.dir}/siante.war"/>
